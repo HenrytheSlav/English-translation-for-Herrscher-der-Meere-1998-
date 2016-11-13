@@ -1,32 +1,32 @@
 
 [01.Ware]
-Fisch
+Fish
 [02.Ware]
-Bier
+Beer
 [03.Ware]
-Eisen
+Steel
 [04.Ware]
-Wolle
+Wool
 [05.Ware]
-Leinen
+Linen
 [06.Ware]
-Wein
+Wine
 [07.Ware]
-Hanf
+Ropes
 [08.Ware]
-Bauholz
+Timber
 [10.Ware]
-Getreide
+Grain
 [12.Ware]
-LuxusgÅter
+Luxury Goods
 [13.Ware]
-Salz
+Salt
 [15.Ware]
-Fleisch
+Meat
 [09.Ware]
-Edelmetall
+Precious Metals
 [14.Ware]
-HÑute
+Furs
 [11.Ware]
-Waffen
+Weapons
 [End]

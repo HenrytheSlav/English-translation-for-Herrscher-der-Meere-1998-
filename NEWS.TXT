@@ -1,12 +1,12 @@
 
 [technologischer Fortschritt]
-Staatswerft
+City port
 [Technologie]
 Der technologische Fort|schritt im
 Schiffs|bau er|reicht Stufe #.
 [Ueberfall]
-Es fand ein ver|heerender An|griff
-durch Ein|ge|borene statt.
+It was a deva|stating At|tack
+by the Na|ti|ves.
 [Epidemie]
 Ihre Kolonie wurde von einer
 Krank|heits|epidemie heim|gesucht.

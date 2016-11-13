@@ -10,7 +10,7 @@ Bristol
 [Brugges]
 Brugges
 [Kopenhagen]
-Kopenhagen
+Copenhagen
 [Dublin]
 Dublin
 [Edinburgh]

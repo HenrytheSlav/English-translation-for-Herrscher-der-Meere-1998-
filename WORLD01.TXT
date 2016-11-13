@@ -28,13 +28,13 @@ Kalikut
 [Kalkutta]
 Kalkutta
 [Kapstadt]
-Kapstadt
+Cape City
 [Kristiania]
 Kristiania
 [Lima]
 Lima
 [Lissabon]
-Lissabon
+Lisabon
 [Loanda]
 Loanda
 [London]
@@ -52,11 +52,11 @@ Mombasa
 [Nantes]
 Nantes
 [Neapel]
-Neapel
+Naples
 [Neu Albion]
-Neu Albion
+New Albion
 [Neufundland]
-Neufundland
+Newfoundland
 [Ochotsk]
 Ochotsk
 [Ormuz]

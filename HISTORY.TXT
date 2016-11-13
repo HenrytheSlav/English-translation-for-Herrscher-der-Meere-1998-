@@ -1,35 +1,38 @@
 
 [Das Jahr]
-Chronik aus dem Jahr #
+Chronicle from Year #
 [bis 1550]
-Entdeckungen bis 1540
+Discoveries until 1540
 [Vorgeschichte]
-1419 Die Madeiragruppe wird
-     entdeckt
-1445 Kap Verde wird entdeckt.
-1482 Die Kongo-MÅndung wird
-     erreicht.
-1487 Bartolomeu Diaz umsegelt die
-     SÅdspitze Afrikas.
-1492 Kolumbus entdeckt die
-     Karibikinseln (Amerika).
-1497 J. Cabot entdeckt Neufundland.
-1498 Vasco da Gama entdeckt den
-     Seeweg nach Indien.
-1500 Cabral entdeckt Brasilien.
-1509 Sebastian Cabot erreicht die
+1419 Madeira archipelago was
+     discovered. 
+1445 Cape Verde islands were
+     discovered.
+1482 The Kongo-MÅndung was
+     reached.
+1487 Bartolomeu Diaz circum-
+     navigated the southern
+     tip of Africa.
+1492 Kolumbus discovers the
+     Caribbean islands (America).
+1497 J. Cabot discovers Newfoundland.
+1498 Vasco da Gama discovers the
+     Sea route to India.
+1500 Cabral discovers Brazil.
+1509 Sebastian Cabot reaches the
      Hudson-Stra·e.
-1513 Balboa erreicht den Stillen
-     Ozean.
-1518 Die Spanier unter Cortez
-     erobern Mexico.
-1519 Magellan unternimmt die erste
-     Weltumsegelung.
-1531 Die Spanier unter Pizarro
-     erobern Peru.
-1535 Cartier segelt den St. Lorenz-
+1513 Balboa reaches the Pacific
+     Ocean.
+1518 The Spanier under Cortez
+     coqnuer Mexico.
+1519 Magellan becomes the first 
+     person to circumnavigate
+     the World.
+1531 The Spanish under Pizarro
+     conquer Peru.
+1535 Cartier sails the St. Lorenz-
      Strom hinauf.
-1536 Quesada erobert Kolumbien.
+1536 Quesada conquers Colombia.
 [09.1540]
 Ein Ge|schwa|der von 16 Schiffen der
 Bar|ba|res|ken aus Algier plÅndert die

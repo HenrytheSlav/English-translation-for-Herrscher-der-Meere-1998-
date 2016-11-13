@@ -10,37 +10,37 @@ Protektion
 [Info]
 Info
 [Festung]
-Festung
+Fort
 [Brigg]
-Brigg
+Brig
 [Korvette]
-Korvette
+Corvette
 [Fregatte]
-Fregatte
+Frigate
 [Fleute]
-Fleute
+Flute
 [Galeone]
-Galeone
+Galleon
 [Werft]
-Werft
+Shipyard
 [Makler]
 Stadtansicht
 [Flotte]
-Flotte
+Convoy
 [Hafen]
-Hafen
+City
 [weiter]
-und los !
+forward !
 [Hauptmenue]
-StartmenÅ
+Main Menu
 [SpielSpeichern]
-Spiel speichern
+Save Game
 [Vertraege]
 VertrÑge & Protektionen
 [Spielzieldiagramm]
 Spielzieldiagramm
 [Spielerstatistik]
-Spielerstatistik
+Player Statistics
 [Gefechtsstatistik]
 Gefechtsstatistik
 [Ausruesten1]
@@ -50,13 +50,13 @@ automatisch AusrÅsten
 [Kanonengroesse1]
 Kanonengrî·e Ñndern
 [SchiffVerkaufen]
-Schiff verkaufen
+Ships sold
 [Ausruesten3]
 automatisch AusrÅsten
 [Kanonengroesse2]
-Kanonengrî·e Ñndern
+Change Cannons Calibre
 [FestungAbreissen]
-Festung abrei·en
+Burn down the Fort
 [SpielLoeschen1]
 Spielstand lîschen
 [SpielLoeschen2]
@@ -64,45 +64,45 @@ Spielstand lîschen
 [SpielLoeschen3]
 Spielstand lîschen
 [RouteSetzen]
-Route setzen
+Set the route
 [Ankern]
-ankern
+anchor
 [Ausguck]
 Ausguck
 [Angriff]
 Angriff
 [Produktionsstaetten]
-ProduktionsstÑtten
+Production Costs
 [Werft2]
 Werften
 [Hafenoberflaeche1]
-Hafen
+City
 [Aufgeben]
 aufgeben
 [Windrichtung]
 Windrichtung
 [ProdInfo]
-Info zur Produktion
+Info about Production
 [Prod]
-ProduktionsstÑtte errichten
+Production Building
 [Flottentransfer]
-Flottentransfer
+Convoy Transfer
 [Hafenoberflaeche2]
-Hafen
+City
 [Herstellung]
-Angebot
+Produced
 [Nachfrage]
 Nachfrage
 [b: cpu battle]
-Computerkampf
+Autobattle
 [b: cap]
 Waffenstillstand
 [b: speedup]
-schneller
+faster
 [b: speeddown]
-langsamer
+slower
 [b: speed]
-Spielgeschwindigkeit
+Speed
 [b: windrose]
 Windrose
 [InHafen]
@@ -112,11 +112,11 @@ Hafen îffnen
 [Hafengebuehr]
 HafengebÅhr
 [GebaeudeAbreissen]
-ProduktionsstÑtte abrei·en
+Burn it down!
 [FestungAusbauen]
-Festung ausbauen
+Expand the Fort
 [FestungReparieren]
-Festung reparieren
+Repair the Fort
 [VertFrieden]
 Friedensvertrag
 [VertHandel]
@@ -124,11 +124,11 @@ Handelsvertrag
 [VertKooperation]
 Kooperationsvertrag
 [Steuerrad]
-Zeitsteuerung
+Sail on !
 [BezLand]
-Name (editierbar)
+Name (edit)
 [Flottenname]
-Flottenname (editierbar)
+Convoy Name (edit)
 [Hafenverteidigung1]
 Flotte wÑhlen
 [Hafenverteidigung2]
@@ -154,13 +154,13 @@ aufgestellte Kanonen
 [Proviant1]
 Proviant
 [Matrosen2]
-Matrosen umverteilen
+Distribute Crew
 [Proviant2]
-Proviant umverteilen
+Distribute Proviant
 [Kanonenkugeln]
-Munition umverteilen
+Distribute Munition
 [Startmenue]
-
+Main Menu
 [Spieleroberflaeche]
 
 [Infoscreen]
@@ -174,7 +174,7 @@ Munition umverteilen
 [Transfer]
 
 [Kontor]
-
+Merchant
 [Titelleiste]
 
 [NeuesSpiel]
@@ -194,11 +194,11 @@ Munition umverteilen
 [Optionstafel]
 
 [Optionen]
-Spieleinstellungen
+Options
 [Mission]
-Mission
+Missions
 [Flottenwechsel]
-Schiff Åberstellen
+Tranfer Ship
 [Schiffversenken]
 Schiff versenken
 [Missionstafel]
@@ -232,31 +232,31 @@ Seite nach oben
 [OnlinePageDown]
 Seite nach unten
 [MannschaftInc]
-Mannschaft anheuern
+Hire Men
 [MannschaftDec]
-Mannschaft entlassen
+Dismiss Men
 [ProviantInc]
 Wochenproviant kaufen
 [ProviantDec]
 Wochenproviant verkaufen
 [KanonenkugelnInc]
-Munition kaufen
+Buy Munition
 [KanonenkugelnDec]
-Munition verkaufen
+Sell Munition
 [KanonenanzahlInc]
-Kanonen kaufen
+Buy Cannons
 [KanonenanzahlDec]
-Kanonen verkaufen
+Sell Cannons
 [FlottenWareInc]
 nÑchste Ware
 [FlottenWareDec]
 vorherige Ware
 [FlottenAuftrag]
-Flottenauftrag Ñndern
+Change Convoy Task
 [FestungsbesatzungInc]
-BesatzungsstÑrke erhîhen
+Hire Soldiers
 [FestungsbesatzungDec]
-BesatzungsstÑrke verringern
+Dismiss Soldiers
 [HafengebuehrInc]
 HafengebÅhr erhîhen
 [HafengebuehrDec]
@@ -266,13 +266,13 @@ SpielstÑnde vorblÑttern
 [SpielstandDec]
 SpielstÑnde zurÅckblÑttern
 [Kontorgebaeude]
-Kontor
+Merchant
 [v_erhoehen]
-Geschwindigkeit erhîhen
+Increase speed
 [v_verringern]
-Geschwindigkeit verringern
+Decrease speed
 [Name_aendern]
-Name Ñndern
+Change Name
 [Protektion_erhoehen]
 Protektion erhîhen
 [Protektion_verringern]
@@ -282,9 +282,9 @@ nÑchste Flotte
 [vorherige_Flotte]
 vorherige Flotte
 [Waren_verladen]
-Waren verladen
+Move Cargo
 [AuftragWerft]
-Auftrag erteilen/stoppen
+Start/Stop Construction
 [Lautstaerke_aendern]
 LautstÑrke Ñndern
 [Mausklicks_aendern]
@@ -292,21 +292,21 @@ Mausklicks Ñndern
 [Ticken_aendern]
 Ticken der Uhr Ñndern
 [Spielerart_aendern]
-Spielerart Ñndern
+Change Player
 [Spielziel_aendern]
-Spielziel Ñndern
+Change Objective
 [Level_aendern]
-Level Ñndern
+Change Level
 [Wert_aendern]
-Wert Ñndern
+Change Wert
 [Jahr_aendern]
-Startjahr Ñndern
+Change Startyear
 [Karte_aendern]
-Weltkarte Ñndern
+Change Map
 [Startseite]
 Startseite
 [Zurueck]
-ZurÅck
+Back
 [Objekt_wechseln]
 Objekt wechseln
 [Hafen_sperren]

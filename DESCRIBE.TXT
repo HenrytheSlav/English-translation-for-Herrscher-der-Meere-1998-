@@ -1,30 +1,30 @@
 
 [Arbeiter]
-Arbeiter
+Worker
 [Produktion]
-Produktivit„t
+Productivity
 [Prodkosten]
-Kosten
+Price
 [pro Monat]
-/Monat
+/Month
 [Erklaerung Schiffsdaten]
-Besatzungsst„rke:
-Kanonenanzahl:
-Ladekapazit„t:
+Crew:
+Number of cannons:
+Cargo Capacity:
 Geschwindigkeit:
 max. Leckanzahl:
 [Mann]
-Mann
+Men
 [Kanonen]
-Kanonen
+Cannons
 [Tonnen]
-Tonnen
+Tons
 [sm/h]
 sm/h
 [Lecks]
 Lecks
 [Die Brigg]
-Die Brigg
+Brig
 [Erklaerung Brigg]
 Bri|gan|ti|nen, Schnau|en und Briggs sind zwei|ma|sti|ge
 Schif|fe mit Rah|take|lung. Sie die|nen vor al|lem als
@@ -33,9 +33,9 @@ wer|den auch fr die Auf|kl„|rung im klei|ne|ren Ra|
 dius ein|ge|setzt. Sie sind be|son|ders we|gen ihr|er
 Wen|dig|keit und Schnel|lig|keit be|liebt.
 [Die Korvette]
-Die Korvette
+Corvette
 [Erklaerung Korvette]
-Kor|vet|ten sind mehr oder we|ni|ger klei|ne|re Fre|gat|
+Kor|ve|tte sind mehr oder we|ni|ger klei|ne|re Fre|gat|
 ten. Trotz ih|rer et|was ge|ring|er|en Gr”|áe, sind sie
 voll kriegs|taug|lich. Sie k”n|nen fr Auf|kl„|rungs-,
 Ku|rier-, Be|wa|chungs- und Be|gleit|auf|ga|ben ein|ge|
@@ -44,7 +44,7 @@ sich die ka|pi|ta|lis|tisch|en M„ch|te be|die|nen, um
 ih|re ko|lo|ni|a|len Er|o|be|rung|en durch|zu|fh|ren
 und aus|zu|wei|ten.
 [Die Fregatte]
-Die Fregatte
+Frigate
 [Erklaerung Fregatte]
 Fre|gat|ten wer|den be|vor|zugt fr das Ge|lei|ten von
 Han|dels|schif|fen und fr die Ver|fol|gung und Auf|
@@ -55,7 +55,7 @@ zur Ein|schch|te|rung und Nie|der|hal|tung ko|lo|ni|al
 un|ter|drck|ter V”l|ker und fr die Be|k„mp|fung von
 Pi|ra|ten.
 [Die Fleute]
-Die Fleute
+Flute
 [Erklaerung Fleute]
 Die von den hol|l„n|di|schen Schiffs|bau|mei|stern ent|
 wi|ckel|te Fleu|te ist im Un|ter|schied zur Ga|le|o|ne
@@ -65,7 +65,7 @@ zum Auf|stieg der hol|l„n|di|schen See|fahrt bei. Sie
 gilt in al|len eu|ro|p„|ischen Schiffs|werf|ten als
 Vor|bild fr den Bau von Han|dels|schif|fen.
 [Die Galeone]
-Die Galeone
+Galleon
 [Erklaerung Galeone]
 Ga|le|o|nen gel|ten als wehr|haf|te Han|dels- und
 Kriegs|schif|fe. Sie wer|den von den Spa|ni|ern
@@ -76,7 +76,7 @@ Ga|le|o|nen, die, als gut be|st|ckte Han|dels|seg|ler
 und in klei|nen Flot|ten zu|sam|men|ge|faát, kei|nen
 Geg|ner zu frch|ten brau|chen.
 [Produktivitaet]
-Produktivit„t
+Productivity
 [Baukosten]
-Baukosten
+Build Cost
 [End]

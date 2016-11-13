@@ -34,17 +34,17 @@ Verteidigen
 [Beobachtung]
 Beobachtung
 [ship successful]
-erfolgreich
+successful
 [ship sinked]
-gesunken
+sinked
 [ship damage]
-besch„digt
+damaged
 [sailors demoralisiert]
-demoralisiert
+demoralised
 [ship has no sailors]
-unterbesetzt
+abandoned
 [ship escaped]
-geflohen
+escaped
 [AUSWERTUNG]
 AUSWERTUNG
 [Hafen nicht besiegt]
@@ -64,19 +64,17 @@ digung des Hafens herangezogen.
 In diesem Hafen gibt es
 keine Festung.
 [gamespeed]
-Spielgeschwindigkeit
+Game speed
 [ship on sandbank]
 aufgelaufen
 [fleet has won]
-Ihre Flotte war sieg|reich.
+Your fleet was vic|to|ri|ous.
 [fleet has lost]
-Ihre Flotte unterlag dem Gegner.
+Your fleet was de|feat|ed.
 [harbour has won]
-Die Festung hat sich er|folg|reich
-zur wehr ge|setzt.
+The Fort stands vic|to|ri|ous.
 [harbour has lost]
-Ihre Festung konnte den Angriff
-nicht ab|wehren.
+The Fort has fall|en.
 [fort booty]
 Ihnen fallen # Waren in die
 Hand, die in Ihr Lager trans|por|
@@ -85,6 +83,5 @@ tiert werden.
 Ihre Flotte konnte den Hafen er|
 folg|reich einnehmen.
 [your fleet has escaped]
-Ihre Flotte konnte dem Gegner
-ent|kommen.
+Your fleet has ma|na|ged to es|cape!
 [End]

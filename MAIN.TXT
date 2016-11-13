@@ -1,60 +1,60 @@
 
 [InitMusic]
-Initialisiere Soundsystem
+Initialise Soundsystem
 [ja]
-Ja
+Yes
 [nein]
-Nein
+No
 [ok]
 OK
 [An]
-an
+on
 [Aus]
-aus
+off
 [Tempo]
-Tempo
+Speed
 [Ladung]
-Ladung
+Cargo
 [Schaeden]
-SchÑden
+Damage
 [Ausbau]
 Ausbau
 [Manuelleflotte]
-kein Auftrag
+No Task
 [Entdeckungsflotte]
-Entdecker
+Explorer
 [Handelsflotte]
-Handelsflotte
+Trade Convoy
 [Kriegsflotte]
-Kriegsflotte
+War Convoy
 [Kaperflotte]
-Kaperflotte
+Privateers
 [Piraterie]
-Piratenflotte
+Pirate Convoy
 [Patrouille]
-Patrouille
+Patrol
 [fremde Flotte]
-Flotte
+Convoy
 [1.Schiffstyp]
-Brigg
+Brig
 [2.Schiffstyp]
-Korvette
+Corvette
 [3.Schiffstyp]
-Fregatte
+Frigate
 [4.Schiffstyp]
-Fleute
+Flute
 [5.Schiffstyp]
-Galeone
+Galleon
 [Jan]
 Jan
 [Feb]
 Feb
 [Mar]
-MÑr
+Mar
 [Apr]
 Apr
 [Mai kurz]
-Mai
+May
 [Jun]
 Jun
 [Jul]
@@ -64,209 +64,209 @@ Aug
 [Sep]
 Sep
 [Okt]
-Okt
+Oct
 [Nov]
 Nov
 [Dez]
-Dez
+Dec
 [Januar]
-Januar
+January
 [Februar]
-Februar
+February
 [Maerz]
-MÑrz
+March
 [April]
 April
 [Mai]
-Mai
+May
 [Juni]
-Juni
+June
 [Juli]
-Juli
+July
 [August]
 August
 [September]
 September
 [Oktober]
-Oktober
+October
 [November]
 November
 [Dezember]
-Dezember
+December
 [Werft]
-Werft
+Shipyard
 [Einkauf]
-Einkauf
+Buy
 [Verkauf]
-Verkauf
+Sell
 [Flotte]
-Flotte
+Convoy
 [Prise]
-Prise
+Prize
 [neue Flotte]
-neue Flotte
+New Convoy
 [Kapital]
-Kapital
+Capital
 [Schiffe]
-Schiffe
+Ships
 [Haefen]
-HÑfen
+Cities
 [Hafen]
-Hafen
+City
 [Million]
-Mio.
+Mil.
 [Punkte]
-Pkt
+Pts
 [Besitz]
-Vermîgen
+Wealth
 [Karte0]
-Weltkarte
+World Map
 [Karte2]
 Fantasy
 [Prodstaetten]
-ProduktionsstÑtten
+Production
 [max.]
 max.
 [Lecks]
-Lecks
+Leaks
 [sm/h]
 smh
 [Warnung]
-Hinweis
+Hint
 [Hilfe]
-Hilfe
+Help
 [kein Eintrag]
-kein Eintrag
+No Entry
 [Makler]
-GrundstÅcke
+Lands
 [Statistik]
-Statistik
+Statistics
 [Gefechts-Statistik]
-Gefechtsbilanz
+Combat statistics
 [Budget]
-Finanzen
+Finances
 [Ein/Ausgaben]
-Einnahmen und Ausgaben
+Income and Expenses
 [Hiscore]
 Herrscher der Meere
 [Spieltitel]
 Herrscher der Meere
 [DNeu]
-Neues Spiel
+New Game
 [DLaden]
-Spiel laden
+Load Game
 [DSichern]
-Spiel sichern
+Save Game
 [DCredits]
 Credits
 [DAudio]
-Soundoptionen
+Sound Settings
 [DHiscore]
-Siegerliste
+Highscores
 [DQuit]
-Beenden
+Quit
 [DStart]
-Spiel starten
+Start Game
 [DContinue]
-Spiel fortsetzen
+Continue Game
 [DSpieler]
-Spieler
+Player
 [DLevel]
 Level
 [DSpielziel]
-Spielziel
+Objective
 [DStartjahr]
-Startjahr
+Start Year
 [DZielMenge]
-Wert
+Goal
 [DKarte]
-Weltkarte
+World Map
 [Level0]
-Landratte
+Landrat
 [Level1]
-Strandbesucher
+Beachboy
 [Level2]
-Matrose
+Sailor
 [Level3]
-KapitÑn
+Capitan
 [Level4]
-SeebÑr
+Seadog
 [Ziel0]
-Weltherrschaft
+Domination
 [Ziel1]
-HÑfen
+Ports
 [Ziel2]
-Vermîgen
+Wealth
 [SOff]
-nicht beteiligt
+undefined
 [SComputer]
 Computer
 [SHuman]
-Spieler
+Player
 [DSEffekte]
-GerÑusche
+Sounds
 [DSSprache]
-Sprache
+Language
 [DSMusik]
-Musik
+Music
 [DiskLaden]
-Mîchten Sie diesen
-Spielstand laden?
+Do you want to
+load this game?
 [DiskSichern]
-Mîchten Sie unter
-diesem Namen sichern?
+Do you want to
+save this game?
 [Vertraege]
-VertrÑge
+Treaties
 [PGebuehr]
-GebÅhr
+Fees
 [PEinkauf]
-Einkauf
+Buy
 [PVerkauf]
-Verkauf
+Sell
 [PHVoll]
-Hafen ÅberfÅllt
+Harbor Crowded
 [PHSperre]
-Hafen gesperrt
+Port Closed
 [PHOffen]
-Hafen geîffnet
+Port Open
 [nicht kaufen]
-Nicht kaufen
+Don't buy
 [neue Flotte bilden]
-Kaufen und neue Flotte bilden
+Buy and create new Convoy
 [zur Flotte hinzufuegen]
-Kaufen und zur Flotte hinzufÅgen
+Buy and add to this Convoy
 [Gehalt]
-Protektion
+Protection
 [Steuern]
-Steuereinnahmen 
+Tex Revenues
 [Gebuehren]
-Zoll und HafengebÅhren
+Customs and Port Charges
 [Produktionskosten]
-Produktionskosten
+Production costs
 [Piratenbeute]
-Anteil an Piratenbeute (50%)
+Share of pirate booty (50%)
 [Protektion Koenig]
-Protektion durch den Kînig
+Protection by the King
 [Protektion durch]
-Protektion durch
+Protection by
 [Hafengebuehren]
-HafengebÅhren
+Port Charges
 [Zollgebuehren]
-ZollgebÅhren
+Customs Fees
 [Soldausgaben]
-Soldausgaben
+Sold Expenditure
 [Lagerhausverkauf]
-Warenverkauf aus dem Lager
+Sales of Goods from the Warehouse
 [Anteil Piratenbeute]
-Piratenbeuteanteil (50%)
+Pirate booty proportion (50%)
 [Gewinn]
-Gewinn/Monat
+Profit / Month
 [Verlust]
-Verlust/Monat
+Loss / Month
 [Protektion]
-Protektion
+Protection
 [Spende]
-Spende
+Dontaions
 [Spenden?]
 Wol|len Sie die LÑn|der fin|an|ziell un|ter|stÅt|zen?
 [sehr gluecklich]
@@ -288,15 +288,15 @@ sehr unzufrieden.
 Die Bevîlkerung ist
 Ñu·erst unzufrieden.
 [FileNotExist]
-Datei nicht gefunden!
+Data not found!
 [FileOpenError]
-Datei konnte nicht erzeugt werden!
+Unable to open the file!
 [FileReadError]
-Fehler beim Lesen aus einer Datei!
+An Error has occured while reading the data!
 [FileWriteError]
-Fehler beim Schreiben in eine Datei!
+An Error has occured while writing the data!
 [FileCloseError]
-Datei konnte nicht geschlossen werden!
+An Error has occured while closing the file!
 [SwapOpenError]
 Swap-Datei konnte nicht geîffnet werden!
 [SwapReadError]
@@ -374,117 +374,117 @@ veraltetes Format!
 [HeapError]
 fehlerhafter Heap!
 [CriticalError]
-kritischer Hardware-Fehler!
+Critical HW Error!
 [DMouseClicks]
-Mausklicks
+Mouse Clicks
 [DTimeTicks]
-Ticken der Uhr
+Time Ticks
 [Titel0]
-Kaufmann
+Merchant
 [Titel1]
-Handelsherr
+Merchant Prince
 [Titel2]
-KapitÑn
+Capitan
 [Titel3]
 Baron
 [Titel4]
-Herzog
+Duke
 [Titel5]
 Admiral
 [Titel6]
-Vizekînig
+Viceroy
 [Titel7]
-Herrscher der Meere
+Master of the Seas
 [Freiraum]
-Freiraum
+Free Space
 [Transfer]
 Transfer
 [Proviant]
-Proviant
+Provisions
 [Mannschaft]
-Mannschaft
+Crew
 [Munition]
-Munition
+Ammunition
 [DIntro]
 Intro
 [Meldungen]
-Meldungen
+Notifications
 [Sichtmeldungen]
-Sichtmeldungen
+Discovery alerts
 [Hafenmeldungen]
-Hafenmeldungen
+Port Alerts
 [Tiptexte]
-Tiptexte
+Tips
 [TiptextVerzoegert]
-Verzîgerte Tiptexte
+Delayed Tips
 [Tonne]
 t
 [Finanzen]
-Finanzen
+Finances
 [Chronik]
-Chronik
+Chronicle
 [EigeneFlotten]
-Eigene Flotten
+Own Fleets
 [GegnerFlotten]
-Gegnerflotten
+Opponents Fleets
 [HafenVerlassen]
-Hafen verlassen
+Leave Port
 [HafenErreicht]
-Hafen erreicht
+Arrive at Port
 [Wochen]
-Wochen
+Weeks
 [Technologie:]
-Technologie:
+Technology:
 [Monat]
-Monat
+Month
 [Monate]
-Monate
+Months
 [fertig]
-fertig
+completed
 [MissionStop]
-Mission abbrechen
+Abort Mission
 [MissionJa]
-Annehmen
+Accept
 [MissionNein]
-Ablehnen
+Reject
 [Reparatureinsatz]
-Reparatureinsatz
+Repairs
 [Prozent]
 %
 [Reparatur]
-Reparatur
+Repair
 [Ausbaustufe]
-Ausbaustufe
+Expansion Level
 [Kontor]
-Kontor
+Merchant
 [Angebot]
-Angebot
+Supply
 [Bedarf]
-Bedarf
+Demand
 [Ausbaustop]
 Pause
 [Markt]
-Markt
+Market
 [Lager]
-Lager
+Camp
 [Zeughaus]
-Zeughaus
+Armory
 [Protektion_bezahlen]
-Protektion jetzt bezahlen?
+Pay Protection now?
 [Kanonen]
-Kanonen
+Cannons
 [Nachtrag]
-Nachtrag fÅr
+Supplement for
 [Laufende Ausgaben]
 Ausgaben Anfang
 [Laufende Einnahmen]
 Einnahmen Anfang
 [Monatsabrechnung]
-Zahlungen Monatswechsel
+Monthly payments
 [SpezialLaden]
-an Bord nehmen
+to take on board
 [Protektionen]
-Protektionen
+Protections
 [Pause]
 Pause
 [End]

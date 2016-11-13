@@ -1,76 +1,76 @@
 
 [Baukosten]
-Baukosten
+Build cost
 [Spielziel R1 Weltherrschaft]
-Spielziel
+Goal
 [Spielziel R1 Haefen]
-Spielziel
+Goal
 [Spielziel R1 Kapital]
-Spielziel
+Goal
 [Spielziel R2]
-Missionen
+Missions
 [Spielziel R3]
-Karriere
+Career
 [Rang]
-Rang:
+Rank:
 [Rang seit]
 , seit
 [Land Neutral]
 Neutral
 [MissionErfolgreich]
-Erfolgreiche Missionen:
+Completed missions:
 [WertungGesamt]
-Spielpunkte:
+Game points:
 [HaefenGesamt]
-HÑfen auf der Karte:
+Total Ports:
 [HaefenEntdeckt]
-Entdeckte HÑfen:
+Discovered Ports:
 [VermoegenGesamt]
-Gesamtvermîgen:
+Total Assets:
 [MAnzahl]
-Missionen gesamt:
+Total Mssions:
 [MAbgelehnt]
-davon nicht angenommen:
+were not accepted:
 [MAngenommen]
-davon angenommen:
+were accepted:
 [MErfolg]
-Erfolgreiche Missionen:
+Successful Missions:
 [MAbbruch]
-Gescheiterte Missionen:
+Failed Missions:
 [MAktiv]
 Laufende Mission:
 [MJa]
-Ja
+Yes
 [MNein]
-Nein
+No
 [MAktiveMission]
 Der Missionsauftrag lautet:
 [MFlotte]
 Beauftragte Flotte:
 [Finanzen R1]
-Finanzen
+Finances
 [Finanzen Anfang]
-Vermîgen aktuell:
+Current Wealth:
 [Finanzen Ausgaben]
 Ausgaben seit Monatsanfang:
 [Finanzen Einnahmen]
 Einnahmen seit Monatsanfang:
 [Finanzen Aktuell]
-Kapital aktuell:
+Current capital:
 [Kriegsbilanz R1]
-Schiffe
+Ships
 [Kriegsbilanz R2]
-Gewinne
+Profits
 [Kriegsbilanz R3]
-Verluste
+Losses
 [Von]
-Von:
+From:
 [Bis]
-Bis:
+To:
 [KG Start]
-Kriegsgewinne seit Spielbeginn:
+War profits since start of the game:
 [KG Summe]
-Kriegsgewinne Summe:
+War profits Total:
 [KG Summe Schiffe]
 Wert eroberte Schiffe:
 [KV Start]
@@ -84,61 +84,61 @@ Festungen
 [Ausgaben R1]
 Summe
 [Ausgaben R2]
-Waren
+Goods
 [Ausgaben R3]
-Schiffe
+Ships
 [Ausgaben R4]
-Produktion
+Production
 [Ausgaben Topic1]
-Ausgaben seit Spielbeginn:
+Spending since beginning of the game:
 [Ausgaben Topic2]
-Wareneinkauf seit Spielbeginn:
+Purchase of goods since beginning of the game:
 [Ausgaben Topic3]
-SchiffskÑufe seit Spielbeginn:
+Ship purchases since beginning of the game:
 [Ausgaben Topic4]
-Bau von Fabriken sein Spielbeginn:
+Construction of Bussinesses since beginning of the game:
 [Ausgaben Summe]
-Summe
+Sum
 [Zoll]
-Zoll
+Customs
 [Nation]
 Nation
 [Kauf Waren]
-Wareneinkauf
+Wares Bought
 [Kauf Schiffe]
-Schiffskauf
+Ship Bought
 [Kauf Produktion]
-Bau von ProduktionsstÑtten
+Construction of Bussinesses
 [Kauf Festung]
-Festung
+Fort
 [Kauf Werft]
-Werften
+Shipyard
 [Reparatur Festung]
-Rep. Festung
+Rep. Fort
 [Reparatur Schiff]
-Rep. Schiff
+Rep. Ship
 [Gebuehr Hafen]
-HafengebÅhr
+Port Fees
 [Gebuehr Protektion]
-Protektion
+Protection
 [Kauf Ausruestung]
-Einkauf von AusrÅstung
+Purchase of Equipment
 [Erstheuer]
 Erstheuer
 [Sold Schiff]
-Sold Schiffe
+Sold Ships
 [Sold Festung]
-Sold Festungen
+Sold Forts
 [Produktion]
-Produktionskosten:
+Production Costs:
 [SumAusgaben]
 Gesamtausgaben:
 [---]
 ---
 [Einnahmen R2]
-Waren
+Goods
 [Einnahmen R3]
-Schiffe
+Ships
 [Einnahmen R4]
 R4
 [Einnahmen Topic1]
@@ -146,13 +146,13 @@ Einnahmen seit Spielbeginn:
 [Einnahmen Topic2]
 Warenverkauf inkl. Zoll seit Spielbeginn:
 [Einnahmen Summe]
-Summe
+Sum
 [Verkauf Waren]
-Warenverkauf
+Sold Goods
 [Verkauf Schiffe]
-Schiffsverkauf
+Sold Ships
 [Steuereinnahmen]
-Steuereinnahmen
+Tax Revenues
 [Piratenbeute]
 Piratenbeute
 [Einnahmen Schatz]
@@ -164,41 +164,41 @@ Abgebrochener Festungsausbau
 [Einnahmen Reparatur]
 Abgebrochene Reparaturen
 [Spielziel]
-Spielziel
+Goal
 [Haefen]
-HÑfen
+Ports
 [Flotten]
-Flotten
+Convoys
 [Schiffe]
-Schiffe
+Ships
 [Statistik]
-Statistik
+Statistics
 [Finanzen]
-Finanzen
+Finances
 [Einnahmen]
-Einnahmen
+Income
 [Ausgaben]
-Ausgaben
+Expenses
 [Vermoegen]
-Vermîgen
+Wealth
 [Kriegsbilanz]
 Gefechtsbilanz
 [Laenderbilanz]
 LÑnderbilanz
 [Werft]
-Werft
+Shipyard
 [Festung]
-Festung
+Fort
 [Kontor]
-Kontor
+Merchant
 [Markt]
-Freier Markt
+Free Market
 [Wert Geld]
-Kapital
+Capital
 [Wert Schiffe]
-Schiffe
+Ships
 [Wert Waren]
-Waren
+Goods
 [Wert Produktion]
 ProduktionsstÑtten
 [Wert Festungen]
@@ -212,25 +212,25 @@ Bezahlte ReparaturauftrÑge
 [Wert Verbrauch]
 Verbrauchsmaterial
 [Brigg]
-Brigg
+Brig
 [Korvette]
-Korvette
+Corvette
 [Fregatte]
-Fregatte
+Frigate
 [Fleute]
-Fleute
+Flute
 [Galeone]
-Galeone
+Galleon
 [SListeRider1]
-Schiffe
+Ships
 [SListeName]
 Name
 [SListeTyp]
-Typ
+Type
 [SListeWert]
 Wert
 [SListeJahr]
-Jahr
+Year
 [SListeSumme]
 Gesamtwert
 [FListeRider1]
@@ -242,11 +242,11 @@ Stufe
 [FListeWert]
 Wert
 [FListeJahr]
-Jahr
+Year
 [FListeSumme]
 Gesamtwert
 [WListeRider1]
-Waren
+Goods
 [WListeOrt]
 Ort
 [WListeWare]
@@ -258,13 +258,13 @@ Wert
 [WListeSumme]
 Gesamtwert
 [PListe R1]
-Produktion
+Production
 [PListeOrt]
 Ort
 [PListeWare]
 Ware
 [PListeJahr]
-Jahr
+Year
 [PListeWert]
 Wert
 [WerftListe R1]
@@ -286,7 +286,7 @@ Frachtraum frei
 [Frachtraum belegt]
 Frachtraum belegt
 [Kanonen]
-Kanonen
+Cannons
 [Munition]
 Munition
 [Besatzung]
@@ -298,7 +298,7 @@ Proviant
 [Ware]
 Ware
 [Waren]
-Waren
+Goods
 [Menge]
 Menge
 [Wert]
@@ -320,7 +320,7 @@ Anzahl
 [Besetzt]
 Besetzt
 [Kanonentyp]
-Typ
+Type
 [Pfund]
 Pfund
 [Reichweite]
@@ -330,7 +330,7 @@ m
 [Bedienung]
 Bedienung
 [Mann]
-Mann
+Men
 [Kugeln]
 Kugeln
 [Zustand]
@@ -338,7 +338,7 @@ Zustand
 [Ladung]
 Ladung
 [Moral]
-Moral
+Morale
 [Monatssold]
 Monatssold
 [sm/h]
@@ -354,19 +354,19 @@ Aktuelle Werte
 [Proviantvorrat]
 Proviantvorrat
 [Woche]
-Woche
+Weeks
 [Wochen]
-Wochen
+Weeks
 [Monat]
-Monat
+Month
 [Monate]
-Monate
+Months
 [Munitionsgewicht]
 Munitionsgewicht
 [kg]
 kg
 [Stadt]
-Stadt
+Town
 [Einwohner]
 Einwohner
 [Arbeitsplaetze]
@@ -378,15 +378,15 @@ Arbeiter
 [Zufriedenheit]
 Zufriedenheit
 [Hafen]
-Hafen
+City
 [Hafengebuehr]
 HafengebÅhr
 [Hafen gesperrt]
 gesperrt
 [Ja]
-Ja
+Yes
 [Nein]
-Nein
+No
 [Einkaufsware]
 Angebot
 [Verkaufsware]
@@ -394,7 +394,7 @@ Nachfrage
 [Warenhaus]
 Warenhaus
 [Preis]
-Preis
+Cost
 [DezimalPunkt]
 ,
 [Zeughaus]
@@ -426,7 +426,7 @@ Min
 [Max]
 Max
 [Aktuell]
-Aktuell
+Current
 [Matrosen]
 Matrosen
 [Kanonen gesamt]
@@ -438,27 +438,27 @@ Besatzung gesamt
 [Munition gesamt]
 Munition gesamt
 [Tempo]
-Tempo
+Speed
 [Auftrag]
-Auftrag
+Task
 [Flotte]
-Flotte
+Convoy
 [Schiff]
-Schiff
+Ship
 [Ziel]
 Ziel
 [Standort]
 Standort
 [auf See]
-auf See
+on Sea
 [vor Hafen]
 vor Hafen
 [im Hafen]
-im Hafen
+in City
 [geschaetzte Ankunft]
 geschÑtzte Ankunft
 [Zielhafen]
-Zielhafen
+Destination
 [unbekannt]
 unbekannt
 [Gesamt]
@@ -466,7 +466,7 @@ Gesamt
 [Schiffe gesamt]
 Schiffe gesamt
 [Schiffe intakt]
-Schiffe intakt
+Schip intact
 [Schiffe beschaedigt]
 Schiffe schwer beschÑdigt
 [Waren geladen]
@@ -478,7 +478,7 @@ freier Frachtraum
 [Warenwert]
 Warenwert
 [Schiffstyp]
-Schiffstyp
+Ship type
 [Status]
 Status
 [Arbeitseinsatz]
@@ -498,7 +498,7 @@ ProduktionsstÑtten
 [Freie Grundstuecke]
 Freie GrundstÅcke
 [Produktivitaet]
-ProduktivitÑt
+Productivity
 [Infrastruktur]
 Infrastruktur
 [Strassen]
@@ -524,27 +524,27 @@ Anzahl Flotten
 [Anzahl Schiffe]
 Anzahl Schiffe
 [Hafen R01]
-Hafen
+City
 [Hafen R02]
-Handel
+Trader
 [Hafen R03]
-Produktion
+Production
 [HafenL R01]
 Summen
 [HafenL R02]
-Produktion
+Production
 [HafenL R03]
 Dummy
 [Schiff R01]
 Status
 [Schiff R02]
-Ladung
+Cargo
 [Schiff R03]
 Geschwindigkeit
 [SchiffL R01]
 Summe
 [SchiffL R02]
-Waren
+Goods
 [LBVermoegen R01]
 Vermîgen
 [LBVermoegen R02]
@@ -558,31 +558,31 @@ Gewinn/Verlust Verlauf
 [Flotte R01]
 Info
 [Flotte R02]
-Waren
+Goods
 [Festung R01]
 Festung1
 [FlottenL R01]
 Summe
 [FlottenL R02]
-Waren
+Goods
 [Werft R01]
 Werft1
 [1.Schiffstypen]
-Briggs
+Brigs
 [2.Schiffstypen]
-Korvetten
+Corvettes
 [3.Schiffstypen]
-Fregatten
+Frigates
 [4.Schiffstypen]
-Fleuten
+Flutes
 [5.Schiffstypen]
-Galeonen
+Galleons
 [0.Handelsgruppe]
 Landwirtschaft
 [1.Handelsgruppe]
-Industrie
+Industries
 [2.Handelsgruppe]
-Plantagen
+Plantages
 [3.Handelsgruppe]
 Kulturland
 [4.Handelsgruppe]
@@ -604,7 +604,7 @@ Verbleibende Zeit:
 [Ausgaben Mission]
 Gescheiterte Missionen
 [Wert Typ]
-Objekt
+Object
 [Einnahmen Topic3]
 SchiffsverkÑufe seit Spielbeginn:
 [Ausgaben Topic11]
@@ -630,7 +630,7 @@ Ware
 [HListeArt]
 VerfÅgbarkeit
 [Handel]
-Handel
+Trader
 [Man Unfaehig]
 ManîvrierunfÑhig!
 [Verkauf Ausruestung]

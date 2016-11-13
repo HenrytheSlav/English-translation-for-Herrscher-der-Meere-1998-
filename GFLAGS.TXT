@@ -2,13 +2,13 @@
 [01.Land]
 England
 [02.Land]
-Frankreich
+France
 [03.Land]
-Spanien
+Spain
 [04.Land]
 Portugal
 [05.Land]
-Piraten
+Pirates
 [06.Land]
 Neutral
 [End]

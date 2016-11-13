@@ -1,14 +1,14 @@
 
 [02.Land]
-Schweden
+Sweden
 [03.Land]
-D„nemark
+Denmark
 [04.Land]
-Hanse
+The Hansa
 [01.Land]
 England
 [05.Land]
-Piraten
+Pirates
 [06.Land]
 Neutral
 [End]
