@@ -1,0 +1,14 @@
+
+[01.Land]
+England
+[02.Land]
+Frankreich
+[03.Land]
+Spanien
+[04.Land]
+Portugal
+[05.Land]
+Piraten
+[06.Land]
+Neutral
+[End]

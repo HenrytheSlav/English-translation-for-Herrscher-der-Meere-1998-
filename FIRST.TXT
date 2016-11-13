@@ -1,0 +1,184 @@
+
+[Spielbeginn1]
+Erkunden Sie - als Kaufmann - Ihren mit der Flagge
+in Landesfarbe markierten Hafen. Wenn sich das
+Hafenfenster ”ffnet brauchen Sie nur das Hafenbild
+anzuklicken und los gehts.
+[Heimathafen1]
+Hafen:
+Willkommen in Ihrem Hafen! Sehen Sie sich die
+Schiffe am Kai an, und entscheiden Sie sich fr
+eines, nicht ohne sich die Schiffsinfo anzuschauen.
+[Touchcastle]
+Festung:
+Achten Sie stets auf eine gut bemannte und aus|
+gebaute Festung. Die Bev”lkerung mag das Gefhl
+der Sicherheit.
+[TouchWerft]
+Werft:
+Nicht jeder Hafen besitzt eine Werft. Dieser Hafen
+jedoch sehr wohl. Damit k”nnen Sie regelm„áig neue
+Schiffe vom Stapel lassen.
+[TouchKontor]
+Kontor:
+Alle Waren, die in diesem Hafen produziert werden,
+k”nnen Sie im Kontor in den Lagerh„usern der
+L„nder einkaufen. Der Verkauf von Handelswaren ist
+natrlich ebenso m”glich.
+[SchiffGekauft1]
+Flotte:
+Sie sind nun stolzer Besitzer einer Flotte. Alle Flotten
+liegen im Hintergrund des Hafens. Klicken Sie auf
+eine Flotte und Sie erkennen im Vordergrund alle
+Schiffe der Flotte. Vergessen Sie auf keinen Fall,
+Ihrer Flotte ausreichend Mannschaft und Proviant
+mitzugeben und Kanonen sowie Munition
+mitzufhren.
+[TouchMakler]
+Stadtansicht:
+Im Hinterland des Hafens k”nnen Sie
+Produktionskapazit„ten aufbauen.
+[HafenAnlaufen1]
+Gegnerischer Hafen:
+H„fen von  L„ndern, mit denen der Friedensvertrag
+gekndigt wurde k”nnen Sie angreifen. Ihre Flotte
+sollte jedoch gut fr einen Kampf gerstet sein, um
+einer Festung trotzen zu k”nnen.
+[HafenAnlaufen2]
+Fremder Hafen:
+Dieser Hafen geh”rt Ihnen nicht, steht  Ihnen jedoch
+offen. Besuchen Sie Ihn, die Gternachfrage und das
+Angebot erkennen Sie auf der Infotafel.
+[HafenAnlaufen4]
+Sie k”nnen auch in fremden H„fen einkaufen oder
+gar Produktionsst„tten bauen. Falls eine Werft
+vorhanden ist k”nnen Sie sogar Schiffe kaufen.
+[HafenAnlaufen5]
+Stadtansicht in fremdem Hafen:
+Sie k”nnen auch in einem fremden Hafen Pro|
+duktions|st„tten bauen. Unterlassen Sie aber
+kriegerische Handlungen mit diesen L„ndern, da
+ansonsten Produktions|besitz verloren gehen drfte.
+[MaklerAufruf1]
+Stadtansicht:
+Fabrik|geb„ude unter|scheiden sich durch etwas andere
+Um|risse von gew”hnlichen Geb„uden. Farblich
+k”nnen Sie die unterschiedlichen L„nder aus|ein|
+anderhalten.
+[Touchbuilding]
+Produktionsst„tte:
+Klicken Sie auf die Produktionsst„tte und Sie
+erhalten einige Informationen und die M”glichkeit,
+das Geb„ude zu zerst”ren. Im eigenen Hafen k”nnen
+Sie kraft milit„rischer Macht alle Pro|duktions|ge|
+b„ude zerst”ren, in fremden H„fen nur die eigenen.
+[GebäudeBauen1]
+Standortwahl:
+Beachten Sie bei der Standort|wahl fr eine Pro|
+duktions|st„tte unbedingt die r„umliche N„he zu
+Straáen oder Flssen. Dies steigert Ihre Produktivit„t.
+[Flottenverteiler1]
+Verteiler:
+Nutzen Sie diese Ansicht, um Waren, Besatzung und
+Bewaffnung zu verteilen oder Flotten aufzuteilen
+oder zu vereinen.
+[ProviantEnde1]
+Proviantmangel:
+Auf einem Ihrer Schiffe ist es zu einem Proviant|
+engpaá gekommen. Prfen Sie im Transfer|bildschirm
+ob andere Schiffe der Flotte aushelfen k”nnen.
+Suchen Sie ansonsten einen Hafen auf, um sich zu
+versorgen.
+[Verhungern1]
+Besatzung ist verhungert:
+Achten Sie zuknftig auf ausreichend Proviant, um
+Ihrer Besatzung den Hungertod zu ersparen und
+teuere Schiffe nicht zu verlieren.
+[FeindFlotte1]
+Gegnerische Flotte:
+Eine gegnerische Flotte stellt sich Ihnen in den Weg
+und hintert Sie an der Weiterfahrt. Entweder Sie
+stellen sich dem Kampf oder warten, bis der Gegner
+den Weg freigibt.
+[Moral1]
+Moral:
+Die Moral der Mannschaft ist am Boden. Sorgen Sie
+fr ausreichend Verpflegung auf See und gew„hren
+Sie Ihr Landaufenthalt.
+[Seegefecht1]
+Gefecht, Steuerung:
+Steuern Sie ein Schiff alleine oder ziehen Sie ein
+Rechteck ber mehrere Schiffe, um es zu steuern.
+[Seegefecht2]
+Gefecht, Anwahl des Gegners:
+W„hlen Sie jetzt den Gegner mit der linken Maus|
+taste an. Bleiben Sie kurz auf der Maustaste stehen,
+erhalten Sie die Auswahl zwischen Angriff, Entern
+und Rammen.
+[Seegefecht3]
+Gefecht, Waffenstillstand:
+Sind Sie unterlegen, ist es m”glich, auf den Flaggen
+der Windrose ein Angebot zum Waffenstillstand zu
+machen, das der Gegner allerdings annehmen muá.
+Ansonsten sollten Sie die Flucht ergreifen, indem Sie
+den Bildschirmrand ansteuern, der gegenber Ihrem
+Ausgangspunkt liegt.
+[Transferscreen1]
+Verteiler, Untergang von Schiffen:
+Versenken Sie die Gegner im Gefecht nur, wenn es
+sich nicht vermeiden l„át. Schiffe, die noch nicht
+untergegangen sind k”nnen Sie n„mlich plndern.
+Ihre eigenen schwer besch„digten Schiffe sollten Sie
+entleeren und zurcklassen.
+[Transferscreen3]
+Schiffe sinken!
+Achtung! Alle stark besch„digten Schiffe werden
+sinken. Darauf befindliche Waren, Proviant und Ma|
+trosen sind verloren. Waren, die sich in der Ablage
+befinden, gehen eben|falls unter, wenn Sie den Trans|
+fer verlassen.
+[Festungsangriff1]
+Angriff auf einen Hafen:
+Ein Hafen ohne Festung wird sich im Falle einer
+Aus|ein|ander|setzung sofort ergeben, es sei denn eine
+Flotte liegt zur Verteidigung im  Hafen.
+[Festungsangriff2]
+Kampf gegen einen Hafen:
+Ihr einziger Vorteil im Kampf gegen die Festung ist
+die Beweglichkeit. Eine Flucht ist berall im Rand|
+bereich m”glich.
+[First Help]
+Einstiegshilfe
+[HafenAnlaufen6]
+Dieser Hafen geh”rt dem Gegner und ist fr Sie
+gesperrt. Wollen Sie den Hafen trotz|dem besuchen,
+streben Sie mit diesem Spie|ler einen Ko|operations|
+vertrag an.
+[Heimathafen1b]
+Hafen:
+Nun liegt es an Ihnen, zuerst den Hafen zu
+erkunden (einfach ber die Geb„ude fahren und
+gegebenenfalls anklicken) oder in See zu stechen
+(Hafen ber den Randbereich verlassen).
+[NeuesSpiel]
+Spielstart:
+Entscheiden Sie welches Land Sie bernehmen
+m”chten (Symbol Pirat) und stellen Sie Ihre Gegner
+ein (Symbol Computer fr Computergegner, Symbol
+Hut fr "Kein Gegner"). Er|setzen Sie auf Wunsch
+den Na|men des Landes durch den ge|wnschten.
+[Worldmapagain]
+Weltkarte, Routenplanung:
+Legen Sie nun Ihre erste Reiseroute fest. Riskieren
+Sie nicht zuviel, reisen Sie zu Beginn entlang von
+Ksten, um H„fen zu entdecken und sich neu zu
+versorgen. Zwischenpunkte setzten Sie, indem Sie
+durch gedrckt halten der linken Maustaste den
+Sextanten an der Maus wechseln.
+[HafenAnlaufen3]
+Nachfrage in fremdem Hafen:
+Waren, die in diesem Hafen produziert werden,
+werden hier nicht nachgefragt. Zumindest zwei
+Waren unterliegen aber einer starken Nachfrage.
+Gerade diese sollten Sie hier verkaufen.
+[End]

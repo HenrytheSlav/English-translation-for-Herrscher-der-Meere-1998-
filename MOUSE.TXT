@@ -1,0 +1,323 @@
+
+[Gewinn/Verlust]
+Gewinn/Verlust
+[Vermoegen]
+Verm”gen
+[Details]
+Details
+[Protektion]
+Protektion
+[Info]
+Info
+[Festung]
+Festung
+[Brigg]
+Brigg
+[Korvette]
+Korvette
+[Fregatte]
+Fregatte
+[Fleute]
+Fleute
+[Galeone]
+Galeone
+[Werft]
+Werft
+[Makler]
+Stadtansicht
+[Flotte]
+Flotte
+[Hafen]
+Hafen
+[weiter]
+und los !
+[Hauptmenue]
+Startmen
+[SpielSpeichern]
+Spiel speichern
+[Vertraege]
+Vertr„ge & Protektionen
+[Spielzieldiagramm]
+Spielzieldiagramm
+[Spielerstatistik]
+Spielerstatistik
+[Gefechtsstatistik]
+Gefechtsstatistik
+[Ausruesten1]
+automatisch Ausrsten
+[Ausruesten2]
+automatisch Ausrsten
+[Kanonengroesse1]
+Kanonengr”áe „ndern
+[SchiffVerkaufen]
+Schiff verkaufen
+[Ausruesten3]
+automatisch Ausrsten
+[Kanonengroesse2]
+Kanonengr”áe „ndern
+[FestungAbreissen]
+Festung abreiáen
+[SpielLoeschen1]
+Spielstand l”schen
+[SpielLoeschen2]
+Spielstand l”schen
+[SpielLoeschen3]
+Spielstand l”schen
+[RouteSetzen]
+Route setzen
+[Ankern]
+ankern
+[Ausguck]
+Ausguck
+[Angriff]
+Angriff
+[Produktionsstaetten]
+Produktionsst„tten
+[Werft2]
+Werften
+[Hafenoberflaeche1]
+Hafen
+[Aufgeben]
+aufgeben
+[Windrichtung]
+Windrichtung
+[ProdInfo]
+Info zur Produktion
+[Prod]
+Produktionsst„tte errichten
+[Flottentransfer]
+Flottentransfer
+[Hafenoberflaeche2]
+Hafen
+[Herstellung]
+Angebot
+[Nachfrage]
+Nachfrage
+[b: cpu battle]
+Computerkampf
+[b: cap]
+Waffenstillstand
+[b: speedup]
+schneller
+[b: speeddown]
+langsamer
+[b: speed]
+Spielgeschwindigkeit
+[b: windrose]
+Windrose
+[InHafen]
+Hafen anlaufen
+[HafenFreigabe]
+Hafen ”ffnen
+[Hafengebuehr]
+Hafengebhr
+[GebaeudeAbreissen]
+Produktionsst„tte abreiáen
+[FestungAusbauen]
+Festung ausbauen
+[FestungReparieren]
+Festung reparieren
+[VertFrieden]
+Friedensvertrag
+[VertHandel]
+Handelsvertrag
+[VertKooperation]
+Kooperationsvertrag
+[Steuerrad]
+Zeitsteuerung
+[BezLand]
+Name (editierbar)
+[Flottenname]
+Flottenname (editierbar)
+[Hafenverteidigung1]
+Flotte w„hlen
+[Hafenverteidigung2]
+Festung w„hlen
+[Festungsbesatzung]
+Festungsbesatzung
+[Kanonenkugelvorrat1]
+Vorrat an Munition
+[Kanonenanzahl]
+aufgestellte Kanonen
+[Matrosen1]
+verfgbare Matrosen
+[Lagerhaus]
+Lagerhaus wechseln
+[Lebensmittel]
+verfgbare Lebensmittel
+[Mannschaft]
+Mannschaft
+[Kanonenkugelvorrat2]
+Vorrat an Munition
+[Kanonenanzahl2]
+aufgestellte Kanonen
+[Proviant1]
+Proviant
+[Matrosen2]
+Matrosen umverteilen
+[Proviant2]
+Proviant umverteilen
+[Kanonenkugeln]
+Munition umverteilen
+[Startmenue]
+
+[Spieleroberflaeche]
+
+[Infoscreen]
+
+[Hafenoberflaeche]
+
+[Gefecht]
+
+[Stadtansicht]
+
+[Transfer]
+
+[Kontor]
+
+[Titelleiste]
+
+[NeuesSpiel]
+
+[SpielLaden]
+
+[SoundSieger]
+
+[CredIntro]
+
+[Flottentafel]
+
+[Festungstafel]
+
+[Werfttafel]
+
+[Optionstafel]
+
+[Optionen]
+Spieleinstellungen
+[Mission]
+Mission
+[Flottenwechsel]
+Schiff berstellen
+[Schiffversenken]
+Schiff versenken
+[Missionstafel]
+
+[Hafentafel]
+
+[Default]
+
+[Schiffstausch]
+Schiffe austauschen
+[OnlineExit]
+zurck zum Spiel
+[OnlineFirst]
+zur Anfangsseite
+[OnlineLastPage]
+vorherige Seite
+[OnlineSearch]
+Begriff suchen
+[OnlineGoOn]
+Suche fortsetzen
+[OnlineForward]
+vorw„rts bl„ttern
+[OnlineReward]
+rckw„rts bl„ttern
+[OnlineUp]
+Zeile nach oben
+[OnlineDown]
+Zeile nach unten
+[OnlinePageUp]
+Seite nach oben
+[OnlinePageDown]
+Seite nach unten
+[MannschaftInc]
+Mannschaft anheuern
+[MannschaftDec]
+Mannschaft entlassen
+[ProviantInc]
+Wochenproviant kaufen
+[ProviantDec]
+Wochenproviant verkaufen
+[KanonenkugelnInc]
+Munition kaufen
+[KanonenkugelnDec]
+Munition verkaufen
+[KanonenanzahlInc]
+Kanonen kaufen
+[KanonenanzahlDec]
+Kanonen verkaufen
+[FlottenWareInc]
+n„chste Ware
+[FlottenWareDec]
+vorherige Ware
+[FlottenAuftrag]
+Flottenauftrag „ndern
+[FestungsbesatzungInc]
+Besatzungsst„rke erh”hen
+[FestungsbesatzungDec]
+Besatzungsst„rke verringern
+[HafengebuehrInc]
+Hafengebhr erh”hen
+[HafengebuehrDec]
+Hafengebhr senken
+[SpielstandInc]
+Spielst„nde vorbl„ttern
+[SpielstandDec]
+Spielst„nde zurckbl„ttern
+[Kontorgebaeude]
+Kontor
+[v_erhoehen]
+Geschwindigkeit erh”hen
+[v_verringern]
+Geschwindigkeit verringern
+[Name_aendern]
+Name „ndern
+[Protektion_erhoehen]
+Protektion erh”hen
+[Protektion_verringern]
+Protektion verringern
+[naechste_Flotte]
+n„chste Flotte
+[vorherige_Flotte]
+vorherige Flotte
+[Waren_verladen]
+Waren verladen
+[AuftragWerft]
+Auftrag erteilen/stoppen
+[Lautstaerke_aendern]
+Lautst„rke „ndern
+[Mausklicks_aendern]
+Mausklicks „ndern
+[Ticken_aendern]
+Ticken der Uhr „ndern
+[Spielerart_aendern]
+Spielerart „ndern
+[Spielziel_aendern]
+Spielziel „ndern
+[Level_aendern]
+Level „ndern
+[Wert_aendern]
+Wert „ndern
+[Jahr_aendern]
+Startjahr „ndern
+[Karte_aendern]
+Weltkarte „ndern
+[Startseite]
+Startseite
+[Zurueck]
+Zurck
+[Objekt_wechseln]
+Objekt wechseln
+[Hafen_sperren]
+Hafen sperren
+[Flottenpanel]
+[Schiffspanel]
+[Werftpanel]
+[SchiffKaufen]
+[Prodstaette]
+[Siegerliste]
+[Einstiegshilfe]
+[Symbolleiste]
+[End]
+

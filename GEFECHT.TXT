@@ -1,0 +1,90 @@
+
+[unentschieden]
+Das Gefecht konnte nicht ent|
+schieden werden.
+[beide geben auf1]
+Beide Parteien haben sich auf
+einen Waffenstillstand geeinigt.
+[keine festung]
+Da keine Festung existiert, er|ge|
+ben sich die Bewohner kampflos.
+[select defend fleet]
+Verteidigung des Hafens
+[Verteidiger]
+Ihr Hafen kann von einer Flotte verteidigt
+werden. W„hlen Sie einen Verteidiger aus.
+[Pause]
+Pause
+[Flucht]
+Flucht
+[Bewegung]
+Bewegung
+[Angriff]
+Angriff
+[Ankern]
+Ankern
+[Verfolgung]
+Verfolgung
+[Entern]
+Entern
+[Rammen]
+Rammen
+[Verteidiegen]
+Verteidigen
+[Beobachtung]
+Beobachtung
+[ship successful]
+erfolgreich
+[ship sinked]
+gesunken
+[ship damage]
+besch„digt
+[sailors demoralisiert]
+demoralisiert
+[ship has no sailors]
+unterbesetzt
+[ship escaped]
+geflohen
+[AUSWERTUNG]
+AUSWERTUNG
+[Hafen nicht besiegt]
+Hafen nicht besiegt
+[Besatzung demoralisiert]
+Besatzung demoralisiert
+[zu geringe Besatzung]
+zu geringe Besatzung
+[zu stark beschädigt]
+zu stark besch„digt
+[keine Festung mehr]
+keine Festung vorhanden
+[CPU use defend fleet]
+Eine Flotte wurde zur Vertei|
+digung des Hafens herangezogen.
+[keine Festung vorhanden]
+In diesem Hafen gibt es
+keine Festung.
+[gamespeed]
+Spielgeschwindigkeit
+[ship on sandbank]
+aufgelaufen
+[fleet has won]
+Ihre Flotte war sieg|reich.
+[fleet has lost]
+Ihre Flotte unterlag dem Gegner.
+[harbour has won]
+Die Festung hat sich er|folg|reich
+zur wehr ge|setzt.
+[harbour has lost]
+Ihre Festung konnte den Angriff
+nicht ab|wehren.
+[fort booty]
+Ihnen fallen # Waren in die
+Hand, die in Ihr Lager trans|por|
+tiert werden.
+[fleet has won against fort]
+Ihre Flotte konnte den Hafen er|
+folg|reich einnehmen.
+[your fleet has escaped]
+Ihre Flotte konnte dem Gegner
+ent|kommen.
+[End]

@@ -1,0 +1,82 @@
+
+[Arbeiter]
+Arbeiter
+[Produktion]
+Produktivit„t
+[Prodkosten]
+Kosten
+[pro Monat]
+/Monat
+[Erklaerung Schiffsdaten]
+Besatzungsst„rke:
+Kanonenanzahl:
+Ladekapazit„t:
+Geschwindigkeit:
+max. Leckanzahl:
+[Mann]
+Mann
+[Kanonen]
+Kanonen
+[Tonnen]
+Tonnen
+[sm/h]
+sm/h
+[Lecks]
+Lecks
+[Die Brigg]
+Die Brigg
+[Erklaerung Brigg]
+Bri|gan|ti|nen, Schnau|en und Briggs sind zwei|ma|sti|ge
+Schif|fe mit Rah|take|lung. Sie die|nen vor al|lem als
+Schnell|seg|ler fr den Ka|per- und Ge|leit|dienst und
+wer|den auch fr die Auf|kl„|rung im klei|ne|ren Ra|
+dius ein|ge|setzt. Sie sind be|son|ders we|gen ihr|er
+Wen|dig|keit und Schnel|lig|keit be|liebt.
+[Die Korvette]
+Die Korvette
+[Erklaerung Korvette]
+Kor|vet|ten sind mehr oder we|ni|ger klei|ne|re Fre|gat|
+ten. Trotz ih|rer et|was ge|ring|er|en Gr”|áe, sind sie
+voll kriegs|taug|lich. Sie k”n|nen fr Auf|kl„|rungs-,
+Ku|rier-, Be|wa|chungs- und Be|gleit|auf|ga|ben ein|ge|
+setzt wer|den. Oft|mals sind es die Kor|vet|ten, de|nen
+sich die ka|pi|ta|lis|tisch|en M„ch|te be|die|nen, um
+ih|re ko|lo|ni|a|len Er|o|be|rung|en durch|zu|fh|ren
+und aus|zu|wei|ten.
+[Die Fregatte]
+Die Fregatte
+[Erklaerung Fregatte]
+Fre|gat|ten wer|den be|vor|zugt fr das Ge|lei|ten von
+Han|dels|schif|fen und fr die Ver|fol|gung und Auf|
+brin|gung feind|li|cher Schif|fe ver|wen|det. In|fol|ge
+ih|rer gu|ten Se|gel|ei|gen|schaf|ten und ih|res nicht
+un|be|deu|ten|den Ge|fechts|wer|tes ver|wen|det man sie
+zur Ein|schch|te|rung und Nie|der|hal|tung ko|lo|ni|al
+un|ter|drck|ter V”l|ker und fr die Be|k„mp|fung von
+Pi|ra|ten.
+[Die Fleute]
+Die Fleute
+[Erklaerung Fleute]
+Die von den hol|l„n|di|schen Schiffs|bau|mei|stern ent|
+wi|ckel|te Fleu|te ist im Un|ter|schied zur Ga|le|o|ne
+ein rei|nes Han|dels|schiff. Durch ih|re au|áer|or|dent|
+li|che Leis|tungs|f„|hig|keit tr„gt sie ent|schei|dend
+zum Auf|stieg der hol|l„n|di|schen See|fahrt bei. Sie
+gilt in al|len eu|ro|p„|ischen Schiffs|werf|ten als
+Vor|bild fr den Bau von Han|dels|schif|fen.
+[Die Galeone]
+Die Galeone
+[Erklaerung Galeone]
+Ga|le|o|nen gel|ten als wehr|haf|te Han|dels- und
+Kriegs|schif|fe. Sie wer|den von den Spa|ni|ern
+fr den Trans|port des Sil|bers und Gol|des aus den
+a|me|ri|ka|nisch|en Ko|lo|nien ein|ge|setzt. Aber
+auch Eng|l„n|der und Hol|l„n|der set|zen auf die
+Ga|le|o|nen, die, als gut be|st|ckte Han|dels|seg|ler
+und in klei|nen Flot|ten zu|sam|men|ge|faát, kei|nen
+Geg|ner zu frch|ten brau|chen.
+[Produktivitaet]
+Produktivit„t
+[Baukosten]
+Baukosten
+[End]

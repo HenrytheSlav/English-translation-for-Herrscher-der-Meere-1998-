@@ -1,0 +1,290 @@
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4Produzent
+
+2Attic Entertainment Software GmbH
+
+
+
+
+
+
+4Autoren
+
+2Jens Peter Evers
+2Matthias Koranda
+
+
+
+
+
+
+3Projektleitung
+
+Guido Henkel
+Rolf Neumann, Xtainment
+Klaus Schmidbauer
+
+
+
+
+
+
+<
+3Programmierung
+>
+Jens Peter Evers, NovaTrix
+Matthias Koranda, NovaTrix
+Horst Siriski, Xtainment
+
+
+
+<
+3ZusÑtzliche Programmierung
+>
+Hans-JÅrgen BrÑndle
+Michael Flad
+Erwin Haid
+Frank Hermann
+Michael Jartz, Xtainment
+Rolf Neumann, Xtainment
+Volker Walkiewicz
+
+
+
+
+<
+3Grafik
+>
+Marian "Thorun" Arnold
+Lars MÅller
+AndrÇ "ant" Taulien
+Tobias WeingÑrtner
+
+
+
+<
+3ZusÑtzliche Grafiken
+>
+Christian Pollege
+Arndt Schlichtig
+
+
+
+<
+3Cover Artwork & Illustrationen
+>
+Marian "Thorun" Arnold
+JÅrgen KrÅger
+
+
+
+
+<
+3Musik
+>
+Guido Henkel
+Dieter Rottermund
+
+
+
+<
+3Sound FX
+>
+Klaus Emmrich
+Guido Henkel
+Matthias Koranda
+
+
+
+<
+3Sprachaufnahmen
+>
+Weltenschmiede Studios
+Thilo Burdach
+Dirk Duerbach
+Harald Evers
+Herbert Pross
+
+
+
+
+<
+3Handbuch
+>
+Frank Appelmann
+Grischa Jacobs
+Carsten Lau
+Ibrahim Uyar
+Frank Wizemann
+
+
+
+<
+3Datenbanken
+>
+JÅrgen Roth
+
+
+
+<
+3Satz und Layout
+>
+Jochen Eith
+Evelyn Russo
+Ibrahim Uyar
+
+
+
+
+<
+3QualitÑtssicherung
+>
+Frank Appelmann
+Steffen Apprich
+Michael Becher
+Martin "Pinky" Binder
+Thomas Burkhart
+Klaus Emmrich
+Michael Grabowski
+Richard Gussmann
+Daniel Hartmann
+Grischa "Moonlight" Jacobs
+Yannic Jacobs
+Alexander Kasik
+Carsten Lau
+Oliver Mohr
+Markus Nickolay
+Michael Otte
+Klaus Schmidbauer
+Hiep Tran Trung
+
+
+
+
+#
+3Mit besonderem Dank an
+
+AMD Deutschland GmbH
+Anubis GmbH
+ATI Technologies
+Cardexpert Warenhandels GmbH
+Deuretzbacher Systems GmbH
+Diamond Multimedia Systems
+IBM Deutschland GmbH
+Jacobi & White GmbH
+Jochen Lîwer
+Matrox Electronics Systems GmbH
+Mitsumi Electronics Europe GmbH
+Pearl Agency GmbH
+Pioneer Electronics Systems GmbH
+Pine Technologie Deutschland GmbH
+Roland Musikinstrumente GmbH
+Shuttle Computer Handels GmbH
+Soundware Audio Team GmbH
+Terratec Electronics GmbH
+Turtle Beach Systems
+
+
+
+
+
+
+#
+3GrÅ·e und Zitate:
+
+
+
+1Thorun sends Greetinx to:
+Meine Laurantalasa
+Ingo, Ingolf & Shuki aus Frankfurt
+Dirk, Harald, Mark und den Rest
+der Berliner Rollenspieler
+Christine, Uschi & Hans-Dieter
+RIGER & MENHIR
+Thunder & Shamane aus Wuppertal
+Frank & Tim & e.motion
+
+
+
+1Andre¥ Taulien
+
+ich grÅ·e: 
+
+Bert "Beam" MittelstÑdt
+Michael "Schulli" Schulz
+Martin Schuster
+Klaus JÅrgen "Putzi" Putzert
+Frank "Jack" Lindemann
+und mein Brudi Christian "city" Taulien
+
+
+
+1GrÅ·e von "King" Feger
+
+an
+
+Spielecenter Stoll
+Torsten "Viper" Bosch
+Peter "Atlan" Stoll
+Peter "Iceman" Iserlohn
+Patricio "Der Italiener" Bazzo
+Lothar "Bîrse" Stoll
+
+
+
+1IBU grÅ·t
+Ingo "Horny"
+Wolfgang "Kinderschreck"
+
+
+
+1Michael F. grÅ·t
+Thomas "Airbrush" Kronenberg
+Oli - Rauscher "NetworX"
+Emmanuel "Future Tales" Henne
+
+
+
+
+
+
+
+
+
+
+
+#
+4E N D E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

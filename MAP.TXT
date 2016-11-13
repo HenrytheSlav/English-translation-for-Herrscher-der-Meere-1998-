@@ -1,0 +1,12 @@
+[MAP1]Historisch
+[MAP2]Ostsee
+[MAP3]Riesland
+[MAP4]Castilo
+[MAP5]Atlantis
+[MAP6]Wiking
+[MAP7]Teufelsbucht
+[MAP8]šberfahrt
+[MAP9]Todesbucht
+[MAP10]Paradies
+[MAP11]Eldorado
+[End]

@@ -1,0 +1,9 @@
+
+[Caption]
+Main=Herrscher der Meere
+[Menu]
+Install=Installieren
+Sound=Soundkarte
+Start=Starten
+Exit=Beenden
+[End]

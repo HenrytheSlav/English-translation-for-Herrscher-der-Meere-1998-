@@ -1,0 +1,203 @@
+
+[technologischer Fortschritt]
+Staatswerft
+[Technologie]
+Der technologische Fort|schritt im
+Schiffs|bau er|reicht Stufe #.
+[Ueberfall]
+Es fand ein ver|heerender An|griff
+durch Ein|ge|borene statt.
+[Epidemie]
+Ihre Kolonie wurde von einer
+Krank|heits|epidemie heim|gesucht.
+[Brand]
+Eines ihrer Lager|h„user ist aus
+un|be|kannter Ur|sache ab|ge|brannt.
+[Prodkill]
+Einige Pro|duktions|st„tten wur|den
+durch # zer|st”rt.
+[Newship]
+Eine neue #
+wurde fer|tig|ge|stellt.
+[Revolte]
+Wegen Un|zu|frieden|heit kam es zu
+einer Re|volte.
+[neuer Pirat]
+Sie haben Piraten|kapit„n
+# an|ge|worben.
+[Piratengefecht1]
+# war an einem
+Ge|fecht bei #
+be|teiligt.
+[Piratengefecht2]
+# war an einem
+Ge|fecht auf offener See be|teiligt.
+[Pirat vernichtet]
+# wurde in
+einem Ge|fecht ver|nichtend ge|
+schlagen.
+[FlotteInSicht]
+Flotte in Sicht:
+[FlottenInSicht]
+# Flotten in
+Sicht:
+[Speed]
+Flotte ist nicht
+man”vrier|f„hig!
+[Hafenverlassen]
+Flotte ist in See
+gestochen!
+[ZielBef]
+Zielhafen er|reicht:
+Flotte l„uft ein!
+[ZielGes]
+Zielhafen er|reicht:
+Hafen ge|sperrt!
+[ZielGeb]
+Zielhafen er|reicht:
+Gebhr zu hoch!
+[ZielVoll]
+Zielhafen er|reicht:
+Hafen ber|fllt!
+[ZielSee]
+Zielpunkt er|reicht:
+Flotte wartet!
+[ImHafen]
+Flotte ist in den
+Hafen ein|ge|laufen!
+[Angriffstop]
+Flotte kann Feind
+nicht ein|holen!
+[FlottenAngriff]
+Flotte ist be|reit
+zum An|griff!
+[HafenAngriff]
+Flotte ist be|reit
+zum An|griff!
+[Sturm]
+Flotte ist in einen
+Sturm ge|raten!
+[Besatzung]
+Besatzung reicht
+nicht aus!
+[Verpflegung]
+Proviant geht zur
+Neige!
+[Moral]
+Moral an Bord ist
+kritisch!
+[Gebuehr]
+Hafengebhr nicht
+mehr be|zahl|bar!
+[Flottenverlust]
+Flotte wird als
+ver|miát ge|meldet!
+[Aufgehalten]
+Aufgehalten von
+feind|licher Flotte!
+[Schatzinsel]
+Wir haben einen Schatz im Wert
+von # gefunden.
+[VSturm]
+Wir haben durch Sturm|sch„den
+ein Schiff verloren.
+[VBesatzung]
+Wir haben durch Be|satzungs|
+mangel ein Schiff ver|loren.
+[VMoral]
+Die Besatzung ist un|zu|frieden und
+hat ge|meutert.
+[VVerpflegung]
+Die Besatzung muáte ver|hungern.
+[HafeninSicht]
+Neuer Hafen '#'
+in Sicht.
+[TitleLooser]
+# muá aufgeben
+[TitleWinner]
+# hat gewonnen
+[TextComputerLooser]
+Der Computer|spieler ist zu schwach ge|worden, um sich
+noch wir|kungs|voll am Spiel|ge|schehen zu be|teiligen.
+[TextLooser]
+Sie haben leider keine eigenen H„fen und Flotten mehr. Da|
+mit k”n|nen Sie sich nun nicht mehr am Spiel|ge|schehen be|
+teiligen. Viel|leicht sollten Sie Ihre Stra|te|gie neu ber|denken.
+[TextComputerWinner]
+Leider mssen Sie sich gegen den Computer|spieler ge|schla|
+gen ge|ben. Viel|leicht sollten Sie Ihre Stra|te|gie neu ber|
+denken.
+[TextWinnerWorld]
+Sie haben Ihrem Land zur alleinigen Welt|herr|schaft ver|hol|
+fen. Mit Ehrungen ber|h„uft werden Sie in die Ge|schichte
+als ruhm|reicher See|held eingehen.
+[TextWinnerHarbour]
+Sie haben Ihrem Land zu einer be|deut|samen Vor|macht|
+stellung ver|holfen. Mit Ehrungen be|lohnt wer|den Sie in die
+Ge|schichte ruhm|reicher See|helden ein|gehen.
+[TextWinnerFortune]
+Sie haben Ihrem Land zu Reich|tum und Wohl|stand ver|
+holfen. Mit Ehrungen be|lohnt wer|den Sie in die Ge|schichte
+als ruhm|reicher See|held ein|gehen.
+[WarenPluendern]
+Die Besatzung ist am Verhungern
+und plndert das Warenlager.
+[HafenErobert]
+Der Hafen wurde kampflos von
+# eingenommen.
+[ProdOld]
+Einige veraltete Produktionsst„tten
+sind zerfallen.
+[TitelRank1]
+Ernennung zum Handelsherrn
+[TitelRank2]
+Ernennung zum Flottenkapit„n
+[TitelRank3]
+Ernennung zum Baron
+[TitelRank4]
+Ernennung zum Herzog
+[TitelRank5]
+Ernennung zum Admiral
+[TitelRank6]
+Ernennung zum Vizek”nig
+[TitelRank7]
+Herrscher der Meere
+[TextRank1]
+Durch Seine Erfolge in Handel und Gesellschaft er|h„lt Er
+mit Brief und Siegel das Recht sich nunmehr Handels|herr zu
+nen|nen. Der Rat der St„dte hat beschlossen, Ihn Seinem
+Stand ge|recht mit # Gold zu ehren.
+[TextRank2]
+In Anerkennung Seines seem„nnischen K”nnens wird Er in
+den Rang eines Flotten|kapit„ns erhoben. Die ehr|wr|di|ge
+Ver|einigung der Kapit„ne berreicht Ihm # Gold und nimmt
+Ihn in ihre Mitte auf.
+[TextRank3]
+Auf k”niglichen Beschluá wird Er in den Adels|stand er|ho|
+ben. Hiermit sei Ihm gew„hrt, sich von Stund an als Baron
+zu ti|tu|lie|ren. Standesgem„á wird Ihm # Gold ber|eig|net.
+[TextRank4]
+Auf allerh”chste Weisung wird Ihm ein Herzog|tum ber|
+schrie|ben. Er sei von nun an mit Herzog an|zu|spre|chen. Sei|ne
+Ma|jes|t„t gew„hrt Ihm # Gold.
+[TextRank5]
+Die Admir„le seiner Majest„t ernennen Ihn auf|grund sei|ner
+Bra|vour|stcke und Heldentaten zum Admiral. Als sei|ner
+Ma|jes|t„ts Admiral erh„lt Er # Gold.
+[TextRank6]
+Als Stellvertreter seiner Majest„t wird Er zum Vize|k”|nig
+der er|oberten L„ndereien ernannt. Zu seiner Unter|sttz|ung
+wird Ihm hiermit # Gold berreicht.
+[TextRank7]
+Er ist nun der Herrscher der Meere, kein anderes Land der
+be|kann|ten Welt ist nun in der Lage Ihm ent|ge|gen|zu|tre|ten.
+Alle Reichtmer liegen Ihm zu Fáen und Seine Macht ist
+gren|zen|los.
+[ProdCost]
+Einige Produktionsst„tten sind aus
+Geldmangel verfallen.
+[Dessert]
+
+Ein Teil der Besatzung de|ser|tiert,
+weil sie keinen Sold erhal|ten hat.
+[End]

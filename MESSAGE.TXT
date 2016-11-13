@@ -1,0 +1,125 @@
+
+[CDWarning]
+Bitte legen Sie die "Herrscher der Meere"-CD ein!
+[SoundWarning]
+Es ist keine Sound|aus|gabe instal|liert!
+Die Sound|installa|tion kann mit dem
+Pro|gramm "SoundSet" durch|ge|fhrt werden!
+[MinOnePlayer]
+Es muá mindestens ein Spieler beteiligt sein.
+[MinTwoPlayer]
+Beim Spielziel Weltherrschaft mssen mindestens
+zwei Spieler beteiligt sein.
+[KeinFileName]
+Sie ms|sen zu|erst ei|nen gltigen
+Da|tei|na|men ein|ge|ben.
+[KeinFile]
+Es ist keine Da|tei mit dem an|ge|gebenen
+Na|men vor|han|den.
+[KurzerName]
+Der einge|gebene Name ist zu kurz.
+Ver|wenden Sie bitte einen l„ngeren Namen.
+[mess1]
+We|gen fehlen|der Zah|lung|en kann
+es zu De|ser|ti|onen, De|mo|ra|li|sie|rung
+oder zur Zer|st”rung von Pro|duk|ti|
+ons|st„t|ten kommen.
+[mess2]
+Sie ha|ben nicht ge|n|gend Ka|pi|tal, um die|se
+Wa|re ein|zu|kau|fen.
+[mess3]
+Das Schiff ist so stark be|sch„|digt, daá es
+un|ter|ge|hen wird. Es kann nicht mehr be|wegt
+wer|den.
+[mess4]
+Sie sind Bankrott! Sie k”n|nen sich kei|nen Pro|vi|ant
+mehr leis|ten.
+[mess5]
+Dies ist kei|ne le|ga|le Ver|si|on!!
+Das Spiel kann des|halb nicht kor|rekt ge|star|tet
+wer|den.
+[mess6]
+Sie sind Bankrott! Sie k”n|nen kei|ne See|leu|te
+mehr an|heu|ern.
+[mess7]
+Der Auf|trag fr den Aus|bau der Fes|tung kann
+nicht mehr wei|ter zu|rck|ge|nom|men wer|den.
+[mess8]
+Die Festung kann in die|sem Ha|fen
+nicht mehr st„r|ker aus|ge|baut wer|
+den. Viel|leicht beim n„ch|sten
+Tech|no|lo|gie|fort|schritt!  
+[mess9]
+Sie haben nicht ge|n|gend Ka|pi|tal, um die Fes|tung
+in die|sem Ha|fen st„r|ker aus|zu|bau|en.
+[mess10]
+Sie haben nicht ge|n|gend Ka|pi|tal,
+um eine Werft in die|sem Ha|fen zu
+er|rich|ten. Sie ben”tigen #.
+[mess11]
+Sie haben nicht ge|n|gend Ka|pi|tal, um sich die|ses
+Schiff zu kau|fen.
+[mess12]
+Die Flotte ist be|reits zu groá. Es kann kein neu|es
+Schiff hin|zu|ge|fgt wer|den.
+[mess13]
+Sie haben keine Flotte an|ge|w„hlt, zu der das
+Schiff hin|zu|ge|fgt wer|den k”nnte.
+[mess14]
+Sie sind Bank|rott! Sie k”n|nen die Munition nicht
+mehr be|zah|len.
+[mess15]
+Sie sind Bank|rott! Sie k”n|nen die Ka|no|nen
+nicht mehr be|zah|len.
+[mess16]
+Sie haben nicht ge|n|gend Ka|pi|tal, um die Festung
+in die|sem Ha|fen zu re|pa|rieren.
+[mess17]
+Diese Produktionsst„tte ist fr Sie zu teu|er. Sie
+ha|ben nicht ge|nug Ka|pi|tal.
+[mess18]
+In diesem Hafen steht leider kein Bau|land mehr zur Verfgung.
+[mess20]
+Sie be|sitzen be|reits die maximale
+An|zahl von 20 Flot|ten. Sie k”n|nen
+keine weiteren Flot|ten bil|den. 
+[DiskSaveWarning]
+Eventuell ist nicht gengend Spei|
+cher|platz auf dem Daten|tr„|ger
+vor|handen.
+[CloseApplications]
+Das Betriebssystem konnte nicht gengend Speicher zur
+Verfgung stellen. Bitte schlieáen Sie alle Anwendungen unter
+Windows und starten Sie "Herrscher der Meere" erneut.
+[MouseNotFound]
+Auf Ihrem Rechner wurde kein Maustreiber gefunden. Sie
+ben”tigen eine Microsoft-kompatible Maus ab Version 6.26.
+[SharewareVersion]
+Dies ist eine eingeschr„nkte Version. Die von Ihnen
+an|ge|w„hlte Funk|ti|on ist nur in der Voll|ver|sion m”g|
+lich.
+[SharewareLimits]
+Dies ist eine eingeschr„nkte Version! Spielziel und
+Karte sind fest vorgegeben und k”nnen nicht frei
+ausgew„hlt werden.
+[Taste druecken]
+Taste drcken
+[Programm beendet]
+Programm beendet!
+[insufficient virtual RAM]
+Es steht nicht gengend virtueller Speicher zur
+Verfgung.
+[insufficient physical RAM]
+Es steht nicht gengend physikalischer Speicher zur
+Verfgung.
+[virtual RAM detected]
+KB freier virtueller Speicher vorhanden!
+[virtual RAM required]
+KB freier virtueller Speicher ben”tigt!
+[physical RAM detected]
+KB physikalischer Speicher vorhanden!
+[physical RAM required]
+KB physikalischer Speicher ben”tigt!
+[start HDMEERE.BAT]
+Bitte starten Sie HDMEERE.BAT unter Dos!
+[End]

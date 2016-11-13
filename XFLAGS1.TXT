@@ -1,0 +1,14 @@
+
+[02.Land]
+Schweden
+[03.Land]
+D„nemark
+[04.Land]
+Hanse
+[01.Land]
+England
+[05.Land]
+Piraten
+[06.Land]
+Neutral
+[End]

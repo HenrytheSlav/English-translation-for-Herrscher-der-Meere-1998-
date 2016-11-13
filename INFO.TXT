@@ -1,0 +1,125 @@
+
+[Zugende]
+M”chten Sie den Spielzug
+jetzt beenden?
+[DateiLoeschen]
+M”chten Sie die Datei
+wirklich l”schen?
+[DateiUeberschreiben]
+Die Datei existiert
+bereits! šberschreiben?
+[FastSave]
+M”chten Sie den aktuellen
+Spielstand sichern?
+[Quit]
+M”chten Sie das Spiel
+verlassen?
+[LandComputer]
+Soll # vom Computer gesteuert werden?
+[LandHuman]
+Soll # von einem Spieler gesteuert werden?
+[Schiff versenken?]
+M”chten Sie das
+Schiff versenken?
+[Schiff verkaufen?]
+M”chten Sie das Schiff fr # ver|kau|fen?
+[Festung zerstoeren?]
+M”chten Sie die
+Festung zerst”ren?
+[Hiscore loeschen?]
+M”chten Sie alle
+Eintr„ge l”schen?
+[Eintrag loeschen?]
+Hiscore-Eintrag
+l”schen?
+[Werft kaufen?]
+M”chten Sie eine Werft fr # er|rich|ten?
+[Haus zerstoeren?]
+Produktionsst„tte
+zerst”ren?
+[Landname aendern]
+Bitte tragen Sie
+Ihren Namen ein:
+[Brigg kaufen?]
+M”chten Sie die Brigg
+fr # kaufen?
+[Korvette kaufen?]
+M”chten Sie die Korvette
+fr # kaufen?
+[Fregatte kaufen?]
+M”chten Sie die Fregatte
+fr # kaufen?
+[Fleute kaufen?]
+M”chten Sie die Fleute
+fr # kaufen?
+[Galeone kaufen?]
+M”chten Sie die Galeone
+fr # kaufen?
+[FVAngebotTitel]
+Friedensvertrag angeboten
+[HVAngebotTitel]
+Handelsvertrag angeboten
+[KVAngebotTitel]
+Kooperation angeboten
+[FVKuendigungTitel]
+Friedensvertrag gekndigt
+[HVKuendigungTitel]
+Handelsvertrag gekndigt
+[KVKuendigungTitel]
+Kooperation gekndigt
+[FVAblehnungTitel]
+Friedensvertrag abgelehnt
+[HVAblehnungTitel]
+Handelsvertrag abgelehnt
+[KVAblehnungTitel]
+Kooperation abgelehnt
+[FVAkzeptanzTitel]
+Friedensvertrag angenommen
+[HVAkzeptanzTitel]
+Handelsvertrag angenommen
+[KVAkzeptanzTitel]
+Kooperation angenommen
+[FVAngebot]
+# m”chte in Frieden mit Ihnen leben!
+Nehmen Sie das Angebot an?
+[HVAngebot]
+# m”chte mit Ihnen Handel treiben!
+Nehmen Sie das Angebot an?
+[KVAngebot]
+# bietet eine Kooperation!
+Nehmen Sie das Angebot an?
+[FVKuendigung]
+# hat den Friedens|vertrag ge|kn|digt
+und steht Ihnen nun feind|lich gegen|ber.
+[HVKuendigung]
+# hat den Handels|vertrag gekn|digt
+und will alle Handels|be|ziehungen
+zu Ihnen ab|brechen.
+[KVKuendigung]
+# hat die Kooperation gekn|digt
+und ver|wehrt Ihnen damit die
+Unter|sttzung in sei|nen H„fen.
+[FVAblehnung]
+# hat das Friedens|angebot leider ab|ge|lehnt
+und steht Ihnen weiter|hin feind|lich gegen|ber!
+[HVAblehnung]
+# hat das Handels|angebot ab|ge|lehnt
+und ver|wehrt Ihnen damit weiter|hin den Waren|handel!
+[KVAblehnung]
+# hat eine Kooperation leider ab|ge|lehnt
+und ver|wehrt Ihnen damit die Unter|sttzung
+in sei|nen H„fen.
+[FVAkzeptanz]
+# hat das Friedens|angebot an|ge|nommen
+und den Ver|trag unter|zeichnet!
+[HVAkzeptanz]
+# hat das Handels|angebot an|ge|nommen
+und den Ver|trag unter|zeichnet!
+[KVAkzeptanz]
+# hat eine Kooperation mit Ihnen akzeptiert
+und den Ver|trag unter|zeichnet!
+[Transout]
+Wollen Sie den Rest zurcklassen?
+[MissionTime]
+Sie haben noch # Monate Zeit.
+[End]

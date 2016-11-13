@@ -1,0 +1,490 @@
+
+[InitMusic]
+Initialisiere Soundsystem
+[ja]
+Ja
+[nein]
+Nein
+[ok]
+OK
+[An]
+an
+[Aus]
+aus
+[Tempo]
+Tempo
+[Ladung]
+Ladung
+[Schaeden]
+SchÑden
+[Ausbau]
+Ausbau
+[Manuelleflotte]
+kein Auftrag
+[Entdeckungsflotte]
+Entdecker
+[Handelsflotte]
+Handelsflotte
+[Kriegsflotte]
+Kriegsflotte
+[Kaperflotte]
+Kaperflotte
+[Piraterie]
+Piratenflotte
+[Patrouille]
+Patrouille
+[fremde Flotte]
+Flotte
+[1.Schiffstyp]
+Brigg
+[2.Schiffstyp]
+Korvette
+[3.Schiffstyp]
+Fregatte
+[4.Schiffstyp]
+Fleute
+[5.Schiffstyp]
+Galeone
+[Jan]
+Jan
+[Feb]
+Feb
+[Mar]
+MÑr
+[Apr]
+Apr
+[Mai kurz]
+Mai
+[Jun]
+Jun
+[Jul]
+Jul
+[Aug]
+Aug
+[Sep]
+Sep
+[Okt]
+Okt
+[Nov]
+Nov
+[Dez]
+Dez
+[Januar]
+Januar
+[Februar]
+Februar
+[Maerz]
+MÑrz
+[April]
+April
+[Mai]
+Mai
+[Juni]
+Juni
+[Juli]
+Juli
+[August]
+August
+[September]
+September
+[Oktober]
+Oktober
+[November]
+November
+[Dezember]
+Dezember
+[Werft]
+Werft
+[Einkauf]
+Einkauf
+[Verkauf]
+Verkauf
+[Flotte]
+Flotte
+[Prise]
+Prise
+[neue Flotte]
+neue Flotte
+[Kapital]
+Kapital
+[Schiffe]
+Schiffe
+[Haefen]
+HÑfen
+[Hafen]
+Hafen
+[Million]
+Mio.
+[Punkte]
+Pkt
+[Besitz]
+Vermîgen
+[Karte0]
+Weltkarte
+[Karte2]
+Fantasy
+[Prodstaetten]
+ProduktionsstÑtten
+[max.]
+max.
+[Lecks]
+Lecks
+[sm/h]
+smh
+[Warnung]
+Hinweis
+[Hilfe]
+Hilfe
+[kein Eintrag]
+kein Eintrag
+[Makler]
+GrundstÅcke
+[Statistik]
+Statistik
+[Gefechts-Statistik]
+Gefechtsbilanz
+[Budget]
+Finanzen
+[Ein/Ausgaben]
+Einnahmen und Ausgaben
+[Hiscore]
+Herrscher der Meere
+[Spieltitel]
+Herrscher der Meere
+[DNeu]
+Neues Spiel
+[DLaden]
+Spiel laden
+[DSichern]
+Spiel sichern
+[DCredits]
+Credits
+[DAudio]
+Soundoptionen
+[DHiscore]
+Siegerliste
+[DQuit]
+Beenden
+[DStart]
+Spiel starten
+[DContinue]
+Spiel fortsetzen
+[DSpieler]
+Spieler
+[DLevel]
+Level
+[DSpielziel]
+Spielziel
+[DStartjahr]
+Startjahr
+[DZielMenge]
+Wert
+[DKarte]
+Weltkarte
+[Level0]
+Landratte
+[Level1]
+Strandbesucher
+[Level2]
+Matrose
+[Level3]
+KapitÑn
+[Level4]
+SeebÑr
+[Ziel0]
+Weltherrschaft
+[Ziel1]
+HÑfen
+[Ziel2]
+Vermîgen
+[SOff]
+nicht beteiligt
+[SComputer]
+Computer
+[SHuman]
+Spieler
+[DSEffekte]
+GerÑusche
+[DSSprache]
+Sprache
+[DSMusik]
+Musik
+[DiskLaden]
+Mîchten Sie diesen
+Spielstand laden?
+[DiskSichern]
+Mîchten Sie unter
+diesem Namen sichern?
+[Vertraege]
+VertrÑge
+[PGebuehr]
+GebÅhr
+[PEinkauf]
+Einkauf
+[PVerkauf]
+Verkauf
+[PHVoll]
+Hafen ÅberfÅllt
+[PHSperre]
+Hafen gesperrt
+[PHOffen]
+Hafen geîffnet
+[nicht kaufen]
+Nicht kaufen
+[neue Flotte bilden]
+Kaufen und neue Flotte bilden
+[zur Flotte hinzufuegen]
+Kaufen und zur Flotte hinzufÅgen
+[Gehalt]
+Protektion
+[Steuern]
+Steuereinnahmen 
+[Gebuehren]
+Zoll und HafengebÅhren
+[Produktionskosten]
+Produktionskosten
+[Piratenbeute]
+Anteil an Piratenbeute (50%)
+[Protektion Koenig]
+Protektion durch den Kînig
+[Protektion durch]
+Protektion durch
+[Hafengebuehren]
+HafengebÅhren
+[Zollgebuehren]
+ZollgebÅhren
+[Soldausgaben]
+Soldausgaben
+[Lagerhausverkauf]
+Warenverkauf aus dem Lager
+[Anteil Piratenbeute]
+Piratenbeuteanteil (50%)
+[Gewinn]
+Gewinn/Monat
+[Verlust]
+Verlust/Monat
+[Protektion]
+Protektion
+[Spende]
+Spende
+[Spenden?]
+Wol|len Sie die LÑn|der fin|an|ziell un|ter|stÅt|zen?
+[sehr gluecklich]
+Die Bevîlkerung ist
+sehr glÅcklich.
+[gluecklich]
+Die Bevîlkerung ist
+glÅcklich.
+[zufrieden]
+Die Bevîlkerung ist
+zufrieden.
+[unzufrieden]
+Die Bevîlkerung ist
+unzufrieden.
+[sehr unzufrieden]
+Die Bevîlkerung ist
+sehr unzufrieden.
+[aufstaendisch]
+Die Bevîlkerung ist
+Ñu·erst unzufrieden.
+[FileNotExist]
+Datei nicht gefunden!
+[FileOpenError]
+Datei konnte nicht erzeugt werden!
+[FileReadError]
+Fehler beim Lesen aus einer Datei!
+[FileWriteError]
+Fehler beim Schreiben in eine Datei!
+[FileCloseError]
+Datei konnte nicht geschlossen werden!
+[SwapOpenError]
+Swap-Datei konnte nicht geîffnet werden!
+[SwapReadError]
+Fehler beim Lesen einer Swap-Datei!
+[SwapWriteError]
+Fehler beim Schreiben in eine Swap-Datei!
+[SwapCloseError]
+Fehler beim Schlie·en einer Swap-Datei!
+[SwapDecompressError]
+Fehler bei der Dekomprimierung!
+[OpenDirError]
+Fehler beim ôffnen eines Verzeichnisses!
+[CloseDirError]
+Fehler beim Schlie·en eines Verzeichnisses!
+[MemError]
+Der Speicherplatz reicht nicht aus!
+[DosMemError]
+Der DOS-Speicher reicht nicht aus!
+[DiskError]
+Fehler beim Zugriff auf das Laufwerk!
+[LockError]
+Sperren eines Speicherbereichs fehlgeschlagen!
+[UnlockError]
+Entriegeln eines Speicherbereichs fehlgeschlagen!
+[StackError]
+StapelÅberlauf innerhalb eines Interrupts!
+[WrongVideoMode]
+Der Videomodus wird nicht unterstÅtzt!
+[VesaNotFound]
+VESA BIOS-Treiber nicht gefunden!
+[VesaInitError]
+Fehler bei der Initiali|sierung des Grafikmodus!
+[VesaError]
+Fehler beim Aufruf einer VESA-Funktion!
+[WrongPCX]
+Nicht unterstÅtztes PCX-Format!
+[CorruptedPCX]
+Fehlerhafte PCX-Datei!
+[CorruptedALB]
+Fehlerhafte ALB-Datei!
+[CorruptedFNT]
+Fehlerhafte FNT-Datei!
+[SoundInitError]
+Fehler bei der Sound-Initialisierung!
+[SoundLoadError]
+Sound konnte nicht geladen werden!
+[NoMouseDriver]
+Maustreiber nicht gefunden!
+[WrongMouseVersion]
+Microsoft Mouse 6.26 oder hîher erforderlich!
+[MouseInitVideoError]
+Videomodus wird durch Maustreiber nicht unterstÅtzt!
+[TimerHandleError]
+Kein Timer-Event-Handle frei!
+[TimerInvalidHandle]
+falscher Timer-Event-Handle!
+[SmackOpenError]
+Smack-File konnte nicht geîffnet werden!
+[DevelopError]
+Entwicklungsfehler!
+[MemFileInitError]
+Datei konnte nicht im Speicher abgelegt werden!
+[FileOutOfRangeError]
+öberlauffehler beim File-Zugriff!
+[FileIsEmptyError]
+Datei ist leer!
+[VideoRAMError]
+Fehler beim Zugriff auf das Video-RAM!
+[LZWDecompressError]
+Fehler bei der LZW-Dekomprimierung!
+[LZW16DecompressError]
+Fehler bei der LZW16-Dekomprimierung!
+[OldFormat]
+veraltetes Format!
+[HeapError]
+fehlerhafter Heap!
+[CriticalError]
+kritischer Hardware-Fehler!
+[DMouseClicks]
+Mausklicks
+[DTimeTicks]
+Ticken der Uhr
+[Titel0]
+Kaufmann
+[Titel1]
+Handelsherr
+[Titel2]
+KapitÑn
+[Titel3]
+Baron
+[Titel4]
+Herzog
+[Titel5]
+Admiral
+[Titel6]
+Vizekînig
+[Titel7]
+Herrscher der Meere
+[Freiraum]
+Freiraum
+[Transfer]
+Transfer
+[Proviant]
+Proviant
+[Mannschaft]
+Mannschaft
+[Munition]
+Munition
+[DIntro]
+Intro
+[Meldungen]
+Meldungen
+[Sichtmeldungen]
+Sichtmeldungen
+[Hafenmeldungen]
+Hafenmeldungen
+[Tiptexte]
+Tiptexte
+[TiptextVerzoegert]
+Verzîgerte Tiptexte
+[Tonne]
+t
+[Finanzen]
+Finanzen
+[Chronik]
+Chronik
+[EigeneFlotten]
+Eigene Flotten
+[GegnerFlotten]
+Gegnerflotten
+[HafenVerlassen]
+Hafen verlassen
+[HafenErreicht]
+Hafen erreicht
+[Wochen]
+Wochen
+[Technologie:]
+Technologie:
+[Monat]
+Monat
+[Monate]
+Monate
+[fertig]
+fertig
+[MissionStop]
+Mission abbrechen
+[MissionJa]
+Annehmen
+[MissionNein]
+Ablehnen
+[Reparatureinsatz]
+Reparatureinsatz
+[Prozent]
+%
+[Reparatur]
+Reparatur
+[Ausbaustufe]
+Ausbaustufe
+[Kontor]
+Kontor
+[Angebot]
+Angebot
+[Bedarf]
+Bedarf
+[Ausbaustop]
+Pause
+[Markt]
+Markt
+[Lager]
+Lager
+[Zeughaus]
+Zeughaus
+[Protektion_bezahlen]
+Protektion jetzt bezahlen?
+[Kanonen]
+Kanonen
+[Nachtrag]
+Nachtrag fÅr
+[Laufende Ausgaben]
+Ausgaben Anfang
+[Laufende Einnahmen]
+Einnahmen Anfang
+[Monatsabrechnung]
+Zahlungen Monatswechsel
+[SpezialLaden]
+an Bord nehmen
+[Protektionen]
+Protektionen
+[Pause]
+Pause
+[End]

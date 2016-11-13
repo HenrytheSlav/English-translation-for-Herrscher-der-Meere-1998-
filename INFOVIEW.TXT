@@ -1,0 +1,642 @@
+
+[Baukosten]
+Baukosten
+[Spielziel R1 Weltherrschaft]
+Spielziel
+[Spielziel R1 Haefen]
+Spielziel
+[Spielziel R1 Kapital]
+Spielziel
+[Spielziel R2]
+Missionen
+[Spielziel R3]
+Karriere
+[Rang]
+Rang:
+[Rang seit]
+, seit
+[Land Neutral]
+Neutral
+[MissionErfolgreich]
+Erfolgreiche Missionen:
+[WertungGesamt]
+Spielpunkte:
+[HaefenGesamt]
+HÑfen auf der Karte:
+[HaefenEntdeckt]
+Entdeckte HÑfen:
+[VermoegenGesamt]
+Gesamtvermîgen:
+[MAnzahl]
+Missionen gesamt:
+[MAbgelehnt]
+davon nicht angenommen:
+[MAngenommen]
+davon angenommen:
+[MErfolg]
+Erfolgreiche Missionen:
+[MAbbruch]
+Gescheiterte Missionen:
+[MAktiv]
+Laufende Mission:
+[MJa]
+Ja
+[MNein]
+Nein
+[MAktiveMission]
+Der Missionsauftrag lautet:
+[MFlotte]
+Beauftragte Flotte:
+[Finanzen R1]
+Finanzen
+[Finanzen Anfang]
+Vermîgen aktuell:
+[Finanzen Ausgaben]
+Ausgaben seit Monatsanfang:
+[Finanzen Einnahmen]
+Einnahmen seit Monatsanfang:
+[Finanzen Aktuell]
+Kapital aktuell:
+[Kriegsbilanz R1]
+Schiffe
+[Kriegsbilanz R2]
+Gewinne
+[Kriegsbilanz R3]
+Verluste
+[Von]
+Von:
+[Bis]
+Bis:
+[KG Start]
+Kriegsgewinne seit Spielbeginn:
+[KG Summe]
+Kriegsgewinne Summe:
+[KG Summe Schiffe]
+Wert eroberte Schiffe:
+[KV Start]
+Kriegsverluste seit Spielbeginn:
+[KV Summe]
+Kriegsverluste Summe:
+[KV Summe Schiffe]
+Summe verlorene Schiffe:
+[KB Festungen]
+Festungen
+[Ausgaben R1]
+Summe
+[Ausgaben R2]
+Waren
+[Ausgaben R3]
+Schiffe
+[Ausgaben R4]
+Produktion
+[Ausgaben Topic1]
+Ausgaben seit Spielbeginn:
+[Ausgaben Topic2]
+Wareneinkauf seit Spielbeginn:
+[Ausgaben Topic3]
+SchiffskÑufe seit Spielbeginn:
+[Ausgaben Topic4]
+Bau von Fabriken sein Spielbeginn:
+[Ausgaben Summe]
+Summe
+[Zoll]
+Zoll
+[Nation]
+Nation
+[Kauf Waren]
+Wareneinkauf
+[Kauf Schiffe]
+Schiffskauf
+[Kauf Produktion]
+Bau von ProduktionsstÑtten
+[Kauf Festung]
+Festung
+[Kauf Werft]
+Werften
+[Reparatur Festung]
+Rep. Festung
+[Reparatur Schiff]
+Rep. Schiff
+[Gebuehr Hafen]
+HafengebÅhr
+[Gebuehr Protektion]
+Protektion
+[Kauf Ausruestung]
+Einkauf von AusrÅstung
+[Erstheuer]
+Erstheuer
+[Sold Schiff]
+Sold Schiffe
+[Sold Festung]
+Sold Festungen
+[Produktion]
+Produktionskosten:
+[SumAusgaben]
+Gesamtausgaben:
+[---]
+---
+[Einnahmen R2]
+Waren
+[Einnahmen R3]
+Schiffe
+[Einnahmen R4]
+R4
+[Einnahmen Topic1]
+Einnahmen seit Spielbeginn:
+[Einnahmen Topic2]
+Warenverkauf inkl. Zoll seit Spielbeginn:
+[Einnahmen Summe]
+Summe
+[Verkauf Waren]
+Warenverkauf
+[Verkauf Schiffe]
+Schiffsverkauf
+[Steuereinnahmen]
+Steuereinnahmen
+[Piratenbeute]
+Piratenbeute
+[Einnahmen Schatz]
+Schatzsuche
+[Einnahmen Mission]
+Missionsbelohnung/Befîrderung
+[Einnahmen Ausbau]
+Abgebrochener Festungsausbau
+[Einnahmen Reparatur]
+Abgebrochene Reparaturen
+[Spielziel]
+Spielziel
+[Haefen]
+HÑfen
+[Flotten]
+Flotten
+[Schiffe]
+Schiffe
+[Statistik]
+Statistik
+[Finanzen]
+Finanzen
+[Einnahmen]
+Einnahmen
+[Ausgaben]
+Ausgaben
+[Vermoegen]
+Vermîgen
+[Kriegsbilanz]
+Gefechtsbilanz
+[Laenderbilanz]
+LÑnderbilanz
+[Werft]
+Werft
+[Festung]
+Festung
+[Kontor]
+Kontor
+[Markt]
+Freier Markt
+[Wert Geld]
+Kapital
+[Wert Schiffe]
+Schiffe
+[Wert Waren]
+Waren
+[Wert Produktion]
+ProduktionsstÑtten
+[Wert Festungen]
+Festungen
+[Wert Werften]
+Werften
+[Wert BezAusbau]
+Bezahlte AusbauauftrÑge
+[Wert BezReparatur]
+Bezahlte ReparaturauftrÑge
+[Wert Verbrauch]
+Verbrauchsmaterial
+[Brigg]
+Brigg
+[Korvette]
+Korvette
+[Fregatte]
+Fregatte
+[Fleute]
+Fleute
+[Galeone]
+Galeone
+[SListeRider1]
+Schiffe
+[SListeName]
+Name
+[SListeTyp]
+Typ
+[SListeWert]
+Wert
+[SListeJahr]
+Jahr
+[SListeSumme]
+Gesamtwert
+[FListeRider1]
+Festung
+[FListeName]
+Name
+[FListeStufe]
+Stufe
+[FListeWert]
+Wert
+[FListeJahr]
+Jahr
+[FListeSumme]
+Gesamtwert
+[WListeRider1]
+Waren
+[WListeOrt]
+Ort
+[WListeWare]
+Ware
+[WListeMenge]
+Menge
+[WListeWert]
+Wert
+[WListeSumme]
+Gesamtwert
+[PListe R1]
+Produktion
+[PListeOrt]
+Ort
+[PListeWare]
+Ware
+[PListeJahr]
+Jahr
+[PListeWert]
+Wert
+[WerftListe R1]
+Werft
+[WerftListeOrt]
+Ort
+[WerftListeStufe]
+Stufe
+[WerftListeWert]
+Wert
+[Tonnen]
+t
+[Laderaum]
+Frachtraum
+[Frachtraum gesamt]
+Frachtraum gesamt
+[Frachtraum frei]
+Frachtraum frei
+[Frachtraum belegt]
+Frachtraum belegt
+[Kanonen]
+Kanonen
+[Munition]
+Munition
+[Besatzung]
+Besatzung
+[Staerke]
+StÑrke
+[Proviant]
+Proviant
+[Ware]
+Ware
+[Waren]
+Waren
+[Menge]
+Menge
+[Wert]
+Wert
+[Technologiestufe]
+Technologiestufe
+[Beschaedigung]
+BeschÑdigung
+[Geschwindigkeit]
+Geschwindigkeit
+[Geschwindigkeit im Schnitt]
+Geschwindigkeit im Schnitt
+[Schiffsgeschwindigkeit vor Ort]
+Geschwindigkeit vor Ort
+[Lecks]
+Lecks
+[Anzahl]
+Anzahl
+[Besetzt]
+Besetzt
+[Kanonentyp]
+Typ
+[Pfund]
+Pfund
+[Reichweite]
+Reichweite
+[Meter]
+m
+[Bedienung]
+Bedienung
+[Mann]
+Mann
+[Kugeln]
+Kugeln
+[Zustand]
+Zustand
+[Ladung]
+Ladung
+[Moral]
+Moral
+[Monatssold]
+Monatssold
+[sm/h]
+sm/h
+[Windstaerke]
+WindstÑrke
+[Windrichtung]
+Windrichtung
+[Schiffsgeschwindigkeit]
+Schiffsgeschwindigkeit
+[Aktuelle Werte]
+Aktuelle Werte
+[Proviantvorrat]
+Proviantvorrat
+[Woche]
+Woche
+[Wochen]
+Wochen
+[Monat]
+Monat
+[Monate]
+Monate
+[Munitionsgewicht]
+Munitionsgewicht
+[kg]
+kg
+[Stadt]
+Stadt
+[Einwohner]
+Einwohner
+[Arbeitsplaetze]
+ArbeitsplÑtze
+[Arbeitslose]
+Arbeitslose
+[Arbeiter]
+Arbeiter
+[Zufriedenheit]
+Zufriedenheit
+[Hafen]
+Hafen
+[Hafengebuehr]
+HafengebÅhr
+[Hafen gesperrt]
+gesperrt
+[Ja]
+Ja
+[Nein]
+Nein
+[Einkaufsware]
+Angebot
+[Verkaufsware]
+Nachfrage
+[Warenhaus]
+Warenhaus
+[Preis]
+Preis
+[DezimalPunkt]
+,
+[Zeughaus]
+Zeughaus
+[Rationen]
+Rationen
+[Hafenliste]
+Hafenliste
+[Anzahl Haefen]
+Anzahl HÑfen
+[Gesamtbevoelkerung]
+Gesamtbevîlkerung
+[Gesperrt]
+Gesperrt
+[Anzahl Festungen]
+Anzahl Festungen
+[Anzahl Werften]
+Anzahl Werften
+[Schiffe zu kaufen]
+Schiffe zu kaufen
+[Zeughaeuser]
+ZeughÑuser
+[Stueck Prodstaetten]
+StÅck
+[Unterstuetzte Piraten]
+UnterstÅtzte Piraten
+[Min]
+Min
+[Max]
+Max
+[Aktuell]
+Aktuell
+[Matrosen]
+Matrosen
+[Kanonen gesamt]
+Kanonen gesamt
+[Kanonen besetzt]
+Kanonen besetzt
+[Besatzung gesamt]
+Besatzung gesamt
+[Munition gesamt]
+Munition gesamt
+[Tempo]
+Tempo
+[Auftrag]
+Auftrag
+[Flotte]
+Flotte
+[Schiff]
+Schiff
+[Ziel]
+Ziel
+[Standort]
+Standort
+[auf See]
+auf See
+[vor Hafen]
+vor Hafen
+[im Hafen]
+im Hafen
+[geschaetzte Ankunft]
+geschÑtzte Ankunft
+[Zielhafen]
+Zielhafen
+[unbekannt]
+unbekannt
+[Gesamt]
+Gesamt
+[Schiffe gesamt]
+Schiffe gesamt
+[Schiffe intakt]
+Schiffe intakt
+[Schiffe beschaedigt]
+Schiffe schwer beschÑdigt
+[Waren geladen]
+Waren geladen
+[Waren zuladbar]
+Waren zuladbar
+[freier Frachtraum]
+freier Frachtraum
+[Warenwert]
+Warenwert
+[Schiffstyp]
+Schiffstyp
+[Status]
+Status
+[Arbeitseinsatz]
+Arbeitseinsatz
+[Ausbau]
+Ausbau
+[Ausbaustufe]
+Ausbaustufe
+[Reparaturauftrag]
+Reparaturauftrag
+[Reparaturanstrengung]
+Reparaturanstrengung
+[Ausbaustufe Auftrag]
+Ausbaustufe beauftragt
+[Produktionsstaetten]
+ProduktionsstÑtten
+[Freie Grundstuecke]
+Freie GrundstÅcke
+[Produktivitaet]
+ProduktivitÑt
+[Infrastruktur]
+Infrastruktur
+[Strassen]
+Strassen
+[Fluss]
+Fluss
+[Land]
+Land
+[Anzahl Grundstuecke]
+Anzahl GrundstÅcke
+[Anzahl Produktionsstaetten]
+Anzahl ProduktionsstÑtten
+[Handelsgruppe]
+Handelsgruppe
+[Eigene Haefen]
+ProduktionsstÑtten in eigenen HÑfen
+[Fremde Haefen]
+ProduktionsstÑtten in fremden HÑfen
+[Prodstaetten]
+ProdstÑtten
+[Anzahl Flotten]
+Anzahl Flotten
+[Anzahl Schiffe]
+Anzahl Schiffe
+[Hafen R01]
+Hafen
+[Hafen R02]
+Handel
+[Hafen R03]
+Produktion
+[HafenL R01]
+Summen
+[HafenL R02]
+Produktion
+[HafenL R03]
+Dummy
+[Schiff R01]
+Status
+[Schiff R02]
+Ladung
+[Schiff R03]
+Geschwindigkeit
+[SchiffL R01]
+Summe
+[SchiffL R02]
+Waren
+[LBVermoegen R01]
+Vermîgen
+[LBVermoegen R02]
+Gewinn/Verlust
+[LBVermoegen R03]
+Besitz
+[LBVermoegen 1]
+Vermîgenverlauf
+[LBVermoegen 2]
+Gewinn/Verlust Verlauf
+[Flotte R01]
+Info
+[Flotte R02]
+Waren
+[Festung R01]
+Festung1
+[FlottenL R01]
+Summe
+[FlottenL R02]
+Waren
+[Werft R01]
+Werft1
+[1.Schiffstypen]
+Briggs
+[2.Schiffstypen]
+Korvetten
+[3.Schiffstypen]
+Fregatten
+[4.Schiffstypen]
+Fleuten
+[5.Schiffstypen]
+Galeonen
+[0.Handelsgruppe]
+Landwirtschaft
+[1.Handelsgruppe]
+Industrie
+[2.Handelsgruppe]
+Plantagen
+[3.Handelsgruppe]
+Kulturland
+[4.Handelsgruppe]
+Bergland
+[5.Handelsgruppe]
+Waldland
+[6.Handelsgruppe]
+Buschland
+[Einnahmen R1]
+Summe
+[MPunkte]
+Durch Missionen erreichte Punkte:
+[SzielGewichtung]
+Gewichtung Schiffe : HÑfen - 1 : 5
+[EinzelPreis]
+Preis/St.
+[MRestZeit]
+Verbleibende Zeit:
+[Ausgaben Mission]
+Gescheiterte Missionen
+[Wert Typ]
+Objekt
+[Einnahmen Topic3]
+SchiffsverkÑufe seit Spielbeginn:
+[Ausgaben Topic11]
+Ausgaben:
+[Ausgaben Topic21]
+Wareneinkauf:
+[Ausgaben Topic31]
+Schiffskauf:
+[Ausgaben Topic41]
+Bau von ProduktionsstÑtten:
+[Einnahmen Topic11]
+Einnahmen:
+[Einnahmen Topic21]
+Warenverkauf:
+[Einnahmen Topic31]
+SchiffsverkÑufe:
+[HListe R1]
+Entdeckte HÑfen
+[HListeName]
+Name
+[HListeWare]
+Ware
+[HListeArt]
+VerfÅgbarkeit
+[Handel]
+Handel
+[Man Unfaehig]
+ManîvrierunfÑhig!
+[Verkauf Ausruestung]
+Verkauf von AusrÅstung
+[Protektion Koenig]
+Protektion durch den Kînig
+[Gesamtwert]
+Gesamtwert
+[End]

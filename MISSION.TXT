@@ -1,0 +1,951 @@
+
+[Mission01A]
+Es ist uns zu Ohren ge|kommen, daá es eine
+Stadt mit Na|men @starthafen@ gibt, in der sehr
+seltene Wa|ren zum Kauf an|geboten werden.
+Stellt fest, ob dies der Wahr|heit ent|spricht und
+bringt die Wa|ren nach @zielhafen@. Dafr habt
+Ihr bis @zeit@ Zeit.
+[Mission01E]
+Durch die Entdeckung von @starthafen@ habt
+Ihr Euer K”nnen bewiesen. Wir wollen es Euch
+danken, indem Ihr vom Rat der St„dte eine
+Produktionsst„tte in @bshafen@ erhaltet.
+[Mission01F]
+Leider habt Ihr die Aufgabe nicht l”sen k”nnen.
+Durch Euer ungeschicktes Vorgehen haben wir
+wertvolle Zeit verloren. Einen Lohn k”nnt Ihr
+dafr nicht erwarten.
+[Mission02A]
+Groáe Unwetter ziehen ber @zielhafen@ einher,
+deshalb haben wir beschlossen, eine groáe Mauer
+um den Hafen zu errichten. Wir suchen nun
+einen entschlossenen Mann, der unser Schiff mit
+dem Golde sicher von @starthafen@ nach
+@zielhafen@ geleitet. Ihr mát es bis sp„testens
+@zeit@ geschafft haben.
+[Mission03A]
+Durch lang anhaltende Drre ist die Stadt
+@zielhafen@ von groáer Hungersnot geplagt. Wir
+suchen alsbald einen mutigen Kapit„n, der von
+@starthafen@ aus, @zielhafen@ mit @objekt@
+versorgt. Eine angemessene Entlohnung sei Ihm
+gewiá. Versucht die Not bis @zeit@ zu lindern.
+[Mission03E]
+Dank Eurem schnellen Eingreifen war es m”glich
+das Schlimmste zu verhindern. In @zielhafen@
+hat sich die Lage nun beruhigt und fr Eure
+mutige Tat habt Ihr Euch eine Belohnung von
+@lohngeld@ Gold verdient. 
+[Mission03F]
+Die Nahrungsmittel sind schlecht geworden. Es
+ist nun nicht mehr m”glich der Stadt
+@zielhafen@ die dringend ben”tigte Hilfe zu
+gew„hren. Andere Kapit„ne haben nicht versagt.
+Dies soll Euch eine Lehre sein.
+[Mission04A]
+Ein groáes Feuer hat die Ernte von @zielhafen@
+nahezu restlos ver|nichtet. Es ist er|forder|lich eine
+Flot|te mit @objekt@ von @starthafen@ zu ent|
+senden um die Unter|tanen seiner Majest„t zu
+ret|ten. Groá|zgig sollt Ihr ent|lohnt werden,
+wenn Ihr bis l„ng|stens @zeit@, Schlimm|stes zu
+ver|hindern wiát.
+[Mission04E]
+Ehre und Dank seien Euch gewiá. Ihr habt viele
+Hungernde von ihrer Not befreit. Die
+Bev”lkerung von @zielhafen@ zeigt sich mit der
+stolzen Summe von @lohngeld@ Gold fr Eure
+unverzgliche Hilfe erkenntlich.
+[Mission04F]
+Unverzgliche Hilfe w„re fr die Bev”lkerung
+von @zielhafen@ von N”ten gewesen. Die
+Nahrungsmittel sind jetzt aber verdorben. Ihr
+mát nun die Kosten in H”he von @strafegeld@
+Gold fr eine andere Flotte, aus Eurem eigenen
+Beutel zahlen.
+[Mission05A]
+In @zielhafen@ steht ein Angriff Eingeborener
+unmittelbar bevor. Wir bitten Euch, Nachschub
+zur Untersttzung der Garnisonskr„fte bis
+sp„testens @zeit@ nach @zielhafen@ zu
+eskortieren. Unser Schiff liegt in @starthafen@
+bereit. Es soll nicht Euer Schaden sein.
+[Mission05E]
+Ohne Eure Hilfe h„tten sehr wahrscheinlich
+hunderte Menschen ihr Leben verloren. Fr das
+sichere Geleit sei Euch eine Summe von
+@lohngeld@ Gold zu entrichten.
+[Mission05F]
+Der Leibhaftige soll Euch holen! Viele unserer
+Besitztmer sind Eures Versagens wegen zerst”rt.
+Wir fordern eine Wiedergutmachung von
+@strafegeld@ Gold von Euch!
+[Mission06A]
+Der Hafen @zielhafen@ wird seit geraumer Zeit
+immer wieder von Piraten heimgesucht. Befreit
+den Hafen von dieser Plage und vernichtet die
+berchtigte @flotte@. Als Lohn sollen alle
+geenterten Schiffe und @lohngeld@ Gold Euch
+geh”ren, wenn Ihr es bis @zeit@ schafft.
+[Mission06E]
+Eine hervorragende Schlacht! Endlich ist dieser
+Pirat da, wo er hingeh”rt. Jemand hat ihn auf
+den Grund des Meeres geschickt! Die Belohnung
+von @lohngeld@ Gold wird Euch zuerkannt.
+[Mission06F]
+H„tten wir Euch nur nie beauftragt! Die
+šberf„lle sind nun schlimmer, als je zuvor. Fr
+diese Fehlleistung wird Er bestraft. Als
+Entsch„digung hat Er @strafegeld@ Gold zu
+entrichten.
+[Mission08A]
+Wir konnten in Er|fahr|ung bring|en, daá der
+Feind unsere Stadt @starthafen@ an|greifen will.
+Ein zu|ver|l„ssiger Mann, reich be|lohnt, soll einige
+h”her|gestellte Edel|leute bis sp„testens @zeit@
+nach @zielhafen@ in Sicher|heit bringen.
+Diskretion sei Euch in h”ch|stem Maáe auf|erlegt.
+[Mission08E]
+Wir sind von Eurer Finesse beeindruckt. Keiner
+unserer Kapit„ne h„tte diese Aufgabe besser
+l”sen k”nnen, als Ihr es tatet. Ein neues Schiff
+liegt fr Euch in @bshafen@ als Geschenk
+bereit.
+[Mission08F]
+Der unterste Galeerensklave h„tte es besser
+machen k”nnen als Ihr. Um die Honorationen zu
+bes„nftigen, habt Ihr eine Strafe von
+@strafegeld@ zu bezahlen. Htet Euch vor der
+Obrigkeit.
+[Mission09A]
+Wie wir durch In|forman|ten in Er|fahr|ung brin|
+gen konnten plan|en Frei|beu|ter einen An|griff auf
+@starthafen@. Das Bild|nis der heiligen Mut|ter
+be|findet sich dort. Bringt es nach @zielhafen@
+und seid un|seres Dan|kes gewiá. Es ist da|mit zu
+rech|nen, daá die Frei|beuter bis sp„testens
+@zeit@ angreifen.
+[Mission09E]
+Wir sind glcklich, daá Ihr fr die heilige
+Kirche eine solche Brde auf Euch genommen
+habt. Wir werden fr Euer Seelenheil beten. Die
+Absolution sei Euch gewiss. 
+[Mission09F]
+Ihr seid ein Pirat! Ihr steckt bestimmt mit den
+anderen Strolchen unter einer Decke! Das Bildnis
+ist immer noch nicht angekommen. Wir erwarten
+eine Spende an die Kirche in einer H”he von
+@strafegeld@ Gold.
+[Mission10A]
+Seine Majest„t haben ein An|liegen. @zielhafen@,
+eine Schlssel|position in der Ex|pansions|politik
+Ihrer Majest„t, muá fr uns ge|won|nen wer|den.
+Fr die Er|fllung dieses Auf|trags versprechen
+wir eine hohe Be|lohn|ung. Die Zeit, die Ihr zur
+Ver|fg|ung habt ist aller|dings bis @zeit@
+beschr„nkt.
+[Mission10E]
+Seine Majest„t ist beeindruckt, mit welchem
+K”nnen Ihr diese Aufgabe gel”st habt. Dafr
+wird Euch die Festung in @bshafen@ ausgebaut.
+Mit solchen M„nnern k”nnen wir uns gegen alle
+Feinde behaupten.
+[Mission10F]
+Seine Majest„t l„át Euch durch mich
+bermitteln, daá Ihr fr Euer Unverm”gen eine
+Zahlung von @strafegeld@ Gold fr die
+uns„gliche Schmach zu entrichten habt.
+[Mission11A]
+Die Admiralit„t hat in Erfahrung gebracht, daá
+ein gef„hrlicher Freibeuter die Meere mit der
+sagen|umwobenen @flotte@ unsicher macht.
+Bringt ihn und sein Schiff, die @schiff@ auf
+und stellt sicher, daá er uns un|bedingt lebend in
+@zielhafen@ bergeben wird. šber|bringt Ihn bis
+@zeit@. 
+[Mission11E]
+Eine tadellose Leistung. Der Pirat hat uns schon
+viele Leben gekostet. Er soll in die Ruhmeshalle
+aufgenommen werden und sein Bild fortan einen
+Ehrenplatz erhalten. Ihr erhaltet dafr
+@lohngeld@ Gold als Belohnung.
+[Mission11F]
+Selbst der kleinste Gassenjunge h„tte ehrenvoller
+gehandelt. Er ist eine Schande fr die gesamte
+Seefahrt. Aber als Zeichen unsers guten Willens,
+verlangen wir nur die kleine Summe von
+@strafegeld@ Gold.
+[Mission12A]
+Der Sohn eines Botschafters, der sich in
+@starthafen@ be|findet, muá aus Grnden der
+Sicher|heit sofort und geheim nach @zielhafen@
+ge|leitet werden. Es ist notwendig, daá Ihr diesen
+Auf|trag bis sp„testens @zeit@ erfllt. Ver|anlaát
+alles Not|wendige, es soll Euer Schaden nicht
+sein.
+[Mission12E]
+Wir sind sehr erleichtert, daá Ihr diese delikate
+Angelegenheit so diskret und zu unserer vollsten
+Zufriedenheit gel”st hat. Euch soll eine Summe
+von @lohngeld@ Gold berreicht werden.
+[Mission12F]
+Wir h„tten wohl besser daran getan, diese Reise
+”ffentlich anzuschlagen, als sie Euch
+anzuvertrauen. Dankt dem Herrn, daá wir Euch
+nur ein Schiff aus @bshafen@ nehmen und nicht
+Euer armseliges Leben.
+[Mission14A]
+Unser Herrscher selbst ben”tigt Eure Hilfe! Ein
+streng ge|heimes Staatsdokument muá bis
+sp„testens @zeit@ nach @zielhafen@ ber|bracht
+werden. Begebt Euch nach @starthafen@ um das
+Schriftstck in Empfang nehmen zu k”n|nen.
+Dritte drfen es unter keinen Umst„nden zu Ge|
+sicht bekommen.
+[Mission14E]
+Dies war eine Meisterleistung! Wir werden Euch
+an h”chster Stelle lobend erw„hnen. Durch die
+šber|gabe des Dokumentes konnten einige Miá|
+verst„ndnisse vermieden werden. Vorerst m”chten
+wir uns aber erkenntlich zeigen, indem wir eine
+Seiner Flotten in @bshafen@ ausrsten.
+[Mission14F]
+Ihr h„ttet Fluáschiffer werden sollen! Selten hat
+uns jemand so schlechte Dienste geleistet. Durch
+Eure Tat habt Ihr uns in groáen Miskredit
+gebracht. Wir erwarten als Entsch„digung, daá
+Ihr @strafegeld@ Gold entrichtet.
+[Mission15A]
+@flotte@ von @land@ belagert st„ndig wichtige
+H„fen. Eure bisher gezeigten Leistungen
+best„rken uns in der Hoffnung, daá Ihr in der
+Lage seid, diese Blockaden bis @zeit@ zu
+brechen und die Flotte zu versenken. Unser Dank
+wird nicht nur aus Worten bestehen.
+[Mission15E]
+Es ist uns zu Ohren gekommen, jemand h„tte die
+Flotte vernichtet. Wir hatten uns nicht zuviel
+von Euch erhofft! Fr den grandiosen Erfolg
+erhaltet Ihr eine Belohnung von @lohngeld@
+Gold.
+[Mission15F]
+Seit Euch unserer Verachtung gewiá! Durch
+Eure Schuld muáte die Bev”lkerung des Hafens
+groáen Hunger leiden. Fr die Nahrungsmittel,
+die wir entsenden muáten habt Ihr eine Summe
+von @strafegeld@ Gold zu entrichten.
+[Mission16A]
+Wir haben eine Silberflotte in @starthafen@, die
+auf eine gut bewaffnete Geleitschutzflotte
+wartet. Bringt sie bis sp„testens @zeit@ sicher
+nach @zielhafen@ und eine frstliche Belohnung
+sei die Eure.
+[Mission16E]
+Der Schatzmeister ist euch zu groáem Dank
+verpflichtet. Auf seine Weisung ist Euch diese
+Schatulle mit @lohngeld@ Gold zu berbringen.
+[Mission16F]
+Dank Eures Versagens wurde der Schatzmeister
+dem Henker berantwortet. Doch auch Ihr sollt
+Euren Teil der Rechnung begleichen! Seine
+Majest„t erwartet von Euch die Summe von
+@strafegeld@ Gold als Warnung.
+[Mission17A]
+Die Krone ben”tigt dringend Schiffe. Rs|tet eine
+Ka|per|flotte aus und geht im Na|men un|seres
+Lan|des auf die Jagd. Bringt uns ein Schiff nach
+@zielhafen@. In der @flotte@ aus @land@ soll
+sich die stolze @schiff@ be|finden. Dies muá aber
+bis sp„testens @zeit@ ge|schehen. Ihr er|haltet
+einen ge|rechten Anteil.
+[Mission17E]
+Eure Leistung ehrt Euch! Wir sind „uáerst stolz
+auf Euch. Seine Majest„t bernimmt fr Euch
+die Ausrstung einer Flotte in @bshafen@.  
+[Mission17F]
+Als Warnung, Euch in Zukunft mehr fr Euren
+K”nig einzusetzen, nimmt er aus Eurem S„ckel
+@strafegeld@ Gold.
+[Mission18A]
+Uns wurde von einer Hafenstadt namens
+@zielhafen@ berichtet. Segelt zu diesem Hafen
+und erobert ihn fr uns bis sp„testens @zeit@.
+Der Dank seiner Majest„t wird unermeálich sein.
+[Mission18E]
+Ihr habt seiner Majest„t einen pers”nlichen
+Wunsch erfllt. In seiner Gte, schenkt er Euch
+eine Werft in @bshafen@.
+[Mission18F]
+Ihr habt seine Majest„t sehr ent„uscht. In seinem
+gerechten Zorn ber Euer Versagen, l„át er Eure
+Werft in @bshafen@ zerst”ren.
+[Mission19A]
+Die Prinzessin wnscht das Diadem von
+@starthafen@ zu erwerben. Findet diesen Hafen
+und bringt das Diadem nach @zielhafen@. Es
+wird nicht zu Eurem Schaden sein, wenn Ihr
+uns das Schmuckstck bis l„ng|stens @zeit@
+bergebt.
+[Mission19E]
+Ihre Majest„t, ist ausgesprochen zufrieden mit
+Euch. Es sei Euch eine Flotte in @bshafen@
+auszursten.
+[Mission19F]
+Seine Majest„t, ist sehr ungehalten! Seit Eurem
+Versagen, gr„mt sich die Prinzessin. Der K”nig
+beschlagnahmt eines Eurer Schiffe in @bshafen@
+und beauftragt einen anderen Kapit„n mit dieser
+Aufgabe.
+[Mission20A]
+Gesucht wird ein Mann ohne Furcht und Tadel,
+der eine an|sehnliche Summe Gold sicher von
+@starthafen@ nach @zielhafen@ be|f”rdert, um
+die Er|richtung einer Kir|che zu er|m”g|lichen. Es
+winkt eine stolze Be|lohnung. Die Be|wohner von
+@zielhafen@ er|warten das Gold bis @zeit@.
+[Mission20E]
+Durch Euer eiliges Zutun, ward es uns m”glich
+den Gl„ubigen in @zielhafen@ eine neue St„tte
+des Wirkens zu errichten. Um unseren
+besonderen Dank kundzutun erhaltet Ihr
+@lohngeld@ Gold als Belohnung.
+[Mission20F]
+Die Herren von @zielhafen@ sind aufgebracht.
+Sie fragen sich wo das Gold bleibt. Ihr habt
+unverzglich das Euch anvertraute Gold
+zurckzuerstatten und darber hinaus die
+Summe von @strafegeld@ an die heilige Kirche
+zu entrichten.
+[Mission21A]
+Mehrfach ist uns die Anwesenheit eines
+Schmug|glerschiffes in der @flotte@ aus @land@
+gemeldet worden. Es wird nun ein wage|mutiger
+Kapit„n gesucht, der imstande ist die @Schiff@
+bis sp„testens @zeit@ zu kapern und nach
+@zielhafen@ zu bringen. Die Ent|lohnung ist
+nicht zu gering.
+[Mission21E]
+Endlich ist dies berhmte Schiff in unseren
+H„nden. Fr diese glanzvolle Tat sei Euch die
+Errichtung einer Werft in @bshafen@ auf Kosten
+des Landes gew„hrt.
+[Mission21F]
+Da Ihr ohne Beute zur Stelle seid, werdet Ihr
+verd„chtigt mit den Schmugglern gemeinsame
+Sache zu machen. Um die Gemter zu beruhigen,
+enteignen wir im Namen Seiner Majest„t eines
+Eurer Schiffe in @bshafen@.
+[Mission22A]
+Auf Befehl seiner Majest„t soll der in Fein|
+deshand befindliche Hafen @zielhafen@ bis
+sp„testens @zeit@ fr die Krone erobert werden.
+Dafr werden starke Kr„fte gesucht, die fr
+Ruhm, Ehre und eine frstliche Belohnung diese
+Aufgabe bernehmen. 
+[Mission22E]
+Eure ruhmreichen Taten in dieser Schlacht
+werden bei Hof immer in guter Erinnerung blei|
+ben. Wir haben festgestellt, daá in @zielhafen@
+keine Festung mehr vorhanden ist, des|halb wer|
+den alle Mittel eingesetzt um eine aus|gerstete
+Festung in @bshafen@ zur Verfgung zu stellen.
+[Mission22F]
+Ihr habt zur Schande unseres Landes eine
+Niederlage erlitten. Um die Demtigung Seiner
+Majest„t zu lindern, sollt Ihr hart bestraft
+werden. Hiermit geben wir bekannt, daá Ihr die
+Summe von @strafegeld@ an die Krone zu
+entrichten habt.
+[Mission23A]
+Dem schwer erkrankten Bo|tschafter in
+@starthafen@ soll eine sichere šberfahrt nach
+@zielhafen@ gew„hrt werden. Der Wunsch des
+Bo|tschafters in seiner Hei|mat zur letzten Ruhe
+gebettet zu werden, setzt voraus, die šberfahrt
+bis sp„testens @zeit@ zu erm”glichen.
+[Mission23E]
+Da Euch die Erfllung des letzten Wunsches
+eines Todkranken die Reise Wert war, wird Euch
+zum Dank fr diese edelmtige Tat eine Flotte in
+@bshafen@ ausgerstet.
+[Mission23F]
+War es Euch nicht m”glich, den letzten Wunsch
+eines Sterbenden zu erfllen? Solch ein Verhalten
+tr„gt sicher nicht zur Steigerung Eures
+Ansehens bei.
+[Mission24A]
+Es wird eine einsatzbereite Flotte gesucht, um
+bis @zeit@ eine Ladung Pelzm„ntel von
+@starthafen@ nach @zielhafen@ zu bef”rdern.
+Die Entlohnung wird den Einsatz reichlich
+bertreffen.
+[Mission24E]
+Die schnelle Lieferung der Ware hat es
+erm”glicht einen guten Preis zu erzielen. Euer
+Anteil betr„gt deshalb @lohngeld@ Gold. 
+[Mission24F]
+Die Ware ist leider verrottet. Als Entsch„digung
+habt Ihr fr die Ware Ersatz in H”he von
+@strafegeld@ Gold zu entrichten.
+[Mission25A]
+Ein Geschenk des Prinzen in @starthafen@ fr
+die Obrigkeit in @zielhafen@ soll ein sicheres
+Geleit erhalten. Hierbei handelt es sich um ein
+stolzes Schiff seiner Flotte. Dem Prinzen ist dies
+eine wahrhaft frstliche Entlohnung wert, wenn
+Ihr es bis l„ngstens @zeit@ an sein Ziel bringt.
+[Mission25E]
+Die erfolgreiche Durchfhrung dieser Mission
+war fr unser Land von groáer Wichtigkeit. Als
+Zeichen des Dankes wird Euch die stolze Summe
+von @lohngeld@ Gold berreicht.
+[Mission25F]
+Seine Majest„t ist entrstet. Wo ist das stolze
+Schiff geblieben? Als Ersatz fr Euer Leben
+nehmen wir ein Schiff aus Eurem Besitz in
+@bshafen@.
+[Mission26A]
+@flotte@ des Feindes @land@ bereitet uns immer
+gr”áere Schwierigkeiten. Einem Kapit„n, dem es
+gelingt die feindliche Flotte bis @zeit@
+vernichtend zu schlagen, sei der Dank unseres
+Landes gewiá. Die Entlohnung wird einem groáen
+Erfolg angemessen sein.
+[Mission26E]
+Ein groáer Sieg wurde errungen. Die
+Vernichtung der Flotte wurde uns gemeldet.
+Deshalb werden wir Euch die stolze Summe von
+@lohngeld@ Gold als Belohnung bergeben.
+[Mission26F]
+Ihr habt unser Land stark geschw„cht. Um
+unserem Unmut fr diese Schmach Ausdruck zu
+verleihen, fordern wir von Euch die Summe von
+@strafegeld@ Gold.
+[Mission27A]
+Die Admiralit„t befrchtet eine immer weiter
+fort|schreit|ende Demoralisierung Ihrer See|leute.
+Die Ur|sache wird in der dreisten Vorgehens|weise
+eines Frei|beuters ver|mutet. Ihr mát diesen
+Piraten stel|len und seine @flotte@ ver|nichten.
+Wir geben Euch hierfr bis @zeit@ Zeit.
+[Mission27E]
+Eure heroische Seeschlacht mit den Piraten, hat
+den Seeleuten ihren Glauben an die Gerechtigkeit
+wiedergegeben. Fr Eure oder Eurer Verbndeten
+Tat ist seine Majest„t bereit, Euch eine Be|lohn|
+ung von @lohngeld@ Gold zu bergeben.
+[Mission27F]
+Euer Versagen hat die Moral unserer Seeleute
+noch mehr geschw„cht. Nun mssen die Kapit„ne
+auch noch jederzeit mit Unruhen und Meutereien
+rechnen. Ihr habt Eurem Land keinen guten
+Dienst geleistet.
+[Mission28A]
+Der Gouverneur von @starthafen@ hat einen Ge|
+leit|auftrag fr einen inoffiziellen Transport nach
+@zielhafen@. Der Gouverneur ist fr seine Groá|
+zgigkeit bekannt. Ent|t„uscht ihn nicht! Damit
+wir nicht zuviel Zeit verlieren, soll dies bis
+sp„testens @zeit@ geschehen.
+[Mission28E]
+Ich bin beauftragt, Euch ein groáartiges Schiff
+im Hafen von @bshafen@ zu berschreiben. Der
+Gouverneur war sehr zufrieden.
+[Mission28F]
+Der Gouverneur hat mich angewiesen, Euch
+darber zu informieren, daá er fr Eure
+dilletantische Arbeit eine angemessene
+Entsch„digung erwartet. Seiner Anordnung
+gem„á habt Ihr eine Strafe von @strafegeld@
+Gold zu entrichten.
+[Mission29A]
+In @starthafen@ sind unruhige Zeiten an|ge|
+brochen. Der @objekt@ von @starthafen@, muá
+un|verzglich mit seinem Hofstaat in das sichere
+@zielhafen@ geleitet werden. Seine Majest„t setzt
+seine ganze Hoffnungen in Euch und er|wartet
+seine G„ste bis sp„testens @zeit@.
+[Mission29E]
+Seine Majest„t ist zufrieden mit Eurer Leistung.
+Er gew„hrt Euch seine Gunst und bereignet
+Euch in seinem Namen eine Werft im Hafen von
+@bshafen@.
+[Mission29F]
+Seine Majest„t wendet sich ab, sobald Euer
+Name Erw„hnung findet. Er gab die Order, eine
+in Eurem Besitz befindliche Produktionsst„tte in
+@bshafen@ abzutragen.
+[Mission30A]
+Eine delikate Aufgabe be|n”tigt einen ver|
+schwiegenen Ka|pit„n! Die Kon|kubine einer ein|
+fluá|reichen Per|s”nlich|keit muá aus Grn|den der
+Staats|sicher|heit auáer Lan|des ge|bracht wer|den.
+Nehmt sie in @starthafen@ an Bord und bringt
+sie wohl|behalten nach @zielhafen@. Sie wird
+dort bis sp„testens @zeit@ erwartet.
+[Mission30E]
+Ich bin beauftragt, Euch einen Beutel mit
+@lohngeld@ Gold zu berreichen. Man war sehr
+zufrieden mit Euch.
+[Mission30F]
+Mein Herr hat mich angewiesen, euch darber
+zu informieren, daá er fr Eure miserable Arbeit
+eine angemessene Entsch„digung erwartet. Seine
+Vorstellung belief sich auf @strafegeld@ Gold.
+[Mission31A]
+@land@ hat uns den Krieg er|kl„rt! Unser
+Landes|herr ben”tigt eine gut aus|gerstete
+Kriegs|flotte, um seine wichtigsten H„|fen an|zu|
+greifen. Euer Auf|trag lautet @zielhafen@ bis
+@zeit@ zu er|obern. Ihr drft nicht ver|sagen! Das
+Wohl unseres Lan|des h„ngt davon ab.
+[Mission31E]
+Seine Majest„t ist zufrieden mit Euch. Erwartet
+auch in Zukunft Auftr„ge in dieser
+Angelegenheit. Vorab eine kleine Entsch„digung
+in einer H”he von @lohngeld@ Gold.
+[Mission31F]
+Unser Herrscher sieht ein, Euch berfordert zu
+haben. Ihr seid aus seinem Dienst entlassen, er
+beliebt aber eines Eurer Schiffe im Hafen von
+@bshafen@ fr den weiteren Kampf zu
+konfiszieren.
+[Mission32A]
+Es gibt einen feindlichen Hafen, den Ihr fr die
+Krone erobern sollt. @zielhafen@ ist stark
+befestigt. Wenn Ihr bis sp„testens @zeit@
+siegreich seid, wird sich die Regierung sicherlich
+dankbar zeigen.
+[Mission32E]
+Seine Majest„t l„chelt bei der Erw„hnung Eures
+Namens. Es ist uns eine Ehre, Euch ein Schiff im
+Hafen von @bshafen@ zu bereignen.
+[Mission32F]
+Seine Majest„t ist ausgesprochen ungehalten. Sein
+Wille ist es, Euch eine Strafe von @strafegeld@
+Gold aufzuerlegen.
+[Mission33A]
+@flotte@ aus @land@ macht uns in letzter Zeit
+immer mehr zu schaffen. Setzt Eure Segel und
+macht dem Spuk ein Ende. Ihr habt dazu bis
+@zeit@ Zeit. Eine groázgige Entlohnung steht
+fr Euch bereit.
+[Mission33E]
+Der Gegner ist durch Euch oder Eure Ver|
+bndeten beachtlich geschw„cht! Seine Majest„t
+gibt Euch zu Ehren ein groáes Fest und in seiner
+Groázgigkeit berreicht er Euch eine Summe
+von @lohngeld@ Gold.
+[Mission33F]
+Die Entt„uschung seiner Majest„t kennt keine
+Grenzen! Er fordert von Euch die Summe von
+@strafegeld@ Gold.
+[Mission34A]
+Die Admiralit„t ben”tigt eine gut ausgerstete
+Flotte, um einen Nahrungsmittelvorrat
+einzuschiffen. Ihr mát unbedingt @starthafen@
+anlaufen und von dort @objekt@ nach
+@zielhafen@ bringen. Fr diesen Auftrag habt
+Ihr bis @zeit@ Zeit.
+[Mission34E]
+Ihr habt Eurem Land und Seiner Majest„t einen
+groáen Dienst erwiesen. Wir zeigen uns fr Eure
+Leistungen mit @lohngeld@ Gold erkenntlich.
+[Mission34F]
+Ihr habt versagt! Um die fehlenden
+Nahrungsmittel zu beschaffen, erwarten wir ein
+Wiedergutmachung in einer H”he von
+@strafegeld@ Gold.
+[Mission35A]
+In @starthafen@ wurde ein Spion mit einem
+„uáerst wichtigem Dokument gefangengenommen.
+Bringt dieses Dokument so schnell als m”glich
+nach @zielhafen@. Solltet Ihr l„nger als bis
+@zeit@ dafr ben”tigen, verliert dieses
+Dokument allen Nutzen fr die Krone.
+[Mission35E]
+Ihr habt seiner Majest„t einen unsch„tzbaren
+Dienst erwiesen. Dafr sollt Ihr ein Schiff im
+Hafen von @bshafen@ erhalten.
+[Mission35F]
+Wichtige Informationen sind durch Eure Nachl„ssigkeit fr
+die Krone nutzlos geworden. Zur Strafe wird eines Eurer
+Schiffe in @bshafen@ von Seiner Majest„t konfisziert.
+Sch„tzt beim n„chsten Mal Eure M”glichkeiten realistischer
+ein!
+[Mission36A]
+Es wurden in letzter Zeit vermehrt einzelne
+Schiffe der @flotte@ aus @land@ gesichtet,
+welche unsere Festungen aussp„hten. Bringt die
+@schiff@ auf und bergebt uns den Kapit„n bis
+sp„testens @zeit@ in @zielhafen@. Lebend!
+[Mission36E]
+Ihr habt uns den Kapit„n bergeben. Durch Eure
+Tat stehen der Krone nun wichtige
+Informationen zur Verfgung. Nehmt als
+Zeichen unserer Wertsch„tzung diese Schatulle
+mit @lohngeld@ Gold.
+[Mission36F]
+Wir haben leider keine M”glichkeit mehr, in
+Erfahrung zu bringen, was es mit dem
+Sp„hschiff auf sich hatte. Ich hoffe fr Euch,
+daá durch Euer Versagen kein gr”áerer Schaden
+entstehen wird.
+[Mission37A]
+Wie uns aus sicherer Quelle berichtet wurde, ist
+die @schiff@ aus @land@ ausgelaufen. Dieses
+Schiff wurde vor einigen Monaten einer
+einfluáreichen Pers”nlichkeit gestohlen.
+šberreicht uns das Schiff bis l„ngstens @zeit@
+in @zielhafen@.
+[Mission37E]
+Die Gemter haben sich wieder beruhigt und in
+h”heren Kreisen ist man sehr zufrieden. Deshalb
+wurde entschieden, Euch eine Belohnung von
+@lohngeld@ Gold zu gew„hren.
+[Mission37F]
+Euer Versagen hat einige Gemter erhitzt. Um
+diese wieder zu beruhigen, erwartet man von
+Euch eine Wiedergutmachung in einer H”he von
+@strafegeld@ Gold.
+[Mission39A]
+Die heilige Kirche hat ein Anliegen. Sie wnscht
+einen hochverdienten Geistlichen von
+@starthafen@ bis l„ngstens @zeit@ nach
+@zielhafen@, zu seiner neuen Bestimmung reisen
+zu lassen. Bereitet ihm diese Reise so angenehm
+als m”glich.
+[Mission39E]
+Seine Eminenz hat sich in den wohlwollensten
+T”nen ber Euch ge„uáert. Wir m”chten uns,
+fr dieses Entgegenkommen Eurerseits, mit
+diesem Beutel, gefllt mit @lohngeld@ Gold,
+erkenntlich zeigen. 
+[Mission39F]
+Selbst einen solch einfachen Auftrag seid Ihr
+nicht in der Lage auszufhren. Kein Gold der
+Welt wird uns diesen Verlust ersetzen, doch seid
+Euch dessen gewiss! Ihr habt Euer Seelenheil in
+die Waagschale geworfen.
+[Mission40A]
+Seine Majest„t, der Prinz, haben ein Bildnis eines
+wundersch”nen M„dchens aus @starthafen@ zu
+Gesicht bekommen. Ihr sollt nun diese edle
+Jungfer zu ihm bringen. Begebt Euch eiligst dort
+hin und bring sie bis sp„testens @zeit@ nach
+@zielhafen@.  
+[Mission40F]
+Ihr seid kein Mensch, Ihr seid der Leibhaftige!
+Wie konntet Ihr es zulassen, daá die Maid nicht
+rechtzeitig angekommen ist? In seinem Schmerz
+l„át der Prinz die Festung in @bshafen@
+niederbrennen.
+[Mission02E]
+Als Lohn fr Seine Mhen sollt Ihr ein Schiff
+erhalten, mit welchem wir unseren Dank
+bekunden. Dies Schiff findet Ihr in @bshafen@.
+Es kann nun eine groáe Mauer um @zielhafen@
+errichtet werden und von Stund an wird der
+Hafen sicher sein.
+[Mission02F]
+Das Geld kommt zu sp„t. Die Strme wten
+weiter im Hafen. Wir werden Euch durch einen
+zuverl„ssigeren Kapit„n ersetzen und es wird
+Euch nichts ersetzt.
+[Mission40E]
+Der Prinz veranlasste den Ausbau der Festung in
+@bshafen@. Ihr habt zwei Menschen sehr
+glcklich gemacht.
+[Mission41A]
+Da in @zielhafen@ die Pelzm„ntel ausgegangen
+sind, msst Ihr euch sputen, den armen
+Frierenden neue Pelzm„ntel aus @starthafen@ zu
+bringen. Sie werden wohl nicht mehr l„nger als
+bis @zeit@ durchhalten.
+[Mission41E]
+Da den armen Frierenden in @zielhafen@ jetzt
+warm ums Herz ist, und Ihr Eure Aufgabe
+erfllt habt, gew„hren wir Euch die Gunst, daá
+eine Eurer Flotten in @bshafen@ von uns
+ausgerstet wird.
+[Mission41F]
+Da die Bev”lkerung in @zielhafen@ nun noch
+mehr friert, wird eines Eurer Schiffe im Hafen
+@bshafen@ in kleine Stcke zerhackt, nach
+@zielhafen@ bef”rdert und als Brennholz
+verwendet.
+[Mission42A]
+Wie uns zu Ohren gekommen ist, werden in
+@zielhafen@ Brger unseres Landes zu
+schmachvollen Frondiensten gezwungen. Begebt
+Euch mit einer gut ausgersteten Kriegsflotte
+dorthin und setzt dem sch„ndlichen Treiben bis
+sp„testens @zeit@ ein Ende.
+
+
+[Mission42E]
+Ihr seid ein Held! Hunderte, aus grausamer
+Knechtschaft befreite Brger haben eine Petition
+unterzeichnet, nach der die Festung in
+@bshafen@ nach unserem Gutdnken ausgebaut
+wird.
+
+[Mission42F]
+Wir wrden an Eurer Stelle unseren Wirkungs|
+kreis in ein anderes Ge|w„sser ver|legen. Die auf|
+ge|brachten An|geh”rigen der ar|men ge|knechteten
+Seelen, die Ihr nicht be|freien konntet, lau|fen
+Amok. Hinterlegt @strafegeld@ Gold bei uns
+und wir werden die Mas|sen zu be|ruhigen
+wissen.
+[Mission43A]
+Einer der grausamsten Piraten konnte aus seinem
+Verlieá in @land@ befreit werden. Er macht nun
+die Region mit seiner gefrchteten @schiff@ aus
+der @flotte@ unsicher. šbergebt den Unhold bis
+@zeit@ den Btteln in @zielhafen@. Es wird
+Euer Schaden nicht sein.
+[Mission43E]
+Der Herr sei gepriesen! Dank Euch haben wir
+uns einer weiteren Geiáel der Meere entledigt.
+Wir m”chten Euch unsere Dankbarkeit mit dieser
+kleinen Truhe, gefllt mit @lohngeld@ Gold,
+beweisen.
+[Mission43F]
+Welche Schande, welch Schmach! Wie konntet
+Ihr nur so versagen. Eines Eurer Schiffe in
+@bshafen@ soll unsere Entt„uschung ein wenig
+lindern. Ihr drft Euch zurckziehen.
+[Mission44A]
+Ein Schiff mit wertvollem Geschmeide wartet in
+@starthafen@ auf Euer Geleit. Begleitet es und
+bringt es innerhalb bis l„ngstens @zeit@ sicher
+nach @zielhafen@. Es soll Euer Schaden nicht
+sein.
+[Mission44E]
+Durch Euren Geleitschutz ist das Schiff sicher
+in @zielhafen@ angekommen. Dafr sollt Ihr
+frstlich mit @lohngeld@ Gold belohnt werden.
+[Mission44F]
+Da uns durch Euer Versagen ein erheblicher
+Schaden entstanden ist, habt Ihr mit Eurem
+Verm”gen fr diesen Schaden einstehen. Euch
+wird daher @strafegeld@ Gold genommen.
+[Mission45A]
+In @zielhafen@ werden die L„ndereien st„ndig
+von Eingeborenen angegriffen. Fahrt nach
+@starthafen@, nehmt dort Soldaten an Bord und
+begebt Euch zur Untersttzung der Bev”lkerung
+nach @zielhafen@. Zur Erfllung dieser Aufgabe
+habt Ihr bis @zeit@ Zeit.
+[Mission45E]
+Durch die vorzgliche Erfllung Eurer Aufgabe
+habt Ihr Euch eine neue Produktionsst„tte in
+@bshafen@ erwirkt. Benutzt sie fleiáig, um zu
+weiterem Wohlstand zu kommen.
+[Mission45F]
+Da es Euch nicht m”glich war, die gestellte
+Aufgabe zu erfllen, wurde auf h”chstem
+Beschluá eine Eurer Produktionsst„tten in
+@bshafen@ niedergebrannt. Dies soll Euch immer
+daran erinnern, angenommene Auftr„ge nicht
+nachl„ssig zu erfllen.
+[Mission46A]
+Der Feind ist uns zu m„chtig geworden. Rstet
+eine Kriegsflotte aus und greift unsere Feinde in
+@zielhafen@ bis sp„testens @zeit@ an.
+[Mission46E]
+Trotz Eurer Verluste ist es Euch gelungen,
+unsere Gegner in Ihre Schranken zu verweisen.
+Als Zeichen unseres Dankes werden wir Euch
+die Festung im Hafen von @bshafen@ ausbauen.
+[Mission46F]
+Da es Euch trotz Eurer St„rke nicht gelungen
+ist, den Gegner zu schw„chen und seine Macht
+zu brechen, wird Euch zur Strafe die Festung in
+@bshafen@ niedergebrannt.
+[Mission47A]
+Ein enger Vertrauter Ihrer Majest„t hat sich als
+b|ler Schur|ke und Spion enttarnt. Er ist aus
+einem Ha|fen in @land@ mit der @flotte@ in See
+ge|stochen. Bringt die @schiff@ auf, legt dieses
+Sub|jekt in Ket|ten und bringt ihn nach
+@zielhafen@. Wir er|warten Eure Rck|kehr bis
+@zeit@.
+[Mission47E]
+Durch Euren Sprsinn und Wagemut ist uns
+nun m”glich ein Exempel zu statuieren. Eure
+Leistung soll uns eine neue Produktionsst„tte in
+@bshafen@ wert sein.
+[Mission47F]
+Wir mssen uns wirklich fragen was in Euch
+gefahren ist? Wie k”nnt Ihr es nur wagen nach
+einer solch l„cherlichen Leistung wieder unter
+unsere Augen zu treten? Wir fordern ein Schiff
+in @bshafen@ als Wiedergutmachung von Euch.
+Nun geht uns aus den Augen.
+[Mission48A]
+Der Statthalter von @starthafen@ hat uns eine
+Bronzestatue zum Geschenk gemacht. Begebt
+Euch sofort dorthin und nehmt die Statue in
+Empfang, Bringt sie danach sofort nach
+@zielhafen@. Um die diplomatischen Beziehungen
+nicht zu gef„hrden, drft Ihr dafr nicht l„nger
+als bis @zeit@ ben”tigen.
+[Mission48E]
+Ihr habt den Auftrag zu unserer vollsten
+Zufriedenheit ausgefhrt. Euch wird der Lohn in
+H”he von @lohngeld@ Gold ausgeh„ndigt.
+[Mission48F]
+Wir k”nnen nur hoffen, daá die durch Euch
+entstandenen politischen Komplikationen keine
+gr”áeren Auswirkungen haben. Als
+Entsch„digung fr Euer Unverm”gen erwarten
+wir die Summe von @strafegeld@ Gold.
+[Mission49A]
+Ihr mát den Botschafter von @starthafen@ vor
+dem Mob retten. Bringt ihn in das sichere
+@zielhafen@. Beeilt Euch, denn die Zeit ist
+knapp. Er muá bis sp„testens @zeit@ dort
+ankommen.
+[Mission49E]
+Die Rettung ist gelungen! Unser Dank und
+unsere Wertsch„tzung sei Euch gewiá  Eine
+Werft im Hafen von @bshafen@ soll Euch
+errichtet werden.
+[Mission49F]
+Ein wichtiger Mann war nicht an seinem Platz,
+als man ihn dringend ben”tigte. Die Folgen sind
+noch gar nicht abzusehen. Fr diese Schmach
+und Ungewissheit soll Euch die Werft in
+@bshafen@ abgebrannt werden
+[Mission50A]
+Da Ihr fr Eure Verschwiegenheit bekannt seid,
+sollt Ihr ein Geheimdokument vom Gouverneur
+in @starthafen@ zu dem Groáinquisitor in
+@zielhafen@ bringen. Da die Angelegenheit von
+groáer Dringlichkeit ist, habt Ihr zu deren
+Erfllung nur bis @zeit@ Zeit.
+[Mission50E]
+Lob und Dank des Gouverneurs sei Euch zu
+berbringen. Als Lohn fr Eure Bemhungen soll
+ich Euch diesen Beutel mit @lohngeld@ Gold
+berreichen. 
+[Mission50F]
+Der Gouverneur tobt und verlangt Eure
+Absetzung. Wir haben ihn jedoch mit einer
+Summe Gold beschwichtigen k”nnen. Darum
+mát Ihr jetzt @strafegeld@ Gold an uns
+entrichten.
+[Mission51A]
+Die Steuereinnahmen von @starthafen@ waren
+ungew”hnlich hoch. Da die Kapazit„t des Schiffs
+unseres Steuereintreibers nicht ausreicht, werdet
+Ihr gebeten, den Rest der Steuern nach
+@zielhafen@ zu bringen. Hierfr wird Euch bis
+@zeit@ Zeit gelassen.
+[Mission51E]
+Da die Krone nun vieler Geldsorgen enthoben ist,
+sollt Ihr auch etwas von den Steuer profitieren.
+Als Dank erhaltet Ihr @lohngeld@ Gold.
+[Mission51F]
+Ihr habt der Krone hohen finanziellen Schaden
+zugefgt. Wenn Ihr dem Schuldturm entgehen
+wollt, dann bergebt dem Schatzmeister
+unverzglich @strafegeld@ Gold.
+[Mission52A]
+Wir haben einen Transport mit Gefangenen in
+@starthafen@, der nach @zielhafen@ geleitet
+werden muá, um die M„nner dort der
+Zwangsarbeit zuzufhren. Da diese Arbeitskr„fte
+schon verzweifelt erwartet werden, habt Ihr fr
+diesen Geleitschutz nur bis @zeit@ Zeit.
+[Mission52E]
+Euer Ruf eilt Euren Taten voraus. Kein
+Freibeuter scheint Euren Kanonen gewachsen.
+Aufgrund der geringen Verluste von Str„flingen
+und der schnellen šberfhrung, gew„hren wir
+Euch die Gunst eines neuen Schiffes im Hafen
+von @bshafen@.
+[Mission52F]
+Euer Versagen reizt uns, Euch an|stelle der
+Str„f|linge in den Zwangs|dienst zu senden. Ihr
+schuldet uns aber gn„digerweise nur ein Schiff.
+Deshalb nehmen eines Eurer Schiffe im Ha|fen
+von @bshafen@. Begleicht diese Rech|nung, und
+wir lassen Euch ziehen.
+[Mission53A]
+Einer unserer H„fen wird in letzter Zeit immer
+”fter vom Feind aus @land@ heimgesucht. Die
+v”llig eingeschchterte Bev”lkerung ben”tigt
+schnellstens Eure Hilfe. Ihr mát den Gegner bis
+@zeit@ gefunden und seine @flotte@ vernichtet
+haben
+[Mission53E]
+Gut gemacht! Es wurde uns gemeldet, jemand
+habe die Flotte aufgerieben. Euch zu Ehren wird
+ein Fest gegeben. Auáerdem soll diese stattliche
+B”rse mit @lohngeld@ Gold Euch geh”ren.
+[Mission53F]
+Welch Schmach, welch Gesichtsverlust! Geht mir
+aus den Augen! Nein! Halt! So wisset denn, daá
+wir die Summe von @strafegeld@ Gold als
+Entsch„digung annehmen werden. Ich drft Euch
+entfernen!
+[Mission54A]
+In @starthafen@ liegt eine Ladung seltener und
+ausgesuchter Pelzm„ntel, die dringend auf eine
+Transportm”glichkeit nach @zielhafen@ wartet.
+Wir hoffen, daá Ihr es verm”gt, diese edelen
+Pelze abzuliefern, bevor diese zu Moder werden.
+Wir gew„hren Euch dafr bis @zeit@ Zeit.
+[Mission54E]
+Wir sind Euch sehr dankbar. Dieses
+Empfehlungsschreiben zeugt von zufriedener
+Hand. Wir k”nnen also davon ausgehen, daá Ihr
+Eure Ladung erfolgreich berbracht habt. So soll
+Euch, aus unseren Best„nden, eine Eurer Flotten
+in @bshafen@ ausgerstet werden.
+[Mission54F]
+Ihr habt ver|sagt! Das s„uerliche Schreiben
+meines Freun|des zeugt von Eurer Schand|tat ge|
+gen die feine Gesel|lschaft. Ihr wer|det fr den
+Verlust aufkommen! Entrichtet an meinen Haus|
+hof|meister @strafegeld@ Gold und dann begebt
+Euch aus unseren Augen.
+[Mission55A]
+Die Tochter des Botschafters von @zielhafen@ ist
+entfhrt worden. Man droht die Maid zu
+meucheln, so nicht bis @zeit@ eine Aus|l”sung
+ber|geben werde. Wenn Ihr die Ge|qu„lte
+innerhalb dieser Zeit|spanne er|rettet, wird Euch
+eine Be|lohnung zuteil. Die Ausl”sung liegt fr
+Euch in @starthafen@ bereit.
+[Mission55E]
+Die Jungfrau gelangte, dank Eurer Hilfe,
+wohlbehalten zurck in den elterlichen Schutz.
+Euch soll nun die versprochene Summe von
+@lohngeld@ Gold bergeben werden.
+[Mission55F]
+Wir k”nnen dem Herren danken, daá die
+Entfhrer sich, nach Eurem Rettungsversuch,
+noch mit der doppelten L”segeldsumme
+einverstanden erkl„rten. Wir erwarten diese
+Summe selbstverst„ndlich von Euch zurck. Sie
+bel„uft sich exakt auf @strafegeld@ Gold.
+[STDLOHN]
+Man ist andernorts auáerordentlich zufrieden mit Euch.
+Dafr sei Euch eine Belohnung von @lohngeld@ Gold
+gew„hrt.
+[STDSTRAFE]
+Wir k”nnen einfach nicht glauben, daá ein so berhmter
+Mann, zu einer so miserablen Leistung f„hig ist. Zur Strafe
+habt Ihr uns eine Summe von @strafegeld@ Gold
+auszuh„ndigen.
+[stdpleite]
+Eure Leistung war alles andere als zufrieden|
+stellend. Seid dafr mit der Verachtung Eurer
+Mitmenschen bestraft. Wir hoffen, daá Ihr Euch
+das n„chste Mal besser anstrengt.
+[End]

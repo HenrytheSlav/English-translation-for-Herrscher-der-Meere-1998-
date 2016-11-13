@@ -1,0 +1,80 @@
+
+[Alexandria]
+Alexandria
+[Bahia]
+Bahia
+[Batavia]
+Batavia
+[B. Aires]
+B. Aires
+[Bombay]
+Bombay
+[Boston]
+Boston
+[Cadiz]
+Cadiz
+[Deshima]
+Deshima
+[El Mina]
+El Mina
+[Ft. James]
+Ft. James
+[Hudsonbay]
+Hudsonbay
+[Jamestown]
+Jamestown
+[Kalikut]
+Kalikut
+[Kalkutta]
+Kalkutta
+[Kapstadt]
+Kapstadt
+[Kristiania]
+Kristiania
+[Lima]
+Lima
+[Lissabon]
+Lissabon
+[Loanda]
+Loanda
+[London]
+London
+[Macao]
+Macao
+[Malakka]
+Malakka
+[Massaua]
+Maussau
+[Mogadischu]
+Mogadischu
+[Mombasa]
+Mombasa
+[Nantes]
+Nantes
+[Neapel]
+Neapel
+[Neu Albion]
+Neu Albion
+[Neufundland]
+Neufundland
+[Ochotsk]
+Ochotsk
+[Ormuz]
+Ormuz
+[Para]
+Para
+[Portsmouth]
+Portsmouth
+[S. Domingo]
+S. Domingo
+[Sinope]
+Sinope
+[Sofala]
+Sofala
+[Trinidad]
+Trinidad
+[Valparaiso]
+Valparaiso
+[Veracruz]
+Veracruz
+[End]

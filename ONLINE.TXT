@@ -1,0 +1,10 @@
+
+[enter search word]
+Geben Sie den Suchbegriff ein:
+[searching]
+suche Begriff...
+[nothing found]
+Suchbegriff nicht gefunden!
+[End of all files]
+Suche beendet
+[End]
