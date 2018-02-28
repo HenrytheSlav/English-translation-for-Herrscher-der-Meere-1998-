@@ -1,92 +1,83 @@
 
 [CDWarning]
-Bitte legen Sie die "Herrscher der Meere"-CD ein!
+Please insert the "Herrscher der Meere" CD!
 [SoundWarning]
-Es ist keine Sound|aus|gabe instal|liert!
-Die Sound|installa|tion kann mit dem
-Pro|gramm "SoundSet" durch|ge|fhrt werden!
+Es ist keine Soundausgabe installiert!
+Die Soundinstallation kann mit dem
+Programm "SoundSet" durchgefhrt werden!
 [MinOnePlayer]
-Es muá mindestens ein Spieler beteiligt sein.
+There must be at least one player.
 [MinTwoPlayer]
-Beim Spielziel Weltherrschaft mssen mindestens
-zwei Spieler beteiligt sein.
+A minimum of two players must play.
 [KeinFileName]
-Sie ms|sen zu|erst ei|nen gltigen
-Da|tei|na|men ein|ge|ben.
+You must first enter a valid file name.
 [KeinFile]
-Es ist keine Da|tei mit dem an|ge|gebenen
-Na|men vor|han|den.
+There is no file with the specified name.
 [KurzerName]
-Der einge|gebene Name ist zu kurz.
-Ver|wenden Sie bitte einen l„ngeren Namen.
+The entered name is too short.
+Please use longer name.
 [mess1]
-We|gen fehlen|der Zah|lung|en kann
-es zu De|ser|ti|onen, De|mo|ra|li|sie|rung
-oder zur Zer|st”rung von Pro|duk|ti|
-ons|st„t|ten kommen.
+The lack of payments can lead to
+desertions, demoralization or
+destruction of Businesses.
 [mess2]
-Sie ha|ben nicht ge|n|gend Ka|pi|tal, um die|se
-Wa|re ein|zu|kau|fen.
+You lack capital to buy theese Goods.
 [mess3]
-Das Schiff ist so stark be|sch„|digt, daá es
-un|ter|ge|hen wird. Es kann nicht mehr be|wegt
-wer|den.
+The ship is so badly damaged that it will
+sunk. The ship is no longer operable.
 [mess4]
-Sie sind Bankrott! Sie k”n|nen sich kei|nen Pro|vi|ant
-mehr leis|ten.
+You are bankrupt! You can no longer
+afford proviant!
 [mess5]
-Dies ist kei|ne le|ga|le Ver|si|on!!
-Das Spiel kann des|halb nicht kor|rekt ge|star|tet
-wer|den.
+This is not a legal version!
+The game wil not start correctly.
 [mess6]
-Sie sind Bankrott! Sie k”n|nen kei|ne See|leu|te
-mehr an|heu|ern.
+You are bankrupt! You can't hire
+any more sailors.
 [mess7]
-Der Auf|trag fr den Aus|bau der Fes|tung kann
-nicht mehr wei|ter zu|rck|ge|nom|men wer|den.
+The order for the expansion of the
+fort can no longer be aborted.
 [mess8]
-Die Festung kann in die|sem Ha|fen
-nicht mehr st„r|ker aus|ge|baut wer|
-den. Viel|leicht beim n„ch|sten
-Tech|no|lo|gie|fort|schritt!  
+You have reached the highest currently
+possible expansion level for this fort.
+But perhaps new technology advancements
+could allow further expansion?
 [mess9]
-Sie haben nicht ge|n|gend Ka|pi|tal, um die Fes|tung
-in die|sem Ha|fen st„r|ker aus|zu|bau|en.
+You don't have enough capital to
+expand the fort in this port.
 [mess10]
-Sie haben nicht ge|n|gend Ka|pi|tal,
-um eine Werft in die|sem Ha|fen zu
-er|rich|ten. Sie ben”tigen #.
+You do not have enough capital
+to build a shipyard in this port.
+You need #.
 [mess11]
-Sie haben nicht ge|n|gend Ka|pi|tal, um sich die|ses
-Schiff zu kau|fen.
+You lack capital to buy this ship.
 [mess12]
-Die Flotte ist be|reits zu groá. Es kann kein neu|es
-Schiff hin|zu|ge|fgt wer|den.
+The fleet is already too big.
+No new ships can be added.
 [mess13]
-Sie haben keine Flotte an|ge|w„hlt, zu der das
-Schiff hin|zu|ge|fgt wer|den k”nnte.
+You have not selected a fleet to
+which the ship could be added.
 [mess14]
-Sie sind Bank|rott! Sie k”n|nen die Munition nicht
-mehr be|zah|len.
+You are bankrupt! You can't pay
+for this ammunition.
 [mess15]
-Sie sind Bank|rott! Sie k”n|nen die Ka|no|nen
-nicht mehr be|zah|len.
+They are bankrupt! You can't pay
+for these cannons.
 [mess16]
-Sie haben nicht ge|n|gend Ka|pi|tal, um die Festung
-in die|sem Ha|fen zu re|pa|rieren.
+You lack funds to repair the
+fort in this port.
 [mess17]
-Diese Produktionsst„tte ist fr Sie zu teu|er. Sie
-ha|ben nicht ge|nug Ka|pi|tal.
+This business is too expensive.
+You don't have enough capital.
 [mess18]
-In diesem Hafen steht leider kein Bau|land mehr zur Verfgung.
+There is currently no more build space available.
 [mess20]
-Sie be|sitzen be|reits die maximale
-An|zahl von 20 Flot|ten. Sie k”n|nen
-keine weiteren Flot|ten bil|den. 
+It seems that you have already
+reached the maximum of 20 fleets
+and so you can't create any more.
 [DiskSaveWarning]
-Eventuell ist nicht gengend Spei|
-cher|platz auf dem Daten|tr„|ger
-vor|handen.
+There is probably not enough
+free space on the drive.
 [CloseApplications]
 Das Betriebssystem konnte nicht gengend Speicher zur
 Verfgung stellen. Bitte schlieáen Sie alle Anwendungen unter
@@ -95,31 +86,28 @@ Windows und starten Sie "Herrscher der Meere" erneut.
 Auf Ihrem Rechner wurde kein Maustreiber gefunden. Sie
 ben”tigen eine Microsoft-kompatible Maus ab Version 6.26.
 [SharewareVersion]
-Dies ist eine eingeschr„nkte Version. Die von Ihnen
-an|ge|w„hlte Funk|ti|on ist nur in der Voll|ver|sion m”g|
+This is a limited version. The function selected by you
+is only available in the full version.
 lich.
 [SharewareLimits]
-Dies ist eine eingeschr„nkte Version! Spielziel und
-Karte sind fest vorgegeben und k”nnen nicht frei
-ausgew„hlt werden.
+This is a limited version! The game goal and map
+are fixed and can not be freely selected.
 [Taste druecken]
-Taste drcken
+Press button
 [Programm beendet]
-Programm beendet!
+Program ended!
 [insufficient virtual RAM]
-Es steht nicht gengend virtueller Speicher zur
-Verfgung.
+There is not enough virtual memory available.
 [insufficient physical RAM]
-Es steht nicht gengend physikalischer Speicher zur
-Verfgung.
+There is not enough physical memory available.
 [virtual RAM detected]
-KB freier virtueller Speicher vorhanden!
+KB free virtual memory available!
 [virtual RAM required]
-KB freier virtueller Speicher ben”tigt!
+KB free virtual memory required!
 [physical RAM detected]
-KB physikalischer Speicher vorhanden!
+KB physical memory available!
 [physical RAM required]
-KB physikalischer Speicher ben”tigt!
+KB physical memory required!
 [start HDMEERE.BAT]
-Bitte starten Sie HDMEERE.BAT unter Dos!
+Please start HDMEERE.BAT under Dos!
 [End]

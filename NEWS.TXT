@@ -2,202 +2,192 @@
 [technologischer Fortschritt]
 City port
 [Technologie]
-Der technologische Fort|schritt im
-Schiffs|bau er|reicht Stufe #.
+The technological prog|res in
+Ship|build|ing has reached Level #.
 [Ueberfall]
 It was a deva|stating At|tack
 by the Na|ti|ves.
 [Epidemie]
-Ihre Kolonie wurde von einer
-Krank|heits|epidemie heim|gesucht.
+Your Colony was hit by an out|break
+of an epi|de|mic.
 [Brand]
-Eines ihrer Lager|hÑuser ist aus
-un|be|kannter Ur|sache ab|ge|brannt.
+One of your wa|re|hous|es has burn|ed
+down with|out a known cause.
 [Prodkill]
-Einige Pro|duktions|stÑtten wur|den
-durch # zer|stîrt.
+Your Pro|duc|tion fa|ci|li|ties were
+destroyed by # 
 [Newship]
-Eine neue #
-wurde fer|tig|ge|stellt.
+A new #
+was completed.
 [Revolte]
-Wegen Un|zu|frieden|heit kam es zu
-einer Re|volte.
+Due to a dis|sa|tis|fact|ion a re|volt
+was launch|ed.
 [neuer Pirat]
-Sie haben Piraten|kapitÑn
-# an|ge|worben.
+The pirate captain
+# became active.
 [Piratengefecht1]
-# war an einem
-Ge|fecht bei #
-be|teiligt.
+# was involved
+in fighting at #.
 [Piratengefecht2]
-# war an einem
-Ge|fecht auf offener See be|teiligt.
+# was involved in a
+battle on the open sea.
 [Pirat vernichtet]
-# wurde in
-einem Ge|fecht ver|nichtend ge|
-schlagen.
+# was defeated in
+a battle.
 [FlotteInSicht]
-Flotte in Sicht:
+Fleets in sight:
 [FlottenInSicht]
-# Flotten in
-Sicht:
+# Fleets in
+view:
 [Speed]
-Flotte ist nicht
-manîvrier|fÑhig!
+Fleet is not
+operable!
 [Hafenverlassen]
-Flotte ist in See
-gestochen!
+The fleet is of
+to the open Seas!
 [ZielBef]
-Zielhafen er|reicht:
-Flotte lÑuft ein!
+Target reached:
+Fleet arrived!
 [ZielGes]
-Zielhafen er|reicht:
-Hafen ge|sperrt!
+Target reached:
+Port is closed!
 [ZielGeb]
-Zielhafen er|reicht:
-GebÅhr zu hoch!
+Target reached:
+Fees are too high!
 [ZielVoll]
-Zielhafen er|reicht:
-Hafen Åber|fÅllt!
+Target reached:
+Port is full!
 [ZielSee]
-Zielpunkt er|reicht:
-Flotte wartet!
+Target reached:
+Awaiting orders!
 [ImHafen]
-Flotte ist in den
-Hafen ein|ge|laufen!
+Fleet has entered
+the Port!
 [Angriffstop]
-Flotte kann Feind
-nicht ein|holen!
+Fleet couldn't catch
+the enemy!
 [FlottenAngriff]
-Flotte ist be|reit
-zum An|griff!
+Fleet is re|ady
+for the Attack!
 [HafenAngriff]
-Flotte ist be|reit
-zum An|griff!
+Fleet is re|ady
+for the Attack!
 [Sturm]
-Flotte ist in einen
-Sturm ge|raten!
+Fleet has been caught
+in a storm!
 [Besatzung]
-Besatzung reicht
-nicht aus!
+There is not
+enough crew!
 [Verpflegung]
-Proviant geht zur
-Neige!
+Proviant is
+running low!
 [Moral]
-Moral an Bord ist
-kritisch!
+Moral aboard is
+critical!
 [Gebuehr]
-HafengebÅhr nicht
-mehr be|zahl|bar!
+Port fee is no
+longer affordable!
 [Flottenverlust]
-Flotte wird als
-ver|mi·t ge|meldet!
+Fleet is reported
+as missing!
 [Aufgehalten]
-Aufgehalten von
-feind|licher Flotte!
+Stopped by the
+enemy Fleet!
 [Schatzinsel]
-Wir haben einen Schatz im Wert
-von # gefunden.
+We have found a treasure worth #.
 [VSturm]
-Wir haben durch Sturm|schÑden
-ein Schiff verloren.
+We lost a ship in the storm.
 [VBesatzung]
-Wir haben durch Be|satzungs|
-mangel ein Schiff ver|loren.
+We lost a ship because there is no
+longer enough crew to operate it.
 [VMoral]
-Die Besatzung ist un|zu|frieden und
-hat ge|meutert.
+The crew was dissatisfied and mutinous.
 [VVerpflegung]
-Die Besatzung mu·te ver|hungern.
+The Crew has begun starving.
 [HafeninSicht]
-Neuer Hafen '#'
-in Sicht.
+New port '#'
+in sight.
 [TitleLooser]
-# mu· aufgeben
+# has lost
 [TitleWinner]
-# hat gewonnen
+# has won
 [TextComputerLooser]
-Der Computer|spieler ist zu schwach ge|worden, um sich
-noch wir|kungs|voll am Spiel|ge|schehen zu be|teiligen.
+The computer player has become too weak
+to participate effectively in the game.
 [TextLooser]
-Sie haben leider keine eigenen HÑfen und Flotten mehr. Da|
-mit kîn|nen Sie sich nun nicht mehr am Spiel|ge|schehen be|
-teiligen. Viel|leicht sollten Sie Ihre Stra|te|gie neu Åber|denken.
+Unfortunately you have lost all your ports and fleets.
+Now you can no longer participate in the game.
+Maybe you should rethink your strategy and try again.
 [TextComputerWinner]
-Leider mÅssen Sie sich gegen den Computer|spieler ge|schla|
-gen ge|ben. Viel|leicht sollten Sie Ihre Stra|te|gie neu Åber|
-denken.
+Unfortunately, you have been beatean by
+the computer player. Maybe you should
+rethink your strategy and try again.
 [TextWinnerWorld]
-Sie haben Ihrem Land zur alleinigen Welt|herr|schaft ver|hol|
-fen. Mit Ehrungen Åber|hÑuft werden Sie in die Ge|schichte
-als ruhm|reicher See|held eingehen.
+You have helped your country to become the world superpower.
+You will be overwhelmed with honors, and you will be remembered
+a glorious Captain.
 [TextWinnerHarbour]
-Sie haben Ihrem Land zu einer be|deut|samen Vor|macht|
-stellung ver|holfen. Mit Ehrungen be|lohnt wer|den Sie in die
-Ge|schichte ruhm|reicher See|helden ein|gehen.
+You have brought your country to a dominant position.
+Rewarded with honors, you will be remembered
+a glorious Capitan.
 [TextWinnerFortune]
-Sie haben Ihrem Land zu Reich|tum und Wohl|stand ver|
-holfen. Mit Ehrungen be|lohnt wer|den Sie in die Ge|schichte
-als ruhm|reicher See|held ein|gehen.
+You have helped your country to wealth and prosperity.
+Rewarded with honors, you will be remembered
+a glorious Capitan.
 [WarenPluendern]
-Die Besatzung ist am Verhungern
-und plÅndert das Warenlager.
+The crew is starving and has
+plundered the storages.
 [HafenErobert]
-Der Hafen wurde kampflos von
-# eingenommen.
+The Port was taken without a fight from #
 [ProdOld]
-Einige veraltete ProduktionsstÑtten
-sind zerfallen.
+Some obsolete Businesses
+had to be closed.
 [TitelRank1]
-Ernennung zum Handelsherrn
+Appointment as a Merchant
 [TitelRank2]
-Ernennung zum FlottenkapitÑn
+Appointment as a Fleet Captain
 [TitelRank3]
-Ernennung zum Baron
+Appointment as a Baron
 [TitelRank4]
-Ernennung zum Herzog
+Appointment as a Duke
 [TitelRank5]
-Ernennung zum Admiral
+Appointment as an Admiral
 [TitelRank6]
-Ernennung zum Vizekînig
+Appointment as a Viceroy
 [TitelRank7]
-Herrscher der Meere
+Ruler of the Seas
 [TextRank1]
-Durch Seine Erfolge in Handel und Gesellschaft er|hÑlt Er
-mit Brief und Siegel das Recht sich nunmehr Handels|herr zu
-nen|nen. Der Rat der StÑdte hat beschlossen, Ihn Seinem
-Stand ge|recht mit # Gold zu ehren.
+Through your successes in commerce and society, you have now,
+by letter and seal, obtained the right to become a Merchant.
+The city council has decided to honor this appointment
+with # gold.
 [TextRank2]
-In Anerkennung Seines seemÑnnischen Kînnens wird Er in
-den Rang eines Flotten|kapitÑns erhoben. Die ehr|wÅr|di|ge
-Ver|einigung der KapitÑne Åberreicht Ihm # Gold und nimmt
-Ihn in ihre Mitte auf.
+Recognizing your maritime skills, you are elevated
+to the rank of Fleet Captain. The venerable union
+of the captains awards you # gold and welcomes you into their midst.
 [TextRank3]
-Auf kîniglichen Beschlu· wird Er in den Adels|stand er|ho|
-ben. Hiermit sei Ihm gewÑhrt, sich von Stund an als Baron
-zu ti|tu|lie|ren. StandesgemÑ· wird Ihm # Gold Åber|eig|net.
+On the royal decree, your have been raised to the noble status.
+Hereby you are allowed to be titled as Baron. As a result,
+# gold will be handed over to you.
 [TextRank4]
-Auf allerhîchste Weisung wird Ihm ein Herzog|tum Åber|
-schrie|ben. Er sei von nun an mit Herzog an|zu|spre|chen. Sei|ne
-Ma|jes|tÑt gewÑhrt Ihm # Gold.
+A duchy is given over to you by the highest order. You are from
+now on known as a Duke. His majesty granted you # gold.
 [TextRank5]
-Die AdmirÑle seiner MajestÑt ernennen Ihn auf|grund sei|ner
-Bra|vour|stÅcke und Heldentaten zum Admiral. Als sei|ner
-Ma|jes|tÑts Admiral erhÑlt Er # Gold.
+The Admirals of His Majesty appoint him to the rank of Admiral
+on account of his brave and heroic deeds. As His Majesty's
+Admiral, He receives # gold.
 [TextRank6]
-Als Stellvertreter seiner MajestÑt wird Er zum Vize|kî|nig
-der er|oberten LÑndereien ernannt. Zu seiner Unter|stÅtz|ung
-wird Ihm hiermit # Gold Åberreicht.
+As His Majesty's deputy, you are appointed as Viceroy of
+the Conquered Lands. You are hereby given # gold for your support.
 [TextRank7]
-Er ist nun der Herrscher der Meere, kein anderes Land der
-be|kann|ten Welt ist nun in der Lage Ihm ent|ge|gen|zu|tre|ten.
-Alle ReichtÅmer liegen Ihm zu FÅ·en und Seine Macht ist
-gren|zen|los.
+You are now the Ruler of the Seas. No other country in the
+Known world is now in the position to threaten you.
+All riches lie at your feet, and your power is limitless.
 [ProdCost]
-Einige ProduktionsstÑtten sind aus
-Geldmangel verfallen.
+Some Businesses were forfeited
+due to lack of money.
 [Dessert]
 
-Ein Teil der Besatzung de|ser|tiert,
-weil sie keinen Sold erhal|ten hat.
+Part of the crew deserted due to
+not receiving any pay.
 [End]

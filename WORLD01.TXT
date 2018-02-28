@@ -20,13 +20,13 @@ El Mina
 [Ft. James]
 Ft. James
 [Hudsonbay]
-Hudsonbay
+Hudson Bay
 [Jamestown]
 Jamestown
 [Kalikut]
-Kalikut
+Calicut
 [Kalkutta]
-Kalkutta
+Calcutta
 [Kapstadt]
 Cape City
 [Kristiania]
@@ -42,11 +42,11 @@ London
 [Macao]
 Macao
 [Malakka]
-Malakka
+Malacca
 [Massaua]
-Maussau
+Massawa
 [Mogadischu]
-Mogadischu
+Mogadishu
 [Mombasa]
 Mombasa
 [Nantes]
@@ -56,7 +56,7 @@ Naples
 [Neu Albion]
 New Albion
 [Neufundland]
-Newfoundland
+St. John's
 [Ochotsk]
 Ochotsk
 [Ormuz]

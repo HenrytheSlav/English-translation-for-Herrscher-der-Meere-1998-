@@ -33,7 +33,7 @@ Ardent
 Arctic
 Altair
 Alaska
-AItair
+Altair
 Beagle
 Stegg
 Austin

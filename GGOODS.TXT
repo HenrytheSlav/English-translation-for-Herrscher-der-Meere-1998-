@@ -8,7 +8,7 @@ Spices
 [04.Ware]
 Clothing
 [05.Ware]
-Feinstoffe
+Luxury Fabrics
 [06.Ware]
 Coffee
 [07.Ware]

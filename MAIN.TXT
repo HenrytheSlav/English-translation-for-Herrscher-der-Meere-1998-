@@ -18,11 +18,11 @@ Cargo
 [Schaeden]
 Damage
 [Ausbau]
-Ausbau
+Expansion
 [Manuelleflotte]
 No Task
 [Entdeckungsflotte]
-Explorer
+Exploration
 [Handelsflotte]
 Trade Convoy
 [Kriegsflotte]
@@ -104,7 +104,7 @@ Convoy
 [Prise]
 Prize
 [neue Flotte]
-New Convoy
+New convoy
 [Kapital]
 Capital
 [Schiffe]
@@ -124,7 +124,7 @@ World Map
 [Karte2]
 Fantasy
 [Prodstaetten]
-Production
+Business
 [max.]
 max.
 [Lecks]
@@ -268,25 +268,25 @@ Protection
 [Spende]
 Dontaions
 [Spenden?]
-Wol|len Sie die LÑn|der fin|an|ziell un|ter|stÅt|zen?
+Do you want to support the country financially?
 [sehr gluecklich]
-Die Bevîlkerung ist
-sehr glÅcklich.
+The population
+is very happy.
 [gluecklich]
-Die Bevîlkerung ist
-glÅcklich.
+The population
+is happy.
 [zufrieden]
-Die Bevîlkerung ist
-zufrieden.
+The population
+is content.
 [unzufrieden]
-Die Bevîlkerung ist
-unzufrieden.
+The population
+is discontent.
 [sehr unzufrieden]
-Die Bevîlkerung ist
-sehr unzufrieden.
+The population is
+very discontent.
 [aufstaendisch]
-Die Bevîlkerung ist
-Ñu·erst unzufrieden.
+The population
+is mutinous.
 [FileNotExist]
 Data not found!
 [FileOpenError]
@@ -344,7 +344,7 @@ Fehler bei der Sound-Initialisierung!
 [SoundLoadError]
 Sound konnte nicht geladen werden!
 [NoMouseDriver]
-Maustreiber nicht gefunden!
+Mouse drivers not found!
 [WrongMouseVersion]
 Microsoft Mouse 6.26 oder hîher erforderlich!
 [MouseInitVideoError]
@@ -362,7 +362,7 @@ Datei konnte nicht im Speicher abgelegt werden!
 [FileOutOfRangeError]
 öberlauffehler beim File-Zugriff!
 [FileIsEmptyError]
-Datei ist leer!
+File is blank!
 [VideoRAMError]
 Fehler beim Zugriff auf das Video-RAM!
 [LZWDecompressError]
@@ -370,9 +370,9 @@ Fehler bei der LZW-Dekomprimierung!
 [LZW16DecompressError]
 Fehler bei der LZW16-Dekomprimierung!
 [OldFormat]
-veraltetes Format!
+outdated format!
 [HeapError]
-fehlerhafter Heap!
+faulty Heap!
 [CriticalError]
 Critical HW Error!
 [DMouseClicks]
@@ -400,7 +400,7 @@ Free Space
 [Transfer]
 Transfer
 [Proviant]
-Provisions
+Proviant
 [Mannschaft]
 Crew
 [Munition]
@@ -412,11 +412,11 @@ Notifications
 [Sichtmeldungen]
 Discovery alerts
 [Hafenmeldungen]
-Port Alerts
+Port alerts
 [Tiptexte]
 Tips
 [TiptextVerzoegert]
-Delayed Tips
+Delayed tips
 [Tonne]
 t
 [Finanzen]
@@ -424,13 +424,13 @@ Finances
 [Chronik]
 Chronicle
 [EigeneFlotten]
-Own Fleets
+Own fleets
 [GegnerFlotten]
-Opponents Fleets
+Opponents fleets
 [HafenVerlassen]
-Leave Port
+Leave port
 [HafenErreicht]
-Arrive at Port
+Arrive at port
 [Wochen]
 Weeks
 [Technologie:]
@@ -442,7 +442,7 @@ Months
 [fertig]
 completed
 [MissionStop]
-Abort Mission
+Abort mission
 [MissionJa]
 Accept
 [MissionNein]
@@ -454,7 +454,7 @@ Repairs
 [Reparatur]
 Repair
 [Ausbaustufe]
-Expansion Level
+Fort Level
 [Kontor]
 Merchant
 [Angebot]
@@ -476,9 +476,9 @@ Cannons
 [Nachtrag]
 Supplement for
 [Laufende Ausgaben]
-Ausgaben Anfang
+Expenses for this month
 [Laufende Einnahmen]
-Einnahmen Anfang
+Income for this month
 [Monatsabrechnung]
 Monthly payments
 [SpezialLaden]

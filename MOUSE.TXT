@@ -1,12 +1,12 @@
 
 [Gewinn/Verlust]
-Gewinn/Verlust
+Profit/Loss
 [Vermoegen]
-Vermîgen
+Assets
 [Details]
 Details
 [Protektion]
-Protektion
+Protection
 [Info]
 Info
 [Festung]
@@ -24,7 +24,7 @@ Galleon
 [Werft]
 Shipyard
 [Makler]
-Stadtansicht
+Visit the city
 [Flotte]
 Convoy
 [Hafen]
@@ -36,67 +36,67 @@ Main Menu
 [SpielSpeichern]
 Save Game
 [Vertraege]
-VertrÑge & Protektionen
+Contracts and Protections
 [Spielzieldiagramm]
-Spielzieldiagramm
+Game objective progress
 [Spielerstatistik]
-Player Statistics
+Player statistics
 [Gefechtsstatistik]
-Gefechtsstatistik
+Battle statitics
 [Ausruesten1]
-automatisch AusrÅsten
+Automatically equip
 [Ausruesten2]
-automatisch AusrÅsten
+Automatically equip
 [Kanonengroesse1]
-Kanonengrî·e Ñndern
+Change cannons calibre
 [SchiffVerkaufen]
-Ships sold
+Sell the ship
 [Ausruesten3]
-automatisch AusrÅsten
+Automatically equip
 [Kanonengroesse2]
-Change Cannons Calibre
+Change cannons cCalibre
 [FestungAbreissen]
-Burn down the Fort
+Burn down the fort
 [SpielLoeschen1]
-Spielstand lîschen
+Clear score
 [SpielLoeschen2]
-Spielstand lîschen
+Clear score
 [SpielLoeschen3]
-Spielstand lîschen
+Clear score
 [RouteSetzen]
 Set the route
 [Ankern]
-anchor
+Anchor
 [Ausguck]
-Ausguck
+Lookout
 [Angriff]
-Angriff
+Attack
 [Produktionsstaetten]
-Production Costs
+Production costs
 [Werft2]
-Werften
+Shipyards
 [Hafenoberflaeche1]
 City
 [Aufgeben]
-aufgeben
+Surrender
 [Windrichtung]
-Windrichtung
+Wind direction
 [ProdInfo]
-Info about Production
+Info about production
 [Prod]
-Production Building
+Business
 [Flottentransfer]
-Convoy Transfer
+Convoy transfer
 [Hafenoberflaeche2]
 City
 [Herstellung]
 Produced
 [Nachfrage]
-Nachfrage
+Demand
 [b: cpu battle]
 Autobattle
 [b: cap]
-Waffenstillstand
+Armstice
 [b: speedup]
 faster
 [b: speeddown]
@@ -104,53 +104,53 @@ slower
 [b: speed]
 Speed
 [b: windrose]
-Windrose
+Wind rose
 [InHafen]
-Hafen anlaufen
+Leave the port
 [HafenFreigabe]
-Hafen îffnen
+Open the port
 [Hafengebuehr]
-HafengebÅhr
+Port fees
 [GebaeudeAbreissen]
 Burn it down!
 [FestungAusbauen]
-Expand the Fort
+Expand the fort
 [FestungReparieren]
-Repair the Fort
+Repair the fort
 [VertFrieden]
-Friedensvertrag
+Peace Treaty
 [VertHandel]
-Handelsvertrag
+Trade Agreement
 [VertKooperation]
-Kooperationsvertrag
+Cooperation Agreement
 [Steuerrad]
-Sail on !
+Sail on!
 [BezLand]
 Name (edit)
 [Flottenname]
 Convoy Name (edit)
 [Hafenverteidigung1]
-Flotte wÑhlen
+Select Fleet
 [Hafenverteidigung2]
-Festung wÑhlen
+Select Fort
 [Festungsbesatzung]
-Festungsbesatzung
+Fort Crew
 [Kanonenkugelvorrat1]
-Vorrat an Munition
+Stock of Ammunition
 [Kanonenanzahl]
-aufgestellte Kanonen
+exchange cannons
 [Matrosen1]
-verfÅgbare Matrosen
+exchange men
 [Lagerhaus]
-Lagerhaus wechseln
+exchange wares
 [Lebensmittel]
-verfÅgbare Lebensmittel
+available food
 [Mannschaft]
-Mannschaft
+Crew
 [Kanonenkugelvorrat2]
-Vorrat an Munition
+Stock of Ammunition
 [Kanonenanzahl2]
-aufgestellte Kanonen
+Mounted Cannons
 [Proviant1]
 Proviant
 [Matrosen2]
@@ -158,7 +158,7 @@ Distribute Crew
 [Proviant2]
 Distribute Proviant
 [Kanonenkugeln]
-Distribute Munition
+Distribute Ammunition
 [Startmenue]
 Main Menu
 [Spieleroberflaeche]
@@ -198,9 +198,9 @@ Options
 [Mission]
 Missions
 [Flottenwechsel]
-Tranfer Ship
+Transfer Ship
 [Schiffversenken]
-Schiff versenken
+Scuttle the ship
 [Missionstafel]
 
 [Hafentafel]
@@ -208,21 +208,21 @@ Schiff versenken
 [Default]
 
 [Schiffstausch]
-Schiffe austauschen
+Exchange ships
 [OnlineExit]
-zurÅck zum Spiel
+back to the game
 [OnlineFirst]
-zur Anfangsseite
+to the Start page
 [OnlineLastPage]
-vorherige Seite
+previous page
 [OnlineSearch]
-Begriff suchen
+search term
 [OnlineGoOn]
-Suche fortsetzen
+continue search
 [OnlineForward]
-vorwÑrts blÑttern
+scroll forward
 [OnlineReward]
-rÅckwÑrts blÑttern
+scroll backwards
 [OnlineUp]
 Zeile nach oben
 [OnlineDown]
@@ -232,39 +232,39 @@ Seite nach oben
 [OnlinePageDown]
 Seite nach unten
 [MannschaftInc]
-Hire Men
+Hire men
 [MannschaftDec]
-Dismiss Men
+Dismiss men
 [ProviantInc]
-Wochenproviant kaufen
+Buy weeksworth of proviant
 [ProviantDec]
-Wochenproviant verkaufen
+Sell weeksworth of proviant
 [KanonenkugelnInc]
-Buy Munition
+Buy ammunition
 [KanonenkugelnDec]
-Sell Munition
+Sell ammunition
 [KanonenanzahlInc]
-Buy Cannons
+Buy cannons
 [KanonenanzahlDec]
-Sell Cannons
+Sell cannons
 [FlottenWareInc]
-nÑchste Ware
+Next goods
 [FlottenWareDec]
-vorherige Ware
+Previous goods
 [FlottenAuftrag]
-Change Convoy Task
+Change convoy task
 [FestungsbesatzungInc]
-Hire Soldiers
+Hire soldiers
 [FestungsbesatzungDec]
-Dismiss Soldiers
+Dismiss soldiers
 [HafengebuehrInc]
-HafengebÅhr erhîhen
+Increase port fees
 [HafengebuehrDec]
-HafengebÅhr senken
+Decrease port fees
 [SpielstandInc]
-SpielstÑnde vorblÑttern
+Scroll forward
 [SpielstandDec]
-SpielstÑnde zurÅckblÑttern
+Scroll backwards
 [Kontorgebaeude]
 Merchant
 [v_erhoehen]
@@ -272,45 +272,45 @@ Increase speed
 [v_verringern]
 Decrease speed
 [Name_aendern]
-Change Name
+Change name
 [Protektion_erhoehen]
-Protektion erhîhen
+Increase protection
 [Protektion_verringern]
-Protektion verringern
+Decrease protection
 [naechste_Flotte]
-nÑchste Flotte
+Next fleet
 [vorherige_Flotte]
-vorherige Flotte
+Previous fleet
 [Waren_verladen]
-Move Cargo
+Move cargo
 [AuftragWerft]
-Start/Stop Construction
+Start/Stop construction
 [Lautstaerke_aendern]
-LautstÑrke Ñndern
+Change volume
 [Mausklicks_aendern]
-Mausklicks Ñndern
+Change mouseclicks
 [Ticken_aendern]
-Ticken der Uhr Ñndern
+Change ticking of time
 [Spielerart_aendern]
-Change Player
+Change player
 [Spielziel_aendern]
-Change Objective
+Change objective
 [Level_aendern]
-Change Level
+Change level
 [Wert_aendern]
-Change Wert
+Change value
 [Jahr_aendern]
-Change Startyear
+Change startyear
 [Karte_aendern]
-Change Map
+Change map
 [Startseite]
-Startseite
+Start page
 [Zurueck]
 Back
 [Objekt_wechseln]
-Objekt wechseln
+Change object
 [Hafen_sperren]
-Hafen sperren
+Close the port
 [Flottenpanel]
 [Schiffspanel]
 [Werftpanel]

@@ -1,38 +1,37 @@
 
 [unentschieden]
-Das Gefecht konnte nicht ent|
-schieden werden.
+The battle was undecisive.
 [beide geben auf1]
-Beide Parteien haben sich auf
-einen Waffenstillstand geeinigt.
+Both parties have agreed
+on a ceasefire.
 [keine festung]
-Da keine Festung existiert, er|ge|
-ben sich die Bewohner kampflos.
+Since there is no fortress,
+the settlers surrender without a fight.
 [select defend fleet]
-Verteidigung des Hafens
+Defence of the Port
 [Verteidiger]
-Ihr Hafen kann von einer Flotte verteidigt
-werden. W„hlen Sie einen Verteidiger aus.
+Your port can be defended by a fleet.
+Select the chosen defending fleet.
 [Pause]
 Pause
 [Flucht]
-Flucht
+Escape
 [Bewegung]
-Bewegung
+Move
 [Angriff]
-Angriff
+Attack
 [Ankern]
-Ankern
+Anchor
 [Verfolgung]
-Verfolgung
+Pursuit
 [Entern]
-Entern
+Enter
 [Rammen]
-Rammen
+Ram
 [Verteidiegen]
-Verteidigen
+Defend
 [Beobachtung]
-Beobachtung
+Observe
 [ship successful]
 successful
 [ship sinked]
@@ -46,27 +45,25 @@ abandoned
 [ship escaped]
 escaped
 [AUSWERTUNG]
-AUSWERTUNG
+EVALUATION
 [Hafen nicht besiegt]
-Hafen nicht besiegt
+The Port was not captured
 [Besatzung demoralisiert]
-Besatzung demoralisiert
+The crew was demoralized
 [zu geringe Besatzung]
-zu geringe Besatzung
+The crew is too small
 [zu stark beschädigt]
-zu stark besch„digt
+Too much damage was taken
 [keine Festung mehr]
-keine Festung vorhanden
+No fortress to defend
 [CPU use defend fleet]
-Eine Flotte wurde zur Vertei|
-digung des Hafens herangezogen.
+A fleet was used to defend the port.
 [keine Festung vorhanden]
-In diesem Hafen gibt es
-keine Festung.
+There is no Fortress in this port.
 [gamespeed]
 Game speed
 [ship on sandbank]
-aufgelaufen
+stranded
 [fleet has won]
 Your fleet was vic|to|ri|ous.
 [fleet has lost]
@@ -76,12 +73,11 @@ The Fort stands vic|to|ri|ous.
 [harbour has lost]
 The Fort has fall|en.
 [fort booty]
-Ihnen fallen # Waren in die
-Hand, die in Ihr Lager trans|por|
-tiert werden.
+# Goods will be transported
+into your storage.
 [fleet has won against fort]
-Ihre Flotte konnte den Hafen er|
-folg|reich einnehmen.
+Your fleet has successfully
+took the port.
 [your fleet has escaped]
 Your fleet has ma|na|ged to es|cape!
 [End]

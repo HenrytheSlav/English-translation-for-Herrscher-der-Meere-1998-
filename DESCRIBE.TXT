@@ -9,10 +9,10 @@ Price
 /Month
 [Erklaerung Schiffsdaten]
 Crew:
-Number of cannons:
+Cannons:
 Cargo Capacity:
-Geschwindigkeit:
-max. Leckanzahl:
+Speed:
+Max. Leaks:
 [Mann]
 Men
 [Kanonen]
@@ -22,61 +22,52 @@ Tons
 [sm/h]
 sm/h
 [Lecks]
-Lecks
+Leaks
 [Die Brigg]
 Brig
 [Erklaerung Brigg]
-Bri|gan|ti|nen, Schnau|en und Briggs sind zwei|ma|sti|ge
-Schif|fe mit Rah|take|lung. Sie die|nen vor al|lem als
-Schnell|seg|ler fr den Ka|per- und Ge|leit|dienst und
-wer|den auch fr die Auf|kl„|rung im klei|ne|ren Ra|
-dius ein|ge|setzt. Sie sind be|son|ders we|gen ihr|er
-Wen|dig|keit und Schnel|lig|keit be|liebt.
+Brig|an|tines, Snow|ships and Brigs are two-|mast|ed
+Ships with tri|an|gu|lar sails on the Rah. They are
+above all fast-|sailing and sui|tab|le for es|cor|ting,
+il|le|gal ac|ti|vi|ti|es or re|con|nais|sance on short
+dis|tan|ces. They are par|ti|cu|la|ry va|lued for
+their speed and agilty.
 [Die Korvette]
 Corvette
 [Erklaerung Korvette]
-Kor|ve|tte sind mehr oder we|ni|ger klei|ne|re Fre|gat|
-ten. Trotz ih|rer et|was ge|ring|er|en Gr”|áe, sind sie
-voll kriegs|taug|lich. Sie k”n|nen fr Auf|kl„|rungs-,
-Ku|rier-, Be|wa|chungs- und Be|gleit|auf|ga|ben ein|ge|
-setzt wer|den. Oft|mals sind es die Kor|vet|ten, de|nen
-sich die ka|pi|ta|lis|tisch|en M„ch|te be|die|nen, um
-ih|re ko|lo|ni|a|len Er|o|be|rung|en durch|zu|fh|ren
-und aus|zu|wei|ten.
+Cor|vet|tes are more or less small|er Fri|ga|tes.
+In spite of their small|er size they are per|fect
+for war|fare. They can be used for re|con|nais|sance,
+guard|ing, accom|pa|ny|ing other ships and also as couriers.
+It is often the Cor|vet|tes that the mer|chant|s
+would like to carry out and expand their co|lo|ni|al con|quest|s.
 [Die Fregatte]
 Frigate
 [Erklaerung Fregatte]
-Fre|gat|ten wer|den be|vor|zugt fr das Ge|lei|ten von
-Han|dels|schif|fen und fr die Ver|fol|gung und Auf|
-brin|gung feind|li|cher Schif|fe ver|wen|det. In|fol|ge
-ih|rer gu|ten Se|gel|ei|gen|schaf|ten und ih|res nicht
-un|be|deu|ten|den Ge|fechts|wer|tes ver|wen|det man sie
-zur Ein|schch|te|rung und Nie|der|hal|tung ko|lo|ni|al
-un|ter|drck|ter V”l|ker und fr die Be|k„mp|fung von
-Pi|ra|ten.
+Frigates are primarily used for the protection of merchant
+ships and for tracking and pursuit of enemy ships. Due to
+their good sailing qualities and their substantial combat
+value, they were used to intimidate and supress colonial
+people and to combat piracy.
 [Die Fleute]
 Flute
 [Erklaerung Fleute]
-Die von den hol|l„n|di|schen Schiffs|bau|mei|stern ent|
-wi|ckel|te Fleu|te ist im Un|ter|schied zur Ga|le|o|ne
-ein rei|nes Han|dels|schiff. Durch ih|re au|áer|or|dent|
-li|che Leis|tungs|f„|hig|keit tr„gt sie ent|schei|dend
-zum Auf|stieg der hol|l„n|di|schen See|fahrt bei. Sie
-gilt in al|len eu|ro|p„|ischen Schiffs|werf|ten als
-Vor|bild fr den Bau von Han|dels|schif|fen.
+The Fleute, developed by the Dutch shipbuilders, is unlike
+the Galleon a pure merchant ship. Its outstanding efficiency
+made a significant contribution to the rise of Dutch seafaring.
+It has become a model for the construction of merchant ships
+in all European shipyards.
 [Die Galeone]
 Galleon
 [Erklaerung Galeone]
-Ga|le|o|nen gel|ten als wehr|haf|te Han|dels- und
-Kriegs|schif|fe. Sie wer|den von den Spa|ni|ern
-fr den Trans|port des Sil|bers und Gol|des aus den
-a|me|ri|ka|nisch|en Ko|lo|nien ein|ge|setzt. Aber
-auch Eng|l„n|der und Hol|l„n|der set|zen auf die
-Ga|le|o|nen, die, als gut be|st|ckte Han|dels|seg|ler
-und in klei|nen Flot|ten zu|sam|men|ge|faát, kei|nen
-Geg|ner zu frch|ten brau|chen.
+Galleons are regarded as defensive trade and war vessels.
+They were used by the Spaniards to transport the silver
+and gold from the American colonies. But the British
+and the Dutch also put their trust in the galleons,
+who in well-equipped trading fleets can travel with
+no fear of any opponent.
 [Produktivitaet]
 Productivity
 [Baukosten]
-Build Cost
+Build Costs
 [End]

@@ -1,14 +1,14 @@
 
 [NAME0]
-!Sonderware
+!Special Item
 [NAME1]
-Schatz
+Treasure
 [NAME2]
-Nahrung
+Food
 [NAME3]
 Weapons
 [NAME4]
-PelzmÑntel
+Fur coats
 [NAME5]
 Crown
 [NAME6]
@@ -20,17 +20,17 @@ Mrs.
 [NAME9]
 Pirate
 [NAME10]
-Botschafter
+Ambassador
 [NAME11]
-BÅrger
+Burgher
 [NAME12]
 Soldiers
 [NAME13]
-Gefangene
+Prisoners
 [NAME14]
-Steuern
+Control
 [NAME15]
 Escort
 [NAME16]
-Sonderwaren
+Special Item
 [End]

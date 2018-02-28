@@ -1,125 +1,122 @@
 
 [Zugende]
-Mîchten Sie den Spielzug
-jetzt beenden?
+Do you want to end
+your turn?
 [DateiLoeschen]
-Mîchten Sie die Datei
-wirklich lîschen?
+Are you sure you want
+to delete the file?
 [DateiUeberschreiben]
-Die Datei existiert
-bereits! öberschreiben?
+The file under this name
+already exists! Overwrite?
 [FastSave]
-Mîchten Sie den aktuellen
-Spielstand sichern?
+Do you want to save
+the current game?
 [Quit]
-Mîchten Sie das Spiel
-verlassen?
+Do you want to
+leave the game?
 [LandComputer]
-Soll # vom Computer gesteuert werden?
+Is # to be controlled by the computer?
 [LandHuman]
-Soll # von einem Spieler gesteuert werden?
+Is # to be controlled by a player?
 [Schiff versenken?]
-Mîchten Sie das
-Schiff versenken?
+Do you want to
+sink the ship?
 [Schiff verkaufen?]
-Mîchten Sie das Schiff fÅr # ver|kau|fen?
+Do you want to buy the ship for #?
 [Festung zerstoeren?]
-Mîchten Sie die
-Festung zerstîren?
+Would you like to
+destroy the fort?
 [Hiscore loeschen?]
-Mîchten Sie alle
-EintrÑge lîschen?
+Do you want to de|le|te
+all entries?
 [Eintrag loeschen?]
-Hiscore-Eintrag
-lîschen?
+Delete Highscore entry?
 [Werft kaufen?]
-Mîchten Sie eine Werft fÅr # er|rich|ten?
+Do you want to build a shipyard for #?
 [Haus zerstoeren?]
-ProduktionsstÑtte
-zerstîren?
+Destroy the Business?
 [Landname aendern]
-Bitte tragen Sie
-Ihren Namen ein:
+Please insert your
+new name:
 [Brigg kaufen?]
-Mîchten Sie die Brigg
-fÅr # kaufen?
+Do you want to buy
+the Brig for #?
 [Korvette kaufen?]
-Mîchten Sie die Korvette
-fÅr # kaufen?
+Do you want to buy
+the Corvette for #?
 [Fregatte kaufen?]
-Mîchten Sie die Fregatte
-fÅr # kaufen?
+Do you want to buy
+the Frigate for #?
 [Fleute kaufen?]
-Mîchten Sie die Fleute
-fÅr # kaufen?
+Do you want to buy
+the Flute for #?
 [Galeone kaufen?]
-Mîchten Sie die Galeone
-fÅr # kaufen?
+Do you want to buy
+the Galeon for #?
 [FVAngebotTitel]
-Friedensvertrag angeboten
+Peace Treaty Offer
 [HVAngebotTitel]
-Handelsvertrag angeboten
+Trade Agreement Offer
 [KVAngebotTitel]
-Kooperation angeboten
+Cooperation Offer
 [FVKuendigungTitel]
-Friedensvertrag gekÅndigt
+Peace Treaty Termination
 [HVKuendigungTitel]
-Handelsvertrag gekÅndigt
+Trade Agreement Termination
 [KVKuendigungTitel]
-Kooperation gekÅndigt
+Cooperation Termination
 [FVAblehnungTitel]
-Friedensvertrag abgelehnt
+Peace Treaty Rejection
 [HVAblehnungTitel]
-Handelsvertrag abgelehnt
+Trade Agreement Rejection
 [KVAblehnungTitel]
-Kooperation abgelehnt
+Cooperation Rejection
 [FVAkzeptanzTitel]
-Friedensvertrag angenommen
+Peace Treaty Adopted
 [HVAkzeptanzTitel]
-Handelsvertrag angenommen
+Trade Agreement Adopted
 [KVAkzeptanzTitel]
-Kooperation angenommen
+Cooperation Adopted
 [FVAngebot]
-# mîchte in Frieden mit Ihnen leben!
-Nehmen Sie das Angebot an?
+# would like to live in peace with you!
+Do you accept the offer?
 [HVAngebot]
-# mîchte mit Ihnen Handel treiben!
-Nehmen Sie das Angebot an?
+# would like to trade with you!
+Do you accept the offer?
 [KVAngebot]
-# bietet eine Kooperation!
-Nehmen Sie das Angebot an?
+# offers a cooperation!
+Do you accept the offer?
 [FVKuendigung]
-# hat den Friedens|vertrag ge|kÅn|digt
-und steht Ihnen nun feind|lich gegen|Åber.
+# has terminated the peace treaty
+and is now hostile to you.
 [HVKuendigung]
-# hat den Handels|vertrag gekÅn|digt
-und will alle Handels|be|ziehungen
-zu Ihnen ab|brechen.
+# has terminated the Trade
+Agreement and has decided to
+end all trade relations with you.
 [KVKuendigung]
-# hat die Kooperation gekÅn|digt
-und ver|wehrt Ihnen damit die
-Unter|stÅtzung in sei|nen HÑfen.
+# has terminated the Cooperation
+and denied you the use of his ports.
 [FVAblehnung]
-# hat das Friedens|angebot leider ab|ge|lehnt
-und steht Ihnen weiter|hin feind|lich gegen|Åber!
+# has unfortunately rejected the Peace
+Treaty and is still hostile to you!
 [HVAblehnung]
-# hat das Handels|angebot ab|ge|lehnt
-und ver|wehrt Ihnen damit weiter|hin den Waren|handel!
+# has rejected the Trade Agreement
+and is thus denying you his goods!
 [KVAblehnung]
-# hat eine Kooperation leider ab|ge|lehnt
-und ver|wehrt Ihnen damit die Unter|stÅtzung
-in sei|nen HÑfen.
+# has unfortunately refused a
+Cooperation and has denied you
+the use of his ports.
 [FVAkzeptanz]
-# hat das Friedens|angebot an|ge|nommen
-und den Ver|trag unter|zeichnet!
+# Has agreed to sign the proposed
+Peace Treaty!
 [HVAkzeptanz]
-# hat das Handels|angebot an|ge|nommen
-und den Ver|trag unter|zeichnet!
+# Has agreed to sign the proposed
+Trade Agreement!
 [KVAkzeptanz]
-# hat eine Kooperation mit Ihnen akzeptiert
-und den Ver|trag unter|zeichnet!
+# Has agreed to sign the
+proposed Cooperation!
 [Transout]
-Wollen Sie den Rest zurÅcklassen?
+Do you want to leave the rest behind?
 [MissionTime]
-Sie haben noch # Monate Zeit.
+You still have # months left.
 [End]

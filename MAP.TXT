@@ -7,6 +7,6 @@
 [MAP7]Devil's Bay
 [MAP8]Crossing
 [MAP9]Death's Bay
-[MAP10]Paradies
+[MAP10]Paradise
 [MAP11]Eldorado
 [End]

@@ -14,13 +14,13 @@ Career
 [Rang]
 Rank:
 [Rang seit]
-, seit
+, since
 [Land Neutral]
 Neutral
 [MissionErfolgreich]
 Completed missions:
 [WertungGesamt]
-Game points:
+Game points:s
 [HaefenGesamt]
 Total Ports:
 [HaefenEntdeckt]
@@ -28,33 +28,33 @@ Discovered Ports:
 [VermoegenGesamt]
 Total Assets:
 [MAnzahl]
-Total Mssions:
+Total Missions:
 [MAbgelehnt]
-were not accepted:
+Were not accepted:
 [MAngenommen]
-were accepted:
+Were accepted:
 [MErfolg]
 Successful Missions:
 [MAbbruch]
 Failed Missions:
 [MAktiv]
-Laufende Mission:
+Current Mission:
 [MJa]
 Yes
 [MNein]
 No
 [MAktiveMission]
-Der Missionsauftrag lautet:
+Mission objective:
 [MFlotte]
-Beauftragte Flotte:
+Representative Fleet:?
 [Finanzen R1]
 Finances
 [Finanzen Anfang]
 Current Wealth:
 [Finanzen Ausgaben]
-Ausgaben seit Monatsanfang:
+Expenses this month:
 [Finanzen Einnahmen]
-Einnahmen seit Monatsanfang:
+Income this month:
 [Finanzen Aktuell]
 Current capital:
 [Kriegsbilanz R1]
@@ -68,21 +68,21 @@ From:
 [Bis]
 To:
 [KG Start]
-War profits since start of the game:
+War profits since the start of the game:
 [KG Summe]
 War profits Total:
 [KG Summe Schiffe]
-Wert eroberte Schiffe:
+Value of ships captured:
 [KV Start]
-Kriegsverluste seit Spielbeginn:
+Ships lost in battles since the start of the game:
 [KV Summe]
-Kriegsverluste Summe:
+War losses Total:
 [KV Summe Schiffe]
-Summe verlorene Schiffe:
+Value of ships lost:
 [KB Festungen]
-Festungen
+Forts
 [Ausgaben R1]
-Summe
+Sum
 [Ausgaben R2]
 Goods
 [Ausgaben R3]
@@ -90,13 +90,13 @@ Ships
 [Ausgaben R4]
 Production
 [Ausgaben Topic1]
-Spending since beginning of the game:
+Expenses since the game start:
 [Ausgaben Topic2]
-Purchase of goods since beginning of the game:
+Good purchases since the game start:
 [Ausgaben Topic3]
-Ship purchases since beginning of the game:
+Ship purchases since the game start:
 [Ausgaben Topic4]
-Construction of Bussinesses since beginning of the game:
+Construction of businesses since the game start:
 [Ausgaben Summe]
 Sum
 [Zoll]
@@ -104,27 +104,27 @@ Customs
 [Nation]
 Nation
 [Kauf Waren]
-Wares Bought
+Wares bought
 [Kauf Schiffe]
-Ship Bought
+Ships bought
 [Kauf Produktion]
-Construction of Bussinesses
+Construction of businesses
 [Kauf Festung]
-Fort
+Forts
 [Kauf Werft]
-Shipyard
+Ports
 [Reparatur Festung]
-Rep. Fort
+Fort repairs
 [Reparatur Schiff]
-Rep. Ship
+Ship repairs
 [Gebuehr Hafen]
-Port Fees
+Port fees
 [Gebuehr Protektion]
 Protection
 [Kauf Ausruestung]
-Purchase of Equipment
+Purchase of equipment
 [Erstheuer]
-Erstheuer
+The first time?
 [Sold Schiff]
 Sold Ships
 [Sold Festung]
@@ -132,7 +132,7 @@ Sold Forts
 [Produktion]
 Production Costs:
 [SumAusgaben]
-Gesamtausgaben:
+Total Expenses:
 [---]
 ---
 [Einnahmen R2]
@@ -142,27 +142,27 @@ Ships
 [Einnahmen R4]
 R4
 [Einnahmen Topic1]
-Einnahmen seit Spielbeginn:
+Income since the game start:
 [Einnahmen Topic2]
-Warenverkauf inkl. Zoll seit Spielbeginn:
+Sale of goods incl. toll since the game start:
 [Einnahmen Summe]
 Sum
 [Verkauf Waren]
-Sold Goods
+Sold goods
 [Verkauf Schiffe]
-Sold Ships
+Sold ships
 [Steuereinnahmen]
-Tax Revenues
+Tax revenues
 [Piratenbeute]
-Piratenbeute
+Pirate booty
 [Einnahmen Schatz]
-Schatzsuche
+Treasures discovered
 [Einnahmen Mission]
-Missionsbelohnung/Befîrderung
+Mission rewards
 [Einnahmen Ausbau]
-Abgebrochener Festungsausbau
+Aborted fort expansions
 [Einnahmen Reparatur]
-Abgebrochene Reparaturen
+Aborted repairs
 [Spielziel]
 Goal
 [Haefen]
@@ -182,17 +182,17 @@ Expenses
 [Vermoegen]
 Wealth
 [Kriegsbilanz]
-Gefechtsbilanz
+Battle bilance
 [Laenderbilanz]
-LÑnderbilanz
+Country bilance
 [Werft]
-Shipyard
+Port
 [Festung]
 Fort
 [Kontor]
 Merchant
 [Markt]
-Free Market
+Neutral
 [Wert Geld]
 Capital
 [Wert Schiffe]
@@ -200,17 +200,17 @@ Ships
 [Wert Waren]
 Goods
 [Wert Produktion]
-ProduktionsstÑtten
+Businesses
 [Wert Festungen]
-Festungen
+Forts
 [Wert Werften]
-Werften
+Ports
 [Wert BezAusbau]
-Bezahlte AusbauauftrÑge
+Paid Fort Expansions
 [Wert BezReparatur]
-Bezahlte ReparaturauftrÑge
+Paid Repairs
 [Wert Verbrauch]
-Verbrauchsmaterial
+Consumables/Supplies
 [Brigg]
 Brig
 [Korvette]
@@ -228,133 +228,133 @@ Name
 [SListeTyp]
 Type
 [SListeWert]
-Wert
+Worth
 [SListeJahr]
 Year
 [SListeSumme]
-Gesamtwert
+Total Worth
 [FListeRider1]
-Festung
+Fort
 [FListeName]
 Name
 [FListeStufe]
-Stufe
+Level
 [FListeWert]
-Wert
+Worth
 [FListeJahr]
 Year
 [FListeSumme]
-Gesamtwert
+Total Worth
 [WListeRider1]
 Goods
 [WListeOrt]
-Ort
+Location
 [WListeWare]
 Ware
 [WListeMenge]
 Menge
 [WListeWert]
-Wert
+Worth
 [WListeSumme]
-Gesamtwert
+Total Worth
 [PListe R1]
 Production
 [PListeOrt]
-Ort
+Location
 [PListeWare]
-Ware
+Goods
 [PListeJahr]
 Year
 [PListeWert]
-Wert
+Worth
 [WerftListe R1]
-Werft
+Port
 [WerftListeOrt]
-Ort
+Location
 [WerftListeStufe]
-Stufe
+Level
 [WerftListeWert]
-Wert
+Worth
 [Tonnen]
 t
 [Laderaum]
-Frachtraum
+Storage space onboard
 [Frachtraum gesamt]
-Frachtraum gesamt
+Total storage space
 [Frachtraum frei]
-Frachtraum frei
+Free storage space
 [Frachtraum belegt]
-Frachtraum belegt
+Used storage space
 [Kanonen]
 Cannons
 [Munition]
-Munition
+Ammunition
 [Besatzung]
-Besatzung
+Crew
 [Staerke]
-StÑrke
+Strength
 [Proviant]
 Proviant
 [Ware]
-Ware
+Goods
 [Waren]
 Goods
 [Menge]
-Menge
+Ammount
 [Wert]
-Wert
+Worth
 [Technologiestufe]
-Technologiestufe
+Technology Level
 [Beschaedigung]
-BeschÑdigung
+Damage
 [Geschwindigkeit]
-Geschwindigkeit
+Speed
 [Geschwindigkeit im Schnitt]
-Geschwindigkeit im Schnitt
+Turning Speed?
 [Schiffsgeschwindigkeit vor Ort]
-Geschwindigkeit vor Ort
+Speed before location?
 [Lecks]
-Lecks
+Leaks
 [Anzahl]
-Anzahl
+Number
 [Besetzt]
-Besetzt
+Busy
 [Kanonentyp]
 Type
 [Pfund]
-Pfund
+Pound
 [Reichweite]
-Reichweite
+Range
 [Meter]
 m
 [Bedienung]
-Bedienung
+Operation
 [Mann]
 Men
 [Kugeln]
-Kugeln
+Balls
 [Zustand]
-Zustand
+Condition
 [Ladung]
-Ladung
+Load
 [Moral]
 Morale
 [Monatssold]
-Monatssold
+Monthly pay
 [sm/h]
 sm/h
 [Windstaerke]
-WindstÑrke
+Wind strength
 [Windrichtung]
-Windrichtung
+Wind direction
 [Schiffsgeschwindigkeit]
-Schiffsgeschwindigkeit
+Ship speed
 [Aktuelle Werte]
-Aktuelle Werte
+Current value
 [Proviantvorrat]
-Proviantvorrat
+Proviant stock
 [Woche]
-Weeks
+Week
 [Wochen]
 Weeks
 [Monat]
@@ -362,65 +362,65 @@ Month
 [Monate]
 Months
 [Munitionsgewicht]
-Munitionsgewicht
+Ammunition weight
 [kg]
 kg
 [Stadt]
 Town
 [Einwohner]
-Einwohner
+Reidents
 [Arbeitsplaetze]
-ArbeitsplÑtze
+Workplaces
 [Arbeitslose]
-Arbeitslose
+Unemployed
 [Arbeiter]
-Arbeiter
+Worker
 [Zufriedenheit]
-Zufriedenheit
+Satisfaction
 [Hafen]
 City
 [Hafengebuehr]
-HafengebÅhr
+Port fees
 [Hafen gesperrt]
-gesperrt
+Port Closed
 [Ja]
 Yes
 [Nein]
 No
 [Einkaufsware]
-Angebot
+Supply
 [Verkaufsware]
-Nachfrage
+Demand
 [Warenhaus]
-Warenhaus
+Warehouse
 [Preis]
 Cost
 [DezimalPunkt]
 ,
 [Zeughaus]
-Zeughaus
+Armory
 [Rationen]
-Rationen
+Rations
 [Hafenliste]
-Hafenliste
+List of ports
 [Anzahl Haefen]
-Anzahl HÑfen
+Number of ports
 [Gesamtbevoelkerung]
-Gesamtbevîlkerung
+Total population
 [Gesperrt]
-Gesperrt
+Closed
 [Anzahl Festungen]
-Anzahl Festungen
+Number of forts
 [Anzahl Werften]
-Anzahl Werften
+Number of ports
 [Schiffe zu kaufen]
-Schiffe zu kaufen
+Ships for sale
 [Zeughaeuser]
-ZeughÑuser
+Armories
 [Stueck Prodstaetten]
-StÅck
+Businesses
 [Unterstuetzte Piraten]
-UnterstÅtzte Piraten
+Support pirates?
 [Min]
 Min
 [Max]
@@ -428,15 +428,15 @@ Max
 [Aktuell]
 Current
 [Matrosen]
-Matrosen
+Sailors
 [Kanonen gesamt]
-Kanonen gesamt
+Total cannons
 [Kanonen besetzt]
-Kanonen besetzt
+Manned cannons
 [Besatzung gesamt]
-Besatzung gesamt
+Total crew
 [Munition gesamt]
-Munition gesamt
+Total ammunition
 [Tempo]
 Speed
 [Auftrag]
@@ -446,83 +446,83 @@ Convoy
 [Schiff]
 Ship
 [Ziel]
-Ziel
+Goal
 [Standort]
-Standort
+Location
 [auf See]
-on Sea
+at sea
 [vor Hafen]
-vor Hafen
+near port
 [im Hafen]
-in City
+in city
 [geschaetzte Ankunft]
-geschÑtzte Ankunft
+ETA
 [Zielhafen]
 Destination
 [unbekannt]
-unbekannt
+unknown
 [Gesamt]
-Gesamt
+Total
 [Schiffe gesamt]
-Schiffe gesamt
+Total ships
 [Schiffe intakt]
-Schip intact
+Ships intact
 [Schiffe beschaedigt]
-Schiffe schwer beschÑdigt
+Ships seriously damaged
 [Waren geladen]
-Waren geladen
+Goods loaded
 [Waren zuladbar]
-Waren zuladbar
+Goods possible to load
 [freier Frachtraum]
-freier Frachtraum
+Free cargo space
 [Warenwert]
-Warenwert
+Value of goods
 [Schiffstyp]
 Ship type
 [Status]
 Status
 [Arbeitseinsatz]
-Arbeitseinsatz
+Working load?
 [Ausbau]
-Ausbau
+Expansion
 [Ausbaustufe]
-Ausbaustufe
+Fort level
 [Reparaturauftrag]
-Reparaturauftrag
+Repairs in progress
 [Reparaturanstrengung]
-Reparaturanstrengung
+Reparaturanstrengung?
 [Ausbaustufe Auftrag]
-Ausbaustufe beauftragt
+Construction Level
 [Produktionsstaetten]
-ProduktionsstÑtten
+Businesses
 [Freie Grundstuecke]
-Freie GrundstÅcke
+Free plot
 [Produktivitaet]
 Productivity
 [Infrastruktur]
-Infrastruktur
+Infrastructure
 [Strassen]
-Strassen
+Streets
 [Fluss]
-Fluss
+River
 [Land]
-Land
+Plot
 [Anzahl Grundstuecke]
-Anzahl GrundstÅcke
+Number of plots
 [Anzahl Produktionsstaetten]
-Anzahl ProduktionsstÑtten
+Number of Businesses
 [Handelsgruppe]
-Handelsgruppe
+Merchant group
 [Eigene Haefen]
-ProduktionsstÑtten in eigenen HÑfen
+Businesses in own ports
 [Fremde Haefen]
-ProduktionsstÑtten in fremden HÑfen
+Businesses in foreign ports
 [Prodstaetten]
-ProdstÑtten
+Businesses?
 [Anzahl Flotten]
-Anzahl Flotten
+Number of fleets
 [Anzahl Schiffe]
-Anzahl Schiffe
+Number of ships
 [Hafen R01]
 City
 [Hafen R02]
@@ -530,7 +530,7 @@ Trader
 [Hafen R03]
 Production
 [HafenL R01]
-Summen
+Sums
 [HafenL R02]
 Production
 [HafenL R03]
@@ -540,33 +540,33 @@ Status
 [Schiff R02]
 Cargo
 [Schiff R03]
-Geschwindigkeit
+Speed
 [SchiffL R01]
-Summe
+Sum
 [SchiffL R02]
 Goods
 [LBVermoegen R01]
-Vermîgen
+Assets
 [LBVermoegen R02]
-Gewinn/Verlust
+Profit/Loss
 [LBVermoegen R03]
-Besitz
+Possessions
 [LBVermoegen 1]
-Vermîgenverlauf
+Assets history
 [LBVermoegen 2]
-Gewinn/Verlust Verlauf
+Profit/Loss trend
 [Flotte R01]
 Info
 [Flotte R02]
 Goods
 [Festung R01]
-Festung1
+Fort1
 [FlottenL R01]
-Summe
+Sum
 [FlottenL R02]
 Goods
 [Werft R01]
-Werft1
+Port1
 [1.Schiffstypen]
 Brigs
 [2.Schiffstypen]
@@ -578,65 +578,65 @@ Flutes
 [5.Schiffstypen]
 Galleons
 [0.Handelsgruppe]
-Landwirtschaft
+Farmlands
 [1.Handelsgruppe]
-Industries
+Industrial
 [2.Handelsgruppe]
 Plantages
 [3.Handelsgruppe]
-Kulturland
+Cultivated land
 [4.Handelsgruppe]
-Bergland
+Mountains
 [5.Handelsgruppe]
-Waldland
+Woodlands
 [6.Handelsgruppe]
-Buschland
+Bushland
 [Einnahmen R1]
-Summe
+Sum
 [MPunkte]
-Durch Missionen erreichte Punkte:
+Points achieved through missions:
 [SzielGewichtung]
-Gewichtung Schiffe : HÑfen - 1 : 5
+Weighting Ships: Ports - 1: 5
 [EinzelPreis]
-Preis/St.
+Price/pc.
 [MRestZeit]
-Verbleibende Zeit:
+REmaining time:
 [Ausgaben Mission]
-Gescheiterte Missionen
+Failed missions
 [Wert Typ]
-Object
+Type of Assets
 [Einnahmen Topic3]
-SchiffsverkÑufe seit Spielbeginn:
+Ships bought since the start of the game:
 [Ausgaben Topic11]
-Ausgaben:
+Expenses:
 [Ausgaben Topic21]
-Wareneinkauf:
+Purchase of goods:
 [Ausgaben Topic31]
-Schiffskauf:
+Purchase of ships:
 [Ausgaben Topic41]
-Bau von ProduktionsstÑtten:
+Constuction of Businesses:
 [Einnahmen Topic11]
-Einnahmen:
+Income:
 [Einnahmen Topic21]
-Warenverkauf:
+Sale of goods:
 [Einnahmen Topic31]
-SchiffsverkÑufe:
+Sale of ships:
 [HListe R1]
-Entdeckte HÑfen
+Discovered ports
 [HListeName]
 Name
 [HListeWare]
-Ware
+Goods
 [HListeArt]
-VerfÅgbarkeit
+Availability
 [Handel]
 Trader
 [Man Unfaehig]
-ManîvrierunfÑhig!
+No manouvering!?
 [Verkauf Ausruestung]
-Verkauf von AusrÅstung
+Sale of equipment
 [Protektion Koenig]
-Protektion durch den Kînig
+Protection by the King
 [Gesamtwert]
-Gesamtwert
+Total Worth
 [End]
