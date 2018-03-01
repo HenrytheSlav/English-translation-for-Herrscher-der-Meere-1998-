@@ -2,9 +2,9 @@
 [CDWarning]
 Please insert the "Herrscher der Meere" CD!
 [SoundWarning]
-Es ist keine Soundausgabe installiert!
-Die Soundinstallation kann mit dem
-Programm "SoundSet" durchgefÅhrt werden!
+There is no sound output installed!
+The sound installation can be done
+with the "SoundSet" application.
 [MinOnePlayer]
 There must be at least one player.
 [MinTwoPlayer]
@@ -21,16 +21,16 @@ The lack of payments can lead to
 desertions, demoralization or
 destruction of Businesses.
 [mess2]
-You lack capital to buy theese Goods.
+You lack capital to buy these Goods.
 [mess3]
 The ship is so badly damaged that it will
 sunk. The ship is no longer operable.
 [mess4]
 You are bankrupt! You can no longer
-afford proviant!
+afford provisions!
 [mess5]
 This is not a legal version!
-The game wil not start correctly.
+The game will not start correctly.
 [mess6]
 You are bankrupt! You can't hire
 any more sailors.
@@ -79,19 +79,18 @@ and so you can't create any more.
 There is probably not enough
 free space on the drive.
 [CloseApplications]
-Das Betriebssystem konnte nicht genÅgend Speicher zur
-VerfÅgung stellen. Bitte schlie·en Sie alle Anwendungen unter
-Windows und starten Sie "Herrscher der Meere" erneut.
+The operating system could not provide enough
+memory. Please close all applications under
+Windows and restart "Herrscher der Meere".
 [MouseNotFound]
-Auf Ihrem Rechner wurde kein Maustreiber gefunden. Sie
-benîtigen eine Microsoft-kompatible Maus ab Version 6.26.
+No mouse driver was found on your machine. You need
+a Microsoft compatible mouse version 6.26 or higher.
 [SharewareVersion]
-This is a limited version. The function selected by you
+This is a limited version. The function selected
 is only available in the full version.
-lich.
 [SharewareLimits]
 This is a limited version! The game goal and map
-are fixed and can not be freely selected.
+are fixed and can not be changed.
 [Taste druecken]
 Press button
 [Programm beendet]

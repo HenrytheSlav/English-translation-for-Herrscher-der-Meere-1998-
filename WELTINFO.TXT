@@ -100,7 +100,7 @@ Portuguese trading base.
 office.
 [Malakka]
 Founded 1350 by Malaysians
-from Sumatra; 1414 muslim;
+from Sumatra; 1414 Muslim;
 1511 Portuguese conquered
 the city; Major naval base;
 1641 to Dutch; Settlement
@@ -113,7 +113,7 @@ hub of Jan Coen.
 [Macao]
 1535 Portuguese settlement;
 1557 transferred from China
-to Portugal; 1575 Arch|bishopic;
+to Portugal; 1575 Archbi|shop|ric;
 1597 City status.
 [Deshima]
 Artificial island; 1641
@@ -128,7 +128,7 @@ the Pacific.
 Discovered by Hudson in 1610;
 1668 becomes a trade port;
 1670 economically developed
-by the Hudsonbay Company.
+by the Hudson Bay Company.
 [Neufundland]
 Around 1000 landing of Norse
 sailors; 1497 rediscovered

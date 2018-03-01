@@ -1,6 +1,6 @@
 
 [unentschieden]
-The battle was undecisive.
+The battle was indecisive.
 [beide geben auf1]
 Both parties have agreed
 on a ceasefire.
@@ -39,7 +39,7 @@ sinked
 [ship damage]
 damaged
 [sailors demoralisiert]
-demoralised
+demoralized
 [ship has no sailors]
 abandoned
 [ship escaped]
@@ -73,7 +73,7 @@ The Fort stands vic|to|ri|ous.
 [harbour has lost]
 The Fort has fall|en.
 [fort booty]
-# Goods will be transported
+ # goods will be transported
 into your storage.
 [fleet has won against fort]
 Your fleet has successfully

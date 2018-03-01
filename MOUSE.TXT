@@ -42,7 +42,7 @@ Game objective progress
 [Spielerstatistik]
 Player statistics
 [Gefechtsstatistik]
-Battle statitics
+Battle statistics
 [Ausruesten1]
 Automatically equip
 [Ausruesten2]
@@ -152,11 +152,11 @@ Stock of Ammunition
 [Kanonenanzahl2]
 Mounted Cannons
 [Proviant1]
-Proviant
+Provisions
 [Matrosen2]
 Distribute Crew
 [Proviant2]
-Distribute Proviant
+Distribute Provisions
 [Kanonenkugeln]
 Distribute Ammunition
 [Startmenue]
@@ -224,21 +224,21 @@ scroll forward
 [OnlineReward]
 scroll backwards
 [OnlineUp]
-Zeile nach oben
+Line up
 [OnlineDown]
-Zeile nach unten
+Line down
 [OnlinePageUp]
-Seite nach oben
+Page Up
 [OnlinePageDown]
-Seite nach unten
+Page Down
 [MannschaftInc]
 Hire men
 [MannschaftDec]
 Dismiss men
 [ProviantInc]
-Buy weeksworth of proviant
+Buy weeks-worth of provisions
 [ProviantDec]
-Sell weeksworth of proviant
+Sell weeks-worth of provisions
 [KanonenkugelnInc]
 Buy ammunition
 [KanonenkugelnDec]
@@ -288,7 +288,7 @@ Start/Stop construction
 [Lautstaerke_aendern]
 Change volume
 [Mausklicks_aendern]
-Change mouseclicks
+Change mouse clicks
 [Ticken_aendern]
 Change ticking of time
 [Spielerart_aendern]
@@ -300,7 +300,7 @@ Change level
 [Wert_aendern]
 Change value
 [Jahr_aendern]
-Change startyear
+Change start year
 [Karte_aendern]
 Change map
 [Startseite]

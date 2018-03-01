@@ -1,184 +1,183 @@
 
 [Spielbeginn1]
-Erkunden Sie - als Kaufmann - Ihren mit der Flagge
-in Landesfarbe markierten Hafen. Wenn sich das
-Hafenfenster îffnet brauchen Sie nur das Hafenbild
-anzuklicken und los gehts.
+Explore - as a merchant - your port marked with
+the flag in your national color. When the port
+window opens, you only need to click on the
+port image - and off you go!
 [Heimathafen1]
-Hafen:
-Willkommen in Ihrem Hafen! Sehen Sie sich die
-Schiffe am Kai an, und entscheiden Sie sich fÅr
-eines, nicht ohne sich die Schiffsinfo anzuschauen.
+Port:
+Welcome to your port! Take a look at the ships
+in the shipyard and decide for yourself, but
+remember to check the ship's information.
 [Touchcastle]
-Festung:
-Achten Sie stets auf eine gut bemannte und aus|
-gebaute Festung. Die Bevîlkerung mag das GefÅhl
-der Sicherheit.
+Fortress:
+Always pay attention that your fortress is
+well manned and upgraded. The population
+likes the feeling of security.
 [TouchWerft]
-Werft:
-Nicht jeder Hafen besitzt eine Werft. Dieser Hafen
-jedoch sehr wohl. Damit kînnen Sie regelmÑ·ig neue
-Schiffe vom Stapel lassen.
+Shipyard:
+Not every port has a shipyard. This port,
+however, does. This will allow you to
+regularly launch new ships and expand
+your fleet!
 [TouchKontor]
-Kontor:
-Alle Waren, die in diesem Hafen produziert werden,
-kînnen Sie im Kontor in den LagerhÑusern der
-LÑnder einkaufen. Der Verkauf von Handelswaren ist
-natÅrlich ebenso mîglich.
+Merchant:
+All goods produced in this port can be bought
+in the Merchants Office. The sale of wares is
+of course also possible.
 [SchiffGekauft1]
-Flotte:
-Sie sind nun stolzer Besitzer einer Flotte. Alle Flotten
-liegen im Hintergrund des Hafens. Klicken Sie auf
-eine Flotte und Sie erkennen im Vordergrund alle
-Schiffe der Flotte. Vergessen Sie auf keinen Fall,
-Ihrer Flotte ausreichend Mannschaft und Proviant
-mitzugeben und Kanonen sowie Munition
-mitzufÅhren.
+Fleet:
+You are now a proud owner of a fleet. All fleets can
+be seen in the background of the port. Click on a
+fleet and you will see all ships of the fleet in the
+foreground. Do not forget to give your fleet enough
+crew and provisions and to carry cannons and
+ammunition.
 [TouchMakler]
-Stadtansicht:
-Im Hinterland des Hafens kînnen Sie
-ProduktionskapazitÑten aufbauen.
+Town View:
+In the Town View, you can see the outskirts
+of the town and build up production capacity.
 [HafenAnlaufen1]
-Gegnerischer Hafen:
-HÑfen von  LÑndern, mit denen der Friedensvertrag
-gekÅndigt wurde kînnen Sie angreifen. Ihre Flotte
-sollte jedoch gut fÅr einen Kampf gerÅstet sein, um
-einer Festung trotzen zu kînnen.
+Enemy Port:
+Port of nations with who the peace treaty
+is not in effect can attack you. Their fleet,
+however, should be well armed for a fight
+to withstand the might of a fortress.
 [HafenAnlaufen2]
-Fremder Hafen:
-Dieser Hafen gehîrt Ihnen nicht, steht  Ihnen jedoch
-offen. Besuchen Sie Ihn, die GÅternachfrage und das
-Angebot erkennen Sie auf der Infotafel.
+Foreign Port:
+This port is not yours, but is open to your
+fleets. You can visit the port to trade - be
+sure to check Supply and Demand info
+on the Port window.
 [HafenAnlaufen4]
-Sie kînnen auch in fremden HÑfen einkaufen oder
-gar ProduktionsstÑtten bauen. Falls eine Werft
-vorhanden ist kînnen Sie sogar Schiffe kaufen.
+You can build production facilities in foreign
+ports. If there is a shipyard, you can even
+buy ships there.
 [HafenAnlaufen5]
-Stadtansicht in fremdem Hafen:
-Sie kînnen auch in einem fremden Hafen Pro|
-duktions|stÑtten bauen. Unterlassen Sie aber
-kriegerische Handlungen mit diesen LÑndern, da
-ansonsten Produktions|besitz verloren gehen dÅrfte.
+Port view in foreign harbor:
+You can also production facilities in a
+foreign port. But refrain from military
+actions with these nations,
+otherwise your production buildings
+will be confiscated.
 [MaklerAufruf1]
-Stadtansicht:
-Fabrik|gebÑude unter|scheiden sich durch etwas andere
-Um|risse von gewîhnlichen GebÑuden. Farblich
-kînnen Sie die unterschiedlichen LÑnder aus|ein|
-anderhalten.
+Town outskirts:
+The Production buildings are
+distinguished by slightly different
+outlines from the ordinary
+buildings. In terms of color, you
+can distinguish the different
+nations.
 [Touchbuilding]
-ProduktionsstÑtte:
-Klicken Sie auf die ProduktionsstÑtte und Sie
-erhalten einige Informationen und die Mîglichkeit,
-das GebÑude zu zerstîren. Im eigenen Hafen kînnen
-Sie kraft militÑrischer Macht alle Pro|duktions|ge|
-bÑude zerstîren, in fremden HÑfen nur die eigenen.
+Production building:
+Click on the production building to get some
+information or to get option to destroy the
+building. In your own harbor, you can use
+your military power to destroy all production
+buildings, in foreign ports you can only
+raze your own.
 [Geb‰udeBauen1]
-Standortwahl:
-Beachten Sie bei der Standort|wahl fÅr eine Pro|
-duktions|stÑtte unbedingt die rÑumliche NÑhe zu
-Stra·en oder FlÅssen. Dies steigert Ihre ProduktivitÑt.
+Plot selection:
+When choosing a location for a production
+building, it is essential to build in close
+proximity to roads or rivers. This increases
+your productivity and thus earnings.
 [Flottenverteiler1]
-Verteiler:
-Nutzen Sie diese Ansicht, um Waren, Besatzung und
-Bewaffnung zu verteilen oder Flotten aufzuteilen
-oder zu vereinen.
+Distributor view:
+Use this view to distribute goods, crew
+and weapons, or to split and merge fleets.
 [ProviantEnde1]
-Proviantmangel:
-Auf einem Ihrer Schiffe ist es zu einem Proviant|
-engpa· gekommen. PrÅfen Sie im Transfer|bildschirm
-ob andere Schiffe der Flotte aushelfen kînnen.
-Suchen Sie ansonsten einen Hafen auf, um sich zu
-versorgen.
+Lack of provisions:
+One of your ships has a shortage of provisions!
+Use the distribution view to share some from
+other ships in the fleet, or seek a close Port
+to acquire some more.
 [Verhungern1]
-Besatzung ist verhungert:
-Achten Sie zukÅnftig auf ausreichend Proviant, um
-Ihrer Besatzung den Hungertod zu ersparen und
-teuere Schiffe nicht zu verlieren.
+Crew is starving:
+In the future, make sure you have enough
+provisions to save your crew from starvation
+and not to lose expensive ships.
 [FeindFlotte1]
-Gegnerische Flotte:
-Eine gegnerische Flotte stellt sich Ihnen in den Weg
-und hintert Sie an der Weiterfahrt. Entweder Sie
-stellen sich dem Kampf oder warten, bis der Gegner
-den Weg freigibt.
+Enemy fleet:
+A opposing fleet stands in your way and
+hinders you on the onward journey. Either
+you face the fight or wait for the opponent
+to clear the way.
 [Moral1]
-Moral:
-Die Moral der Mannschaft ist am Boden. Sorgen Sie
-fÅr ausreichend Verpflegung auf See und gewÑhren
-Sie Ihr Landaufenthalt.
+Low morale:
+The morale of the crew is sinking lower.
+Provide adequate provisions at sea
+and allow your men rest on land.
 [Seegefecht1]
-Gefecht, Steuerung:
-Steuern Sie ein Schiff alleine oder ziehen Sie ein
-Rechteck Åber mehrere Schiffe, um es zu steuern.
+Battle Controls:
+Navigate a single fleet, or use a drag-select
+across multiple ships to naviate them.
 [Seegefecht2]
-Gefecht, Anwahl des Gegners:
-WÑhlen Sie jetzt den Gegner mit der linken Maus|
-taste an. Bleiben Sie kurz auf der Maustaste stehen,
-erhalten Sie die Auswahl zwischen Angriff, Entern
-und Rammen.
+Battle - Choice of opponent:
+Select the opponent with the left mouse button.
+Hold the mouse button to get a choice
+between attacking, boarding and ramming.
 [Seegefecht3]
-Gefecht, Waffenstillstand:
-Sind Sie unterlegen, ist es mîglich, auf den Flaggen
-der Windrose ein Angebot zum Waffenstillstand zu
-machen, das der Gegner allerdings annehmen mu·.
-Ansonsten sollten Sie die Flucht ergreifen, indem Sie
-den Bildschirmrand ansteuern, der gegenÅber Ihrem
-Ausgangspunkt liegt.
+Battle - Surrender:
+If your fleet is inferior to the opponent, it is
+possible to make an offer of surrender by
+clicking the white flags near the wind-rose.
+Alternatively, you can try to escape by
+sailing to the edge of the battlefield
+opposite to your starting point.
 [Transferscreen1]
-Verteiler, Untergang von Schiffen:
-Versenken Sie die Gegner im Gefecht nur, wenn es
-sich nicht vermeiden lÑ·t. Schiffe, die noch nicht
-untergegangen sind kînnen Sie nÑmlich plÅndern.
-Ihre eigenen schwer beschÑdigten Schiffe sollten Sie
-entleeren und zurÅcklassen.
+Distributor view - Ship sinking:
+Only sink opponents in combat if it cannot be
+avoided. You can plunder ships that have not
+yet sank. Your own heavily damaged ships
+should be emptied and left behind.
 [Transferscreen3]
-Schiffe sinken!
-Achtung! Alle stark beschÑdigten Schiffe werden
-sinken. Darauf befindliche Waren, Proviant und Ma|
-trosen sind verloren. Waren, die sich in der Ablage
-befinden, gehen eben|falls unter, wenn Sie den Trans|
-fer verlassen.
+Ships sank!
+Attention! All heavily damaged ships will sink.
+Goods, provisions and sailors on it them lost.
+Goods that are not transfered in time are lost!
 [Festungsangriff1]
-Angriff auf einen Hafen:
-Ein Hafen ohne Festung wird sich im Falle einer
-Aus|ein|ander|setzung sofort ergeben, es sei denn eine
-Flotte liegt zur Verteidigung im  Hafen.
+Attack on a Port:
+Port without a fortress will immediately
+surrender to assault, unless a fleet is
+present in the harbor for defense.
 [Festungsangriff2]
-Kampf gegen einen Hafen:
-Ihr einziger Vorteil im Kampf gegen die Festung ist
-die Beweglichkeit. Eine Flucht ist Åberall im Rand|
-bereich mîglich.
+Fighting the fortress:
+Your only advantage in the fight against the
+formidable fortresses is your superior
+mobility. An escape is possible anywhere
+in the battlefield border area.
 [First Help]
-Einstiegshilfe
+First Help
 [HafenAnlaufen6]
-Dieser Hafen gehîrt dem Gegner und ist fÅr Sie
-gesperrt. Wollen Sie den Hafen trotz|dem besuchen,
-streben Sie mit diesem Spie|ler einen Ko|operations|
-vertrag an.
+This port belongs to the enemy and is closed
+to your fleets. If you want to visit the port
+anyway, you need to arrange for a cooperation
+agreement with this enemy.
 [Heimathafen1b]
-Hafen:
-Nun liegt es an Ihnen, zuerst den Hafen zu
-erkunden (einfach Åber die GebÑude fahren und
-gegebenenfalls anklicken) oder in See zu stechen
-(Hafen Åber den Randbereich verlassen).
+Port:
+Now it is up to you to either explore the
+town (just hover over the buildings and click
+to select) or sail to the open sea (leaving
+the harbor via the edge of the screen).
 [NeuesSpiel]
-Spielstart:
-Entscheiden Sie welches Land Sie Åbernehmen
-mîchten (Symbol Pirat) und stellen Sie Ihre Gegner
-ein (Symbol Computer fÅr Computergegner, Symbol
-Hut fÅr "Kein Gegner"). Er|setzen Sie auf Wunsch
-den Na|men des Landes durch den ge|wÅnschten.
+Start of the game:
+Decide which country you want to take over
+(Pirate icon) and set your opponents (computer
+opponent by selecting the computer icon). You
+can rename your nation as desired.
 [Worldmapagain]
-Weltkarte, Routenplanung:
-Legen Sie nun Ihre erste Reiseroute fest. Riskieren
-Sie nicht zuviel, reisen Sie zu Beginn entlang von
-KÅsten, um HÑfen zu entdecken und sich neu zu
-versorgen. Zwischenpunkte setzten Sie, indem Sie
-durch gedrÅckt halten der linken Maustaste den
-Sextanten an der Maus wechseln.
+World map, Navigation:
+Now set your first sea route. Do not risk too much,
+start by traveling along the coast to discover ports
+and refill your supplies occasionally. You set
+intermediate points by pressing and holding the
+left mouse button to switch the sextant on the
+mouse.
 [HafenAnlaufen3]
-Nachfrage in fremdem Hafen:
-Waren, die in diesem Hafen produziert werden,
-werden hier nicht nachgefragt. Zumindest zwei
-Waren unterliegen aber einer starken Nachfrage.
-Gerade diese sollten Sie hier verkaufen.
+Demand in foreign port:
+Wares that are produced in this port are never
+in demand here. At least two of the wares are
+subject to strong demand. You should focus on
+selling these here.
 [End]

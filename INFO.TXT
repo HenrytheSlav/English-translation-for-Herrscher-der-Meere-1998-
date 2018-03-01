@@ -52,7 +52,7 @@ Do you want to buy
 the Flute for #?
 [Galeone kaufen?]
 Do you want to buy
-the Galeon for #?
+the Galleon for #?
 [FVAngebotTitel]
 Peace Treaty Offer
 [HVAngebotTitel]

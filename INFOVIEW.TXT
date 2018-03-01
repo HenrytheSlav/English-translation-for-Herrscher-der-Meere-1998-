@@ -20,7 +20,7 @@ Neutral
 [MissionErfolgreich]
 Completed missions:
 [WertungGesamt]
-Game points:s
+Game points:
 [HaefenGesamt]
 Total Ports:
 [HaefenEntdeckt]
@@ -182,9 +182,9 @@ Expenses
 [Vermoegen]
 Wealth
 [Kriegsbilanz]
-Battle bilance
+Battle balance
 [Laenderbilanz]
-Country bilance
+Country balance
 [Werft]
 Port
 [Festung]
@@ -252,7 +252,7 @@ Location
 [WListeWare]
 Ware
 [WListeMenge]
-Menge
+Amount
 [WListeWert]
 Worth
 [WListeSumme]
@@ -278,7 +278,7 @@ Worth
 [Tonnen]
 t
 [Laderaum]
-Storage space onboard
+Storage space on board
 [Frachtraum gesamt]
 Total storage space
 [Frachtraum frei]
@@ -294,13 +294,13 @@ Crew
 [Staerke]
 Strength
 [Proviant]
-Proviant
+Provisions
 [Ware]
 Goods
 [Waren]
 Goods
 [Menge]
-Ammount
+Amount
 [Wert]
 Worth
 [Technologiestufe]
@@ -352,7 +352,7 @@ Ship speed
 [Aktuelle Werte]
 Current value
 [Proviantvorrat]
-Proviant stock
+Provisions stock
 [Woche]
 Week
 [Wochen]
@@ -368,7 +368,7 @@ kg
 [Stadt]
 Town
 [Einwohner]
-Reidents
+Residents
 [Arbeitsplaetze]
 Workplaces
 [Arbeitslose]
@@ -614,7 +614,7 @@ Purchase of goods:
 [Ausgaben Topic31]
 Purchase of ships:
 [Ausgaben Topic41]
-Constuction of Businesses:
+Construction of Businesses:
 [Einnahmen Topic11]
 Income:
 [Einnahmen Topic21]
@@ -632,7 +632,7 @@ Availability
 [Handel]
 Trader
 [Man Unfaehig]
-No manouvering!?
+No maneuvering!?
 [Verkauf Ausruestung]
 Sale of equipment
 [Protektion Koenig]

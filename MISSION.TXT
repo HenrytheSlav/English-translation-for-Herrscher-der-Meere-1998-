@@ -14,7 +14,7 @@ providing you with a new business in @bshafen@.
 [Mission01F]
 Unfortunately, you failed to solve the problem.
 We have lost valuable time because of your
-unsatifactory performance. Do not expect a reward.
+unsatisfactory performance. Do not expect a reward.
 [Mission02A]
 Great storm draws on @zielhafen@, so we
 decided to fortify the port. We are now looking
@@ -104,9 +104,9 @@ with this vital task. A new ship is ready
 for you at @bshafen@ - a gift in recognition
 of your service.
 [Mission08F]
-The lowest of saliors could have done better
+The lowest of sailors could have done better
 than you did. You are fined @strafegeld@ for
-your incopetence and rest assured that your
+your incompetence and rest assured that your
 reputation will be damaged by this failure.
 Beware of the authorities!
 [Mission09A]
@@ -132,8 +132,8 @@ His Majesty is deeply concerned. @Zielhafen@,
 a key position in the expansionist policy of
 His Majesty, must be won for us. We promise
 a high reward for the fulfillment of this
-contract. Howerver the time you have available
-is howerver limited, do so before @zeit@.
+contract. However the time you have available
+is however limited, do so before @zeit@.
 [Mission10E]
 His Majesty was impressed by your handling of
 the situation. You will be rewarded by having
@@ -141,13 +141,13 @@ your fort in @bshafen@ expansion financed
 from Royal coffers.
 [Mission10F]
 His Majesty asked me to convey his immense
-dissatisfaction at how you have handeled the
+dissatisfaction at how you have handled the
 affairs. His Majesty hereby issued a fine
 of @strafegeld@ Gold that you are to pay
 immediately to save your face.
 [Mission11A]
 The admiralty has learned that a dangerous
-privateer is threatning the seas with his
+privateer is threatening the seas with his
 armed fleet. Capture him and his ship, the
 @schiff@, and make sure that he lives when
 you bring him to @zielhafen@. He has to be
@@ -158,7 +158,7 @@ cost us many lives. He will surely be known
 as one of the worst plagues of the seas.
 You will be awarded @lohngeld@ gold as a
 reward and rest assured that your help will
-be remebered.
+be remembered.
 [Mission11F]
 Even the lowest urchin would acted honorably.
 You are a disgrace of all captains. But as a
@@ -189,17 +189,17 @@ to @zielhafen@ Åsafely. You have to travel to
 parties are not allowed to see the contents
 under any circumstances!
 [Mission14E]
-Masterfuly done! We shall praise your name with
-highest honours!. By delivering the document
-a diplomatic fiasco has been aboided. As our
+Masterfully done! We shall praise your name with
+highest honors!. By delivering the document
+a diplomatic fiasco has been avoided. As our
 thanks, we shall equip your fleet at @bshafen@
 with the best equipment!
 [Mission14F]
 Oh you damned fool! I cannot remember the last
-time that someone failed us so misserably!. 
-Your actions has cost us a substantial ammount
+time that someone failed us so miserably!. 
+Your actions has cost us a substantial amount
 of money, which you shall be paying from your
-pocket, with dividents! We expect @strafegeld@
+pocket, with dividends! We expect @strafegeld@
 gold to be paid at once!
 [Mission15A]
 The @flotte@ of @land@ constantly blockades our
@@ -211,7 +211,7 @@ and our thanks shall not only be in words.
 It has come to our attention that the fleet has
 been sunk! You have performed better than we
 dared to hope. For this grand victory you shall
-recieve a reward of @lohngeld@ gold.
+receive a reward of @lohngeld@ gold.
 [Mission15F]
 You are a horrible failure! Because of your
 deeds the population of the port has starved
@@ -228,7 +228,7 @@ This delivery of @lohngeld@ gold awaits you
 on the Stewards instruction.
 [Mission16F]
 Because of your failure, the Steward of our
-king has been execured! But your failure was
+king has been executed! But your failure was
 not forgotten either! His Majesty expects
 the sum of @strafegeld@ gold as a warning.
 [Mission17A]
@@ -237,7 +237,7 @@ privateer fleet and go hunting in the name
 of our country. Bring us a ship to @zielhafen@.
 In the @flotte@ of @land@ should a proud
 @schiff@ be found. This needs to be done by
-@zeit@. You shall recieve a rich bounty.
+@zeit@. You shall receive a rich bounty.
 [Mission17E]
 Your performance honors you! We are extremely
 proud of you. His Majesty took on him to
@@ -247,95 +247,93 @@ To make you think twice about trying failing
 His Majesty, you shall be fined to pay
 @strafegeld@ gold.
 [Mission18A]
-Uns wurde von einer Hafenstadt namens
-@zielhafen@ berichtet. Segelt zu diesem Hafen
-und erobert ihn fÅr uns bis sp‰testens @zeit@.
-Der Dank seiner Majest‰t wird unermeﬂlich sein.
+We were told about a port city called
+@zielhafen@. Sail to this port and conquer
+it for us by no later than @zeit@. The
+thanks of His Majesty will be immeasurable.
 [Mission18E]
-Ihr habt seiner Majest‰t einen persˆnlichen
-Wunsch erfÅllt. In seiner GÅte, schenkt er Euch
-eine Werft in @bshafen@.
+You have fulfilled his Majesty's personal wish.
+In his kindness, he grants you a shipyard
+in @bshafen@.
 [Mission18F]
-Ihr habt seine Majest‰t sehr ent‰uscht. In seinem
-gerechten Zorn Åber Euer Versagen, l‰ﬂt er Eure
-Werft in @bshafen@ zerstˆren.
+You have greatly disappointed His Majesty.
+In his righteous anger at your failure, he
+had your shipyard in @bshafen@ seized
+and burnt!
 [Mission19A]
-Die Prinzessin wÅnscht das Diadem von
-@starthafen@ zu erwerben. Findet diesen Hafen
-und bringt das Diadem nach @zielhafen@. Es
-wird nicht zu Eurem Schaden sein, wenn Ihr
-uns das SchmuckstÅck bis l‰ngstens @zeit@
-Åbergebt.
+The Princess wishes to acquire a diadem from
+@starthafen@. Find this port and bring the
+diadem back to @zielhafen@. It would be
+rather disappointing if you were to take longer
+than until @zeit@.
 [Mission19E]
-Ihre Majest‰t, ist ausgesprochen zufrieden mit
-Euch. Es sei Euch eine Flotte in @bshafen@
-auszurÅsten.
+His Majesty is extremely pleased with you.
+Your fleet at @bshafen@ shall be equipped
+at the Crowns expense.
 [Mission19F]
-Seine Majest‰t, ist sehr ungehalten! Seit Eurem
-Versagen, gr‰mt sich die Prinzessin. Der Kˆnig
-beschlagnahmt eines Eurer Schiffe in @bshafen@
-und beauftragt einen anderen Kapit‰n mit dieser
-Aufgabe.
+His Majesty is enraged! Because of your failure,
+the Princess has been put into an embarrassing
+situation! The King confiscates one of your ships
+in @bshafen@ and shall find a new Captain for
+any future dealings.
 [Mission20A]
-Gesucht wird ein Mann ohne Furcht und Tadel,
-der eine ansehnliche Summe Gold sicher von
-@starthafen@ nach @zielhafen@ befˆrdert, um
-die Errichtung einer Kirche zu ermˆglichen. Es
-winkt eine stolze Belohnung. Die Bewohner von
-@zielhafen@ erwarten das Gold bis @zeit@.
+Wanted is a man without fear and sin, who
+shall carry a sizable sum of gold safely from 
+@starthafen@ to @zielhafen@ to faciliate
+the construction of a church. Such a task
+will bring both spiritual and secular rewards.
+The people of @zielhafen@ expect the gold
+by @zeit@.
 [Mission20E]
-Durch Euer eiliges Zutun, ward es uns mˆglich
-den Gl‰ubigen in @zielhafen@ eine neue St‰tte
-des Wirkens zu errichten. Um unseren
-besonderen Dank kundzutun erhaltet Ihr
-@lohngeld@ Gold als Belohnung.
+Thanks to your fast actions, we established
+a new church of faithful in @zielhafen@.
+To express our gratitude we would like you
+to take this reward of @lohngeld@ gold.
 [Mission20F]
-Die Herren von @zielhafen@ sind aufgebracht.
-Sie fragen sich wo das Gold bleibt. Ihr habt
-unverzÅglich das Euch anvertraute Gold
-zurÅckzuerstatten und darÅber hinaus die
-Summe von @strafegeld@ an die heilige Kirche
-zu entrichten.
+The people of @zielhafen@ are understandably
+upset with this turn of events. They are
+wondering where the gold has ended.
+You are to return the gold immediately, with
+a compensation for your failure added.
+The sum of @strafegeld@ gold will at
+least partially show your remorse.
 [Mission21A]
-Mehrfach ist uns die Anwesenheit eines
-Schmugglerschiffes in der @flotte@ aus @land@
-gemeldet worden. Es wird nun ein wagemutiger
-Kapit‰n gesucht, der imstande ist die @Schiff@
-bis sp‰testens @zeit@ zu kapern und nach
-@zielhafen@ zu bringen. Die Entlohnung ist
-nicht zu gering.
+The presence of a smuggler ship in the @flotte@
+from @land@ has been reported to us several
+times. We are looking for a daring Capitan able
+to seize the ship and bring it to @zielhafen@
+by @zeit@. The payment shall be immediate.
 [Mission21E]
-Endlich ist dies berÅhmte Schiff in unseren
-H‰nden. FÅr diese glanzvolle Tat sei Euch die
-Errichtung einer Werft in @bshafen@ auf Kosten
-des Landes gew‰hrt.
+Finally! The damned ship is in our hands.
+For this glamorous act you are being
+rewarded with construction of a shipyard
+in @bshafen@ immediately, and on the
+expense of the Crown to boot!
 [Mission21F]
-Da Ihr ohne Beute zur Stelle seid, werdet Ihr
-verd‰chtigt mit den Schmugglern gemeinsame
-Sache zu machen. Um die GemÅter zu beruhigen,
-enteignen wir im Namen Seiner Majest‰t eines
-Eurer Schiffe in @bshafen@.
+Since you are here without the prey, you
+are suspected to be in common cause
+with the smugglers. To make sure of your
+loyalty, your ship in @bshafen@ has been
+seized for the Crown.
 [Mission22A]
-Auf Befehl seiner Majest‰t soll der in Fein
-deshand befindliche Hafen @zielhafen@ bis
-sp‰testens @zeit@ fÅr die Krone erobert werden.
-DafÅr werden starke Kr‰fte gesucht, die fÅr
-Ruhm, Ehre und eine fÅrstliche Belohnung diese
-Aufgabe Åbernehmen. 
+On his Majesty's orders, the port of @zielhafen@
+is to be captured by no later than @zeit@ in
+the name of the Crown. For this task, strong
+men are sought, who shall take on this quest
+for glory, honor and an earnest reward.
 [Mission22E]
-Eure ruhmreichen Taten in dieser Schlacht
-werden bei Hof immer in guter Erinnerung blei
-ben. Wir haben festgestellt, daﬂ in @zielhafen@
-keine Festung mehr vorhanden ist, deshalb wer
-den alle Mittel eingesetzt um eine ausgerÅstete
-Festung in @bshafen@ zur VerfÅgung zu stellen.
+Your glorious deeds in this battle will always be
+well remembered at court. We have noticed that
+in @zielhafen@ there is no fortress standing.
+Therefore, all means shall be used to provide
+a well-equipped fortress in @bshafen@.
 [Mission22F]
-Ihr habt zur Schande unseres Landes eine
-Niederlage erlitten. Um die DemÅtigung Seiner
-Majest‰t zu lindern, sollt Ihr hart bestraft
-werden. Hiermit geben wir bekannt, daﬂ Ihr die
-Summe von @strafegeld@ an die Krone zu
-entrichten habt.
+You have suffered a defeat to the shame
+of our country. To alleviate the humiliation of
+His Majesty, you should be severely
+punished. We hereby announce that you
+have to pay the sum of @strafegeld@ to
+the Crown.
 [Mission23A]
 Dem schwer erkrankten Botschafter in
 @starthafen@ soll eine sichere öberfahrt nach

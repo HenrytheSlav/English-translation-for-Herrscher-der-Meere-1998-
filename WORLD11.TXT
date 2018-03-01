@@ -30,7 +30,7 @@ Lbeck
 [Reval]
 Reval
 [Reykyavik]
-Reykyavik
+Reykjavík
 [Riga]
 Riga
 [Shannon]

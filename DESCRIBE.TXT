@@ -30,8 +30,8 @@ Brig|an|tines, Snow|ships and Brigs are two-|mast|ed
 Ships with tri|an|gu|lar sails on the Rah. They are
 above all fast-|sailing and sui|tab|le for es|cor|ting,
 il|le|gal ac|ti|vi|ti|es or re|con|nais|sance on short
-dis|tan|ces. They are par|ti|cu|la|ry va|lued for
-their speed and agilty.
+dis|tan|ces. They are par|ti|cu|la|rly va|lued for
+their speed and agility.
 [Die Korvette]
 Corvette
 [Erklaerung Korvette]
@@ -47,16 +47,16 @@ Frigate
 Frigates are primarily used for the protection of merchant
 ships and for tracking and pursuit of enemy ships. Due to
 their good sailing qualities and their substantial combat
-value, they were used to intimidate and supress colonial
+value, they were used to intimidate and suppress colonial
 people and to combat piracy.
 [Die Fleute]
 Flute
 [Erklaerung Fleute]
-The Fleute, developed by the Dutch shipbuilders, is unlike
-the Galleon a pure merchant ship. Its outstanding efficiency
-made a significant contribution to the rise of Dutch seafaring.
-It has become a model for the construction of merchant ships
-in all European shipyards.
+The Flute, or Fluyt developed by the Dutch shipbuilders, is
+unlike the Galleon a purely merchant ship. Its outstanding
+efficiency made a significant contribution to the rise of
+Dutch seafaring. It has become a model for the construction
+of merchant ships in all European shipyards.
 [Die Galeone]
 Galleon
 [Erklaerung Galeone]

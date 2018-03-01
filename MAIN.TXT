@@ -1,6 +1,6 @@
 
 [InitMusic]
-Initialise Soundsystem
+Initialize Sound system
 [ja]
 Yes
 [nein]
@@ -138,7 +138,7 @@ Help
 [kein Eintrag]
 No Entry
 [Makler]
-Lands
+Outskirts
 [Statistik]
 Statistics
 [Gefechts-Statistik]
@@ -254,7 +254,7 @@ Port Charges
 [Zollgebuehren]
 Customs Fees
 [Soldausgaben]
-Sold Expenditure
+Sailor wages
 [Lagerhausverkauf]
 Sales of Goods from the Warehouse
 [Anteil Piratenbeute]
@@ -266,7 +266,7 @@ Loss / Month
 [Protektion]
 Protection
 [Spende]
-Dontaions
+Donations
 [Spenden?]
 Do you want to support the country financially?
 [sehr gluecklich]
@@ -292,83 +292,83 @@ Data not found!
 [FileOpenError]
 Unable to open the file!
 [FileReadError]
-An Error has occured while reading the data!
+An Error has occurred while reading the data!
 [FileWriteError]
-An Error has occured while writing the data!
+An Error has occurred while writing the data!
 [FileCloseError]
-An Error has occured while closing the file!
+An Error has occurred while closing the file!
 [SwapOpenError]
-Swap-Datei konnte nicht geîffnet werden!
+Swap-file could not be opened!
 [SwapReadError]
-Fehler beim Lesen einer Swap-Datei!
+Error reading a swap-file!
 [SwapWriteError]
-Fehler beim Schreiben in eine Swap-Datei!
+Error writing to a swap-file!
 [SwapCloseError]
-Fehler beim Schlie·en einer Swap-Datei!
+Error closing a swap-file!
 [SwapDecompressError]
-Fehler bei der Dekomprimierung!
+Error in decompression!
 [OpenDirError]
-Fehler beim ôffnen eines Verzeichnisses!
+Error opening a directory!
 [CloseDirError]
-Fehler beim Schlie·en eines Verzeichnisses!
+Error closing a directory!
 [MemError]
-Der Speicherplatz reicht nicht aus!
+Lack of storage space!
 [DosMemError]
-Der DOS-Speicher reicht nicht aus!
+The DOS memory is insufficient!
 [DiskError]
-Fehler beim Zugriff auf das Laufwerk!
+Error accessing the disc drive!
 [LockError]
-Sperren eines Speicherbereichs fehlgeschlagen!
+Locking a memory area failed!
 [UnlockError]
-Entriegeln eines Speicherbereichs fehlgeschlagen!
+Unlocking a memory area failed!
 [StackError]
-StapelÅberlauf innerhalb eines Interrupts!
+Stack overflow within an interrupt!
 [WrongVideoMode]
-Der Videomodus wird nicht unterstÅtzt!
+The video mode is not supported!
 [VesaNotFound]
-VESA BIOS-Treiber nicht gefunden!
+VESA BIOS driver not found!
 [VesaInitError]
-Fehler bei der Initiali|sierung des Grafikmodus!
+Error during the initialization of graphics mode!
 [VesaError]
-Fehler beim Aufruf einer VESA-Funktion!
+Error when calling a VESA function!
 [WrongPCX]
-Nicht unterstÅtztes PCX-Format!
+Unsupported PCX format!
 [CorruptedPCX]
-Fehlerhafte PCX-Datei!
+Faulty PCX file!
 [CorruptedALB]
-Fehlerhafte ALB-Datei!
+Faulty ALB file!
 [CorruptedFNT]
-Fehlerhafte FNT-Datei!
+Faulty FNT file!
 [SoundInitError]
-Fehler bei der Sound-Initialisierung!
+Error during sound initialization!
 [SoundLoadError]
-Sound konnte nicht geladen werden!
+Sound could not be loaded!
 [NoMouseDriver]
 Mouse drivers not found!
 [WrongMouseVersion]
-Microsoft Mouse 6.26 oder hîher erforderlich!
+Microsoft Mouse 6.26 or higher required!
 [MouseInitVideoError]
-Videomodus wird durch Maustreiber nicht unterstÅtzt!
+Video mode is not supported by mouse drivers!
 [TimerHandleError]
-Kein Timer-Event-Handle frei!
+No timer event handle free!
 [TimerInvalidHandle]
-falscher Timer-Event-Handle!
+Invalid timer event handle!
 [SmackOpenError]
-Smack-File konnte nicht geîffnet werden!
+Smack-file could not be opened!
 [DevelopError]
-Entwicklungsfehler!
+Development Errors!
 [MemFileInitError]
-Datei konnte nicht im Speicher abgelegt werden!
+File could not be stored in memory!
 [FileOutOfRangeError]
-öberlauffehler beim File-Zugriff!
+Overflow error during file access!
 [FileIsEmptyError]
 File is blank!
 [VideoRAMError]
-Fehler beim Zugriff auf das Video-RAM!
+Error accessing the video RAM!
 [LZWDecompressError]
-Fehler bei der LZW-Dekomprimierung!
+Error with LZW decompression!
 [LZW16DecompressError]
-Fehler bei der LZW16-Dekomprimierung!
+Error with LZW16 decompression!
 [OldFormat]
 outdated format!
 [HeapError]
@@ -400,7 +400,7 @@ Free Space
 [Transfer]
 Transfer
 [Proviant]
-Proviant
+Provisions
 [Mannschaft]
 Crew
 [Munition]
