@@ -130,7 +130,7 @@ max.
 [Lecks]
 Leaks
 [sm/h]
-smh
+knots
 [Warnung]
 Hint
 [Hilfe]

@@ -13,7 +13,7 @@
 
 
 
-4Produzent
+4Producer
 
 2Attic Entertainment Software GmbH
 
@@ -22,7 +22,7 @@
 
 
 
-4Autoren
+4Authors
 
 2Jens Peter Evers
 2Matthias Koranda
@@ -32,7 +32,7 @@
 
 
 
-3Projektleitung
+3Project Management
 
 Guido Henkel
 Rolf Neumann, Xtainment
@@ -44,7 +44,7 @@ Klaus Schmidbauer
 
 
 <
-3Programmierung
+3Programming
 >
 Jens Peter Evers, NovaTrix
 Matthias Koranda, NovaTrix
@@ -53,7 +53,7 @@ Horst Siriski, Xtainment
 
 
 <
-3ZusÑtzliche Programmierung
+3Additional Programming
 >
 Hans-JÅrgen BrÑndle
 Michael Flad
@@ -67,7 +67,7 @@ Volker Walkiewicz
 
 
 <
-3Grafik
+3Graphics
 >
 Marian "Thorun" Arnold
 Lars MÅller
@@ -77,7 +77,7 @@ Tobias WeingÑrtner
 
 
 <
-3ZusÑtzliche Grafiken
+3Additional Graphics
 >
 Christian Pollege
 Arndt Schlichtig
@@ -85,7 +85,7 @@ Arndt Schlichtig
 
 
 <
-3Cover Artwork & Illustrationen
+3Cover Artwork and Illustrations
 >
 Marian "Thorun" Arnold
 JÅrgen KrÅger
@@ -94,7 +94,7 @@ JÅrgen KrÅger
 
 
 <
-3Musik
+3Music
 >
 Guido Henkel
 Dieter Rottermund
@@ -111,7 +111,7 @@ Matthias Koranda
 
 
 <
-3Sprachaufnahmen
+3Voice Recordings
 >
 Weltenschmiede Studios
 Thilo Burdach
@@ -123,7 +123,7 @@ Herbert Pross
 
 
 <
-3Handbuch
+3Guide
 >
 Frank Appelmann
 Grischa Jacobs
@@ -134,14 +134,14 @@ Frank Wizemann
 
 
 <
-3Datenbanken
+3Databases
 >
 JÅrgen Roth
 
 
 
 <
-3Satz und Layout
+3Typesetting and Layout
 >
 Jochen Eith
 Evelyn Russo
@@ -151,7 +151,7 @@ Ibrahim Uyar
 
 
 <
-3QualitÑtssicherung
+3Quality Assurance
 >
 Frank Appelmann
 Steffen Apprich
@@ -176,7 +176,7 @@ Hiep Tran Trung
 
 
 #
-3Mit besonderem Dank an
+3With special thanks to
 
 AMD Deutschland GmbH
 Anubis GmbH
@@ -204,7 +204,7 @@ Turtle Beach Systems
 
 
 #
-3GrÅ·e und Zitate:
+3Greetings and Mentions:
 
 
 
@@ -268,7 +268,7 @@ Emmanuel "Future Tales" Henne
 
 
 #
-4E N D E
+4T H E   E N D
 
 
 

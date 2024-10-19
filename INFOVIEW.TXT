@@ -112,7 +112,7 @@ Construction of businesses
 [Kauf Festung]
 Forts
 [Kauf Werft]
-Ports
+Shipyards
 [Reparatur Festung]
 Fort repairs
 [Reparatur Schiff]
@@ -186,7 +186,7 @@ Battle balance
 [Laenderbilanz]
 Country balance
 [Werft]
-Port
+Shipyard
 [Festung]
 Fort
 [Kontor]
@@ -204,7 +204,7 @@ Businesses
 [Wert Festungen]
 Forts
 [Wert Werften]
-Ports
+Shipyards
 [Wert BezAusbau]
 Paid Fort Expansions
 [Wert BezReparatur]
@@ -268,7 +268,7 @@ Year
 [PListeWert]
 Worth
 [WerftListe R1]
-Port
+Shipyard
 [WerftListeOrt]
 Location
 [WerftListeStufe]
@@ -332,7 +332,7 @@ Operation
 [Mann]
 Men
 [Kugeln]
-Balls
+Shots
 [Zustand]
 Condition
 [Ladung]
@@ -412,7 +412,7 @@ Closed
 [Anzahl Festungen]
 Number of forts
 [Anzahl Werften]
-Number of ports
+Number of shipyards
 [Schiffe zu kaufen]
 Ships for sale
 [Zeughaeuser]
@@ -496,7 +496,7 @@ Construction Level
 [Produktionsstaetten]
 Businesses
 [Freie Grundstuecke]
-Free plot
+Free plots
 [Produktivitaet]
 Productivity
 [Infrastruktur]
@@ -566,7 +566,7 @@ Sum
 [FlottenL R02]
 Goods
 [Werft R01]
-Port1
+Shipyard1
 [1.Schiffstypen]
 Brigs
 [2.Schiffstypen]

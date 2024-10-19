@@ -5,7 +5,7 @@ a city called @starthafen@ where very rare
 goods are offered for purchase. Try to find
 if this corresponds to the truth and bring 
 the goods to @zielhafen@. You have time
-until @time@.
+until @zeit@.
 [Mission01E]
 By discovering @starthafen@ you have proved
 your seafaring skills. We from the City Council
@@ -21,6 +21,17 @@ decided to fortify the port. We are now looking
 for a brave man who will safely escort our ship
 with the gold from @starthafen@ to @zielhafen@.
 It has to be done by @zeit@ at the latest.
+[Mission02E]
+As a reward for your trouble you shall receive
+a ship through which we give our thanks as well.
+This ship can be found in @bshafen@. It is
+now possible to build a large wall around
+@zielhafen@ and the port will be safe then.
+[Mission02F]
+The money came too late. The storm raged
+in the harbor and damaged many ships. We will
+ask a more reliable Captain for their help next
+time. Do not expect a reward for this mission!
 [Mission03A]
 Because of a long-lasting drought, the city of
 @Zielhafen@ is plagued by a great famine.
@@ -28,7 +39,7 @@ We are looking for a courageous captain who will
 supply @zielhafen@ with @objekt@ from @starthafen@.
 Rest assured that such a noble act will be
 generously rewarded. The city has to be
-relieved before @time@.
+relieved before @zeit@.
 [Mission03E]
 Thanks to your quick intervention it was
 possible to prevent the worst. The situation
@@ -335,586 +346,514 @@ punished. We hereby announce that you
 have to pay the sum of @strafegeld@ to
 the Crown.
 [Mission23A]
-Dem schwer erkrankten Botschafter in
-@starthafen@ soll eine sichere šberfahrt nach
-@zielhafen@ gewährt werden. Der Wunsch des
-Botschafters in seiner Heimat zur letzten Ruhe
-gebettet zu werden, setzt voraus, die šberfahrt
-bis spätestens @zeit@ zu ermöglichen.
+The seriously ill ambassador in
+@starthafen@ should be granted a safe
+crossing to @zielhafen@. The ambassador's
+wish to be laid to rest in his homeland
+requires that the crossing be made possible
+by @zeit@ at the latest.
 [Mission23E]
-Da Euch die Erfllung des letzten Wunsches
-eines Todkranken die Reise Wert war, wird Euch
-zum Dank fr diese edelmtige Tat eine Flotte in
-@bshafen@ ausgerstet.
+Since fulfilling the last wish of a terminally
+ill person was worth the trip, a fleet will be
+equipped in @bshafen@ as a thank
+you for this noble deed.
 [Mission23F]
-War es Euch nicht möglich, den letzten Wunsch
-eines Sterbenden zu erfllen? Solch ein Verhalten
-trägt sicher nicht zur Steigerung Eures
-Ansehens bei.
+Were you unable to fulfill the last wish
+of a dying person? Such behavior certainly
+does not help to increase your reputation.
 [Mission24A]
-Es wird eine einsatzbereite Flotte gesucht, um
-bis @zeit@ eine Ladung Pelzmäntel von
-@starthafen@ nach @zielhafen@ zu befördern.
-Die Entlohnung wird den Einsatz reichlich
-bertreffen.
+A ready fleet is needed to transport
+a load of fur coats from @starthafen@
+to @zielhafen@ by @zeit@. The reward
+will far exceed the effort.
 [Mission24E]
-Die schnelle Lieferung der Ware hat es
-ermöglicht einen guten Preis zu erzielen. Euer
-Anteil beträgt deshalb @lohngeld@ Gold. 
+The quick delivery of the goods made
+it possible to achieve a good price.
+Your share is therefore @lohngeld@ gold.
 [Mission24F]
-Die Ware ist leider verrottet. Als Entschädigung
-habt Ihr fr die Ware Ersatz in Höhe von
-@strafegeld@ Gold zu entrichten.
+Unfortunately, the goods have rotted.
+As compensation, you have to pay
+a replacement for the goods in
+the amount of @strafegeld@ gold.
 [Mission25A]
-Ein Geschenk des Prinzen in @starthafen@ fr
-die Obrigkeit in @zielhafen@ soll ein sicheres
-Geleit erhalten. Hierbei handelt es sich um ein
-stolzes Schiff seiner Flotte. Dem Prinzen ist dies
-eine wahrhaft frstliche Entlohnung wert, wenn
-Ihr es bis längstens @zeit@ an sein Ziel bringt.
+A gift from the prince in @starthafen@ for
+the authorities in @zielhafen@ is to be
+given safe passage. This is a proud ship
+from his fleet. The prince will be truly
+grateful if you bring it to its destination
+by @zeit@ at the latest.
 [Mission25E]
-Die erfolgreiche Durchfhrung dieser Mission
-war fr unser Land von großer Wichtigkeit. Als
-Zeichen des Dankes wird Euch die stolze Summe
-von @lohngeld@ Gold berreicht.
+The successful completion of this mission
+was of great importance for our country. As
+a token of gratitude, you will be presented
+with the proud sum of @lohngeld@ gold.
 [Mission25F]
-Seine Majestät ist entrstet. Wo ist das stolze
-Schiff geblieben? Als Ersatz fr Euer Leben
-nehmen wir ein Schiff aus Eurem Besitz in
-@bshafen@.
+His Majesty is outraged. Where has the proud
+ship gone? In exchange for your life, we will
+take a ship from your possession in @bshafen@.
 [Mission26A]
-@flotte@ des Feindes @land@ bereitet uns immer
-größere Schwierigkeiten. Einem Kapitän, dem es
-gelingt die feindliche Flotte bis @zeit@
-vernichtend zu schlagen, sei der Dank unseres
-Landes gewiß. Die Entlohnung wird einem großen
-Erfolg angemessen sein.
+@flotte@ of the enemy @land@ is causing us ever
+greater difficulties. A captain who succeeds in
+devastatingly defeating the enemy fleet within
+@zeit@ will be assured of the gratitude of our
+country. The reward will be appropriate for such
+a great success.
 [Mission26E]
-Ein großer Sieg wurde errungen. Die
-Vernichtung der Flotte wurde uns gemeldet.
-Deshalb werden wir Euch die stolze Summe von
-@lohngeld@ Gold als Belohnung bergeben.
+A great victory has been achieved. The
+destruction of the fleet has been reported
+to us. Therefore, we will give you the proud
+sum of @lohngeld@ gold as a reward.
 [Mission26F]
-Ihr habt unser Land stark geschwächt. Um
-unserem Unmut fr diese Schmach Ausdruck zu
-verleihen, fordern wir von Euch die Summe von
-@strafegeld@ Gold.
+You have severely weakened our country. To
+express our displeasure for this disgrace,
+we demand from you the sum of @strafegeld@ gold.
 [Mission27A]
-Die Admiralität befrchtet eine immer weiter
-fortschreitende Demoralisierung Ihrer Seeleute.
-Die Ursache wird in der dreisten Vorgehensweise
-eines Freibeuters vermutet. Ihr mßt diesen
-Piraten stellen und seine @flotte@ vernichten.
-Wir geben Euch hierfr bis @zeit@ Zeit.
+The Admiralty fears that their sailors are
+becoming increasingly demoralized. The cause
+is suspected to be the brazen actions of
+a privateer. You must confront this pirate
+and destroy his @flotte@. We will give you
+until @zeit@ to do this.
 [Mission27E]
-Eure heroische Seeschlacht mit den Piraten, hat
-den Seeleuten ihren Glauben an die Gerechtigkeit
-wiedergegeben. Fr Eure oder Eurer Verbndeten
-Tat ist seine Majestät bereit, Euch eine Belohn
-ung von @lohngeld@ Gold zu bergeben.
+Your heroic sea battle with the pirates has
+restored the sailors' faith in justice. For
+your or your allies' deeds, His Majesty is
+ready to provide a reward of @lohngeld@ gold.
 [Mission27F]
-Euer Versagen hat die Moral unserer Seeleute
-noch mehr geschwächt. Nun mssen die Kapitäne
-auch noch jederzeit mit Unruhen und Meutereien
-rechnen. Ihr habt Eurem Land keinen guten
-Dienst geleistet.
+Your failure has further weakened the morale
+of our sailors. Now the captains must also
+expect unrest and mutiny at any time. You
+have not done your country a good service.
 [Mission28A]
-Der Gouverneur von @starthafen@ hat einen Ge
-leitauftrag fr einen inoffiziellen Transport nach
-@zielhafen@. Der Gouverneur ist fr seine Groß
-zgigkeit bekannt. Enttäuscht ihn nicht! Damit
-wir nicht zuviel Zeit verlieren, soll dies bis
-spätestens @zeit@ geschehen.
+The governor of @starthafen@ has an escort order
+for an unofficial transport to @zielhafen@. The
+governor is known for his generosity. Don't
+disappoint him! So that we don't lose too much
+time, this should be done by @zeit@ at the latest.
 [Mission28E]
-Ich bin beauftragt, Euch ein großartiges Schiff
-im Hafen von @bshafen@ zu berschreiben. Der
-Gouverneur war sehr zufrieden.
+I have been commissioned to transfer to you
+a magnificent ship in the port of @bshafen@.
+The governor was very pleased.
 [Mission28F]
-Der Gouverneur hat mich angewiesen, Euch
-darber zu informieren, daß er fr Eure
-dilletantische Arbeit eine angemessene
-Entschädigung erwartet. Seiner Anordnung
-gemäß habt Ihr eine Strafe von @strafegeld@
-Gold zu entrichten.
+The governor has instructed me to inform you
+that he expects appropriate compensation for
+your amateurish work. According to his order,
+you must pay a fine of @strafegeld@ gold.
 [Mission29A]
-In @starthafen@ sind unruhige Zeiten ange
-brochen. Der @objekt@ von @starthafen@, muß
-unverzglich mit seinem Hofstaat in das sichere
-@zielhafen@ geleitet werden. Seine Majestät setzt
-seine ganze Hoffnungen in Euch und erwartet
-seine Gäste bis spätestens @zeit@.
+Unrestful times have begun in @starthafen@.
+The @objekt@ of @starthafen@ must be escorted
+without delay with his court to the safety of
+@zielhafen@. His Majesty is placing all his
+hopes in you and is expecting his guests by
+@zeit@ at the latest.
 [Mission29E]
-Seine Majestät ist zufrieden mit Eurer Leistung.
-Er gewährt Euch seine Gunst und bereignet
-Euch in seinem Namen eine Werft im Hafen von
-@bshafen@.
+His Majesty is pleased with your performance.
+He grants you his favor and grants you
+a shipyard in the harbor of @bshafen@ in his name.
 [Mission29F]
-Seine Majestät wendet sich ab, sobald Euer
-Name Erwähnung findet. Er gab die Order, eine
-in Eurem Besitz befindliche Produktionsstätte in
-@bshafen@ abzutragen.
+His Majesty turns away whenever your name
+is mentioned. He gave the order to dismantle
+a production facility in your possession
+in @bshafen@.
 [Mission30A]
-Eine delikate Aufgabe benötigt einen ver
-schwiegenen Kapitän! Die Konkubine einer ein
-flußreichen Persönlichkeit muß aus Grnden der
-Staatssicherheit außer Landes gebracht werden.
-Nehmt sie in @starthafen@ an Bord und bringt
-sie wohlbehalten nach @zielhafen@. Sie wird
-dort bis spätestens @zeit@ erwartet.
+A delicate task requires a discreet captain!
+The concubine of an influential person must
+be taken out of the country for reasons of
+national security. Take her on board at
+@starthafen@ and bring her safely to
+@zielhafen@. She is expected there by
+@zeit@ at the latest.
 [Mission30E]
-Ich bin beauftragt, Euch einen Beutel mit
-@lohngeld@ Gold zu berreichen. Man war sehr
-zufrieden mit Euch.
+I have been instructed to give you
+a bag of @lohngeld@ gold. They were
+very pleased with you.
 [Mission30F]
-Mein Herr hat mich angewiesen, euch darber
-zu informieren, daß er fr Eure miserable Arbeit
-eine angemessene Entschädigung erwartet. Seine
-Vorstellung belief sich auf @strafegeld@ Gold.
+My master instructed me to inform you that
+he expects a fair compensation for your
+miserable work. His idea was @strafegeld@ gold.
 [Mission31A]
-@land@ hat uns den Krieg erklärt! Unser
-Landesherr benötigt eine gut ausgerstete
-Kriegsflotte, um seine wichtigsten Häfen anzu
-greifen. Euer Auftrag lautet @zielhafen@ bis
-@zeit@ zu erobern. Ihr drft nicht versagen! Das
-Wohl unseres Landes hängt davon ab.
+@land@ has declared war on us! Our sovereign
+needs a well-equipped war fleet to attack his
+most important ports. Your mission is to conquer
+@zielhafen@ by @zeit@. You must not fail!
+The well-being of our country depends on it.
 [Mission31E]
-Seine Majestät ist zufrieden mit Euch. Erwartet
-auch in Zukunft Aufträge in dieser
-Angelegenheit. Vorab eine kleine Entschädigung
-in einer Höhe von @lohngeld@ Gold.
+His Majesty is pleased with you. Expect future
+orders in this matter. A small compensation
+in advance in the amount of @lohngeld@ gold.
 [Mission31F]
-Unser Herrscher sieht ein, Euch berfordert zu
-haben. Ihr seid aus seinem Dienst entlassen, er
-beliebt aber eines Eurer Schiffe im Hafen von
-@bshafen@ fr den weiteren Kampf zu
-konfiszieren.
+Our ruler realizes that he has overtaxed you.
+You are dismissed from his service, but he
+decides to confiscate one of your ships in
+the harbor on @bshafen@ for further combat.
 [Mission32A]
-Es gibt einen feindlichen Hafen, den Ihr fr die
-Krone erobern sollt. @zielhafen@ ist stark
-befestigt. Wenn Ihr bis spätestens @zeit@
-siegreich seid, wird sich die Regierung sicherlich
-dankbar zeigen.
+There is an enemy port that you must conquer
+for the crown. @zielhafen@ is heavily fortified.
+If you are victorious by @zeit@ at the latest,
+the government will surely be grateful.
 [Mission32E]
-Seine Majestät lächelt bei der Erwähnung Eures
-Namens. Es ist uns eine Ehre, Euch ein Schiff im
-Hafen von @bshafen@ zu bereignen.
+His Majesty smiles at the mention of your
+name. It is an honor for us to entrust you
+with a ship in the port of @bshafen@.
 [Mission32F]
-Seine Majestät ist ausgesprochen ungehalten. Sein
-Wille ist es, Euch eine Strafe von @strafegeld@
-Gold aufzuerlegen.
+His Majesty is extremely displeased. His will
+is to impose a fine of @strafegeld@ gold on you.
 [Mission33A]
-@flotte@ aus @land@ macht uns in letzter Zeit
-immer mehr zu schaffen. Setzt Eure Segel und
-macht dem Spuk ein Ende. Ihr habt dazu bis
-@zeit@ Zeit. Eine großzgige Entlohnung steht
-fr Euch bereit.
+@flotte@ from @land@ has been giving us more
+and more trouble lately. Set sail and put
+an end to this nightmare. You have until @zeit@
+to do so. A generous reward awaits you.
 [Mission33E]
-Der Gegner ist durch Euch oder Eure Ver
-bndeten beachtlich geschwächt! Seine Majestät
-gibt Euch zu Ehren ein großes Fest und in seiner
-Großzgigkeit berreicht er Euch eine Summe
-von @lohngeld@ Gold.
+The enemy has been considerably weakened by
+you or your allies! His Majesty is holding
+a great feast in your honor and in his
+generosity he is presenting you with a sum
+of @lohngeld@ gold.
 [Mission33F]
-Die Enttäuschung seiner Majestät kennt keine
-Grenzen! Er fordert von Euch die Summe von
-@strafegeld@ Gold.
+His Majesty's disappointment knows no
+bounds! He is demanding from you the sum
+of @strafegeld@ gold.
 [Mission34A]
-Die Admiralität benötigt eine gut ausgerstete
-Flotte, um einen Nahrungsmittelvorrat
-einzuschiffen. Ihr mßt unbedingt @starthafen@
-anlaufen und von dort @objekt@ nach
-@zielhafen@ bringen. Fr diesen Auftrag habt
-Ihr bis @zeit@ Zeit.
+The Admiralty needs a well-equipped fleet to
+ship a food supply. You must report at @starthafen@
+and from there take @objekt@ to @zielhafen@.
+You have until @zeit@ to complete this task.
 [Mission34E]
-Ihr habt Eurem Land und Seiner Majestät einen
-großen Dienst erwiesen. Wir zeigen uns fr Eure
-Leistungen mit @lohngeld@ Gold erkenntlich.
+You have done your country and His Majesty
+a great service. We show our gratitude for
+your services with @lohngeld@ gold.
 [Mission34F]
-Ihr habt versagt! Um die fehlenden
-Nahrungsmittel zu beschaffen, erwarten wir ein
-Wiedergutmachung in einer Höhe von
-@strafegeld@ Gold.
+You have failed! To obtain the missing food,
+¨we expect compensation in the amount
+of @strafegeld@ gold.
 [Mission35A]
-In @starthafen@ wurde ein Spion mit einem
-äußerst wichtigem Dokument gefangengenommen.
-Bringt dieses Dokument so schnell als möglich
-nach @zielhafen@. Solltet Ihr länger als bis
-@zeit@ dafr benötigen, verliert dieses
-Dokument allen Nutzen fr die Krone.
+A spy with a very important document has
+been captured in @starthafen@. Bring this
+document to @zielhafen@ as quickly as possible.
+If you take longer than @zeit@ to do so, this
+document will lose all use for the crown.
 [Mission35E]
-Ihr habt seiner Majestät einen unschätzbaren
-Dienst erwiesen. Dafr sollt Ihr ein Schiff im
-Hafen von @bshafen@ erhalten.
+You have rendered His Majesty an invaluable
+service. In return you shall receive a ship
+in the port of @bshafen@.
 [Mission35F]
-Wichtige Informationen sind durch Eure Nachlässigkeit fr
-die Krone nutzlos geworden. Zur Strafe wird eines Eurer
-Schiffe in @bshafen@ von Seiner Majestät konfisziert.
-Schätzt beim nächsten Mal Eure Möglichkeiten realistischer
-ein!
+Important information has become useless to the
+crown due to your negligence. As punishment, one
+of your ships in @bshafen@ will be confiscated by
+His Majesty. Next time, assess your capabilities
+more realistically!
 [Mission36A]
-Es wurden in letzter Zeit vermehrt einzelne
-Schiffe der @flotte@ aus @land@ gesichtet,
-welche unsere Festungen ausspähten. Bringt die
-@schiff@ auf und bergebt uns den Kapitän bis
-spätestens @zeit@ in @zielhafen@. Lebend!
+Recently, individual ships of the @flotte@
+have been sighted from @land@, spying on our
+fortresses. Bring the @schiff@ up and hand
+over the captain to us in @zielhafen@ by @zeit@
+at the latest. Alive!
 [Mission36E]
-Ihr habt uns den Kapitän bergeben. Durch Eure
-Tat stehen der Krone nun wichtige
-Informationen zur Verfgung. Nehmt als
-Zeichen unserer Wertschätzung diese Schatulle
-mit @lohngeld@ Gold.
+You have handed over the captain to us.
+Thanks to your actions, the crown now has
+important information at its disposal. As
+a token of our appreciation, take this
+box containing @lohngeld@ gold.
 [Mission36F]
-Wir haben leider keine Möglichkeit mehr, in
-Erfahrung zu bringen, was es mit dem
-Spähschiff auf sich hatte. Ich hoffe fr Euch,
-daß durch Euer Versagen kein größerer Schaden
-entstehen wird.
+Unfortunately, we no longer have any way
+of finding out what happened to the scout
+ship. I hope for your sake that your failure
+will not cause any greater damage.
 [Mission37A]
-Wie uns aus sicherer Quelle berichtet wurde, ist
-die @schiff@ aus @land@ ausgelaufen. Dieses
-Schiff wurde vor einigen Monaten einer
-einflußreichen Persönlichkeit gestohlen.
-šberreicht uns das Schiff bis längstens @zeit@
-in @zielhafen@.
+As we have been informed by a reliable source,
+the @schiff@ has left @land@. This ship was
+stolen from an influential person a few months
+ago. Please hand the ship over to us by @zeit@
+at the latest in @zielhafen@.
 [Mission37E]
-Die Gemter haben sich wieder beruhigt und in
-höheren Kreisen ist man sehr zufrieden. Deshalb
-wurde entschieden, Euch eine Belohnung von
-@lohngeld@ Gold zu gewähren.
+Tempers have calmed down again and people
+in higher circles are very satisfied.
+Therefore, it has been decided to grant you
+a reward of @lohngeld@ gold.
 [Mission37F]
-Euer Versagen hat einige Gemter erhitzt. Um
-diese wieder zu beruhigen, erwartet man von
-Euch eine Wiedergutmachung in einer Höhe von
-@strafegeld@ Gold.
+Your failure has inflamed some tempers. To calm
+them down, you are expected to make amends in
+the amount of @strafegeld@ gold.
 [Mission39A]
-Die heilige Kirche hat ein Anliegen. Sie wnscht
-einen hochverdienten Geistlichen von
-@starthafen@ bis längstens @zeit@ nach
-@zielhafen@, zu seiner neuen Bestimmung reisen
-zu lassen. Bereitet ihm diese Reise so angenehm
-als möglich.
+The Holy Church has a request. It wishes to
+allow a highly worthy clergyman to travel from
+@starthafen@ to @zielhafen@ by @zeit@ at the
+latest. Make his journey as pleasant as possible.
 [Mission39E]
-Seine Eminenz hat sich in den wohlwollensten
-Tönen ber Euch geäußert. Wir möchten uns,
-fr dieses Entgegenkommen Eurerseits, mit
-diesem Beutel, gefllt mit @lohngeld@ Gold,
-erkenntlich zeigen. 
+His Eminence has spoken of you in the most
+benevolent tones. We would like to show our
+gratitude for this courtesy on your part
+with this bag filled with @lohngeld@ gold.
 [Mission39F]
-Selbst einen solch einfachen Auftrag seid Ihr
-nicht in der Lage auszufhren. Kein Gold der
-Welt wird uns diesen Verlust ersetzen, doch seid
-Euch dessen gewiss! Ihr habt Euer Seelenheil in
-die Waagschale geworfen.
+You are not even capable of carrying out
+such a simple task. No amount of gold in
+the world will compensate us for this loss,
+but rest assured of this! You have put your
+soul's salvation on the line.
 [Mission40A]
-Seine Majestät, der Prinz, haben ein Bildnis eines
-wunderschönen Mädchens aus @starthafen@ zu
-Gesicht bekommen. Ihr sollt nun diese edle
-Jungfer zu ihm bringen. Begebt Euch eiligst dort
-hin und bring sie bis spätestens @zeit@ nach
-@zielhafen@.  
-[Mission40F]
-Ihr seid kein Mensch, Ihr seid der Leibhaftige!
-Wie konntet Ihr es zulassen, daß die Maid nicht
-rechtzeitig angekommen ist? In seinem Schmerz
-läßt der Prinz die Festung in @bshafen@
-niederbrennen.
-[Mission02E]
-As a reward for your trouble you shall receive
-a ship through which we give our thanks as well.
-This ship can be found in @bshafen@. It is
-now possible to build a large wall around
-@zielhafen@ and the port will be safe then.
-[Mission02F]
-The money came too late. The storm raged
-in the harbor and damaged many ships. We will
-ask a more reliable Captain for their help next
-time. Do not expect a reward for this mission!
+His Majesty the Prince has seen a portrait
+of a beautiful girl from @starthafen@. You
+are now to bring this noble maiden to him.
+Go there as quickly as possible and bring
+her to @zielhafen@ by @zeit@ at the latest.
 [Mission40E]
-Der Prinz veranlasste den Ausbau der Festung in
-@bshafen@. Ihr habt zwei Menschen sehr
-glcklich gemacht.
+The prince ordered the expansion of the fortress
+in @bshafen@. You have made two people very happy.
+[Mission40F]
+You are not human, you are the devil himself!
+How could you allow the maid not to arrive on
+time? In his pain, the prince has the fortress
+in @bshafen@ burned down.
 [Mission41A]
-Da in @zielhafen@ die Pelzmäntel ausgegangen
-sind, msst Ihr euch sputen, den armen
-Frierenden neue Pelzmäntel aus @starthafen@ zu
-bringen. Sie werden wohl nicht mehr länger als
-bis @zeit@ durchhalten.
+Since @zielhafen@ has run out of fur coats,
+you must hurry to bring new fur coats to the
+poor freezing people from @starthafen@. They
+probably won't last much longer than @zeit@.
 [Mission41E]
-Da den armen Frierenden in @zielhafen@ jetzt
-warm ums Herz ist, und Ihr Eure Aufgabe
-erfllt habt, gewähren wir Euch die Gunst, daß
-eine Eurer Flotten in @bshafen@ von uns
-ausgerstet wird.
+Since the poor freezing people in @zielhafen@
+now have warm hearts and you have fulfilled
+your task, we grant you the favor of equipping
+one of your fleets in @bshafen@.
 [Mission41F]
-Da die Bevölkerung in @zielhafen@ nun noch
-mehr friert, wird eines Eurer Schiffe im Hafen
-@bshafen@ in kleine Stcke zerhackt, nach
-@zielhafen@ befördert und als Brennholz
-verwendet.
+Since the population in @zielhafen@ is now
+freezing even more, one of your ships in the
+harbor @bshafen@ will be chopped into small
+pieces, transported to @zielhafen@ and used as firewood.
 [Mission42A]
-Wie uns zu Ohren gekommen ist, werden in
-@zielhafen@ Brger unseres Landes zu
-schmachvollen Frondiensten gezwungen. Begebt
-Euch mit einer gut ausgersteten Kriegsflotte
-dorthin und setzt dem schändlichen Treiben bis
-spätestens @zeit@ ein Ende.
-
-
+We have heard that citizens of our country
+are being forced into shameful forced labor in
+@zielhafen@. Go there with a well-equipped war
+fleet and put an end to this shameful activity
+by @zeit@ at the latest.
 [Mission42E]
-Ihr seid ein Held! Hunderte, aus grausamer
-Knechtschaft befreite Brger haben eine Petition
-unterzeichnet, nach der die Festung in
-@bshafen@ nach unserem Gutdnken ausgebaut
-wird.
-
+You are a hero! Hundreds of citizens freed
+from cruel bondage have signed a petition
+demanding that the fortress in @bshafen@ be
+expanded according to our discretion.
 [Mission42F]
-Wir wrden an Eurer Stelle unseren Wirkungs
-kreis in ein anderes Gewässer verlegen. Die auf
-gebrachten Angehörigen der armen geknechteten
-Seelen, die Ihr nicht befreien konntet, laufen
-Amok. Hinterlegt @strafegeld@ Gold bei uns
-und wir werden die Massen zu beruhigen
-wissen.
+If we were you, we would move our sphere
+of influence to another body of water.
+The angry relatives of the poor enslaved
+souls that you could not free are running
+amok. Deposit @strafegeld@ gold with us and
+we will know how to calm the masses.
 [Mission43A]
-Einer der grausamsten Piraten konnte aus seinem
-Verließ in @land@ befreit werden. Er macht nun
-die Region mit seiner gefrchteten @schiff@ aus
-der @flotte@ unsicher. šbergebt den Unhold bis
-@zeit@ den Btteln in @zielhafen@. Es wird
-Euer Schaden nicht sein.
+One of the cruelest pirates has been freed from
+his dungeon in @land@. He is now making the
+region unsafe with his fearsome @schiff@ from
+the @flotte@. Hand the monster over to the
+minions in @zielhafen@ by @zeit@. You will not
+regret you support.
 [Mission43E]
-Der Herr sei gepriesen! Dank Euch haben wir
-uns einer weiteren Geißel der Meere entledigt.
-Wir möchten Euch unsere Dankbarkeit mit dieser
-kleinen Truhe, gefllt mit @lohngeld@ Gold,
-beweisen.
+Praise the Lord! Thanks to you, we have gotten
+rid of another scourge of the seas. We would
+like to show our gratitude with this little
+chest filled with @lohngeld@ gold.
 [Mission43F]
-Welche Schande, welch Schmach! Wie konntet
-Ihr nur so versagen. Eines Eurer Schiffe in
-@bshafen@ soll unsere Enttäuschung ein wenig
-lindern. Ihr drft Euch zurckziehen.
+What a shame, what a disgrace! How could you
+fail us like that? One of your ships in
+@bshafen@ should ease our disappointment
+a little. You may withdraw.
 [Mission44A]
-Ein Schiff mit wertvollem Geschmeide wartet in
-@starthafen@ auf Euer Geleit. Begleitet es und
-bringt es innerhalb bis längstens @zeit@ sicher
-nach @zielhafen@. Es soll Euer Schaden nicht
-sein.
+A ship with valuable jewelry is waiting for
+your escort in @starthafen@. Accompany it
+and bring it safely to @zielhafen@ before @zeit@.
+You will be rewarded handsomely.
 [Mission44E]
-Durch Euren Geleitschutz ist das Schiff sicher
-in @zielhafen@ angekommen. Dafr sollt Ihr
-frstlich mit @lohngeld@ Gold belohnt werden.
+Thanks to your escort, the ship arrived safely
+at @zielhafen@. For this you will be rewarded
+handsomely with @lohngeld@ gold.
 [Mission44F]
-Da uns durch Euer Versagen ein erheblicher
-Schaden entstanden ist, habt Ihr mit Eurem
-Vermögen fr diesen Schaden einstehen. Euch
-wird daher @strafegeld@ Gold genommen.
+Since your failure has caused us considerable
+damage, you are responsible for this damage
+with your assets. You will therefore be
+deprived of @strafegeld@ gold.
 [Mission45A]
-In @zielhafen@ werden die Ländereien ständig
-von Eingeborenen angegriffen. Fahrt nach
-@starthafen@, nehmt dort Soldaten an Bord und
-begebt Euch zur Untersttzung der Bevölkerung
-nach @zielhafen@. Zur Erfllung dieser Aufgabe
-habt Ihr bis @zeit@ Zeit.
+In @zielhafen@ the lands are constantly being
+attacked by natives. Travel to @starthafen@,
+take soldiers on board and go to @zielhafen@
+to support the population. You have until
+@zeit@ to complete your task.
 [Mission45E]
-Durch die vorzgliche Erfllung Eurer Aufgabe
-habt Ihr Euch eine neue Produktionsstätte in
-@bshafen@ erwirkt. Benutzt sie fleißig, um zu
-weiterem Wohlstand zu kommen.
+By completing your task excellently, you have
+acquired a new production facility in @bshafen@.
+Use it diligently to achieve further prosperity.
 [Mission45F]
-Da es Euch nicht möglich war, die gestellte
-Aufgabe zu erfllen, wurde auf höchstem
-Beschluß eine Eurer Produktionsstätten in
-@bshafen@ niedergebrannt. Dies soll Euch immer
-daran erinnern, angenommene Aufträge nicht
-nachlässig zu erfllen.
+Since you were unable to complete the task
+assigned to you, one of your production
+facilities in @bshafen@ was burned down by
+the greater power. This should always
+remind you not to be negligent in fulfilling
+accepted orders.
 [Mission46A]
-Der Feind ist uns zu mächtig geworden. Rstet
-eine Kriegsflotte aus und greift unsere Feinde in
-@zielhafen@ bis spätestens @zeit@ an.
+The enemy has become too powerful for us. Equip
+a war fleet and attack our enemies in @zielhafen@
+by @zeit@ at the latest.
 [Mission46E]
-Trotz Eurer Verluste ist es Euch gelungen,
-unsere Gegner in Ihre Schranken zu verweisen.
-Als Zeichen unseres Dankes werden wir Euch
-die Festung im Hafen von @bshafen@ ausbauen.
+Despite your losses, you managed to keep our
+opponents in check. As a token of our gratitude,
+we will expand the fortress in the port of @bshafen@.
 [Mission46F]
-Da es Euch trotz Eurer Stärke nicht gelungen
-ist, den Gegner zu schwächen und seine Macht
-zu brechen, wird Euch zur Strafe die Festung in
-@bshafen@ niedergebrannt.
+Since, despite your strength, you have not
+succeeded in weakening the enemy and breaking
+his power, the fortress in @bshafen@ will be
+¨burned down as punishment.
 [Mission47A]
-Ein enger Vertrauter Ihrer Majestät hat sich als
-bler Schurke und Spion enttarnt. Er ist aus
-einem Hafen in @land@ mit der @flotte@ in See
-gestochen. Bringt die @schiff@ auf, legt dieses
-Subjekt in Ketten und bringt ihn nach
-@zielhafen@. Wir erwarten Eure Rckkehr bis
-@zeit@.
+A close associate of Her Majesty has revealed
+himself to be an evil scoundrel and spy. He set
+sail from a port in @land@ with the @flotte@.
+Capture the @schiff@, place this subject in
+chains and bring him to @zielhafen@. We expect
+your return by @zeit@.
 [Mission47E]
-Durch Euren Sprsinn und Wagemut ist uns
-nun möglich ein Exempel zu statuieren. Eure
-Leistung soll uns eine neue Produktionsstätte in
-@bshafen@ wert sein.
+Thanks to your ingenuity and daring, we are now
+able to set an example. Your achievement should
+be worth a new production facility in @bshafen@.
 [Mission47F]
-Wir mssen uns wirklich fragen was in Euch
-gefahren ist? Wie könnt Ihr es nur wagen nach
-einer solch lächerlichen Leistung wieder unter
-unsere Augen zu treten? Wir fordern ein Schiff
-in @bshafen@ als Wiedergutmachung von Euch.
-Nun geht uns aus den Augen.
+We really have to ask ourselves what has gotten
+into you? How dare you come before our eyes
+again after such a ridiculous performance? We
+demand a ship in @bshafen@ as compensation from
+you. Now get out of our sight.
 [Mission48A]
-Der Statthalter von @starthafen@ hat uns eine
-Bronzestatue zum Geschenk gemacht. Begebt
-Euch sofort dorthin und nehmt die Statue in
-Empfang, Bringt sie danach sofort nach
-@zielhafen@. Um die diplomatischen Beziehungen
-nicht zu gefährden, drft Ihr dafr nicht länger
-als bis @zeit@ benötigen.
+The governor of @starthafen@ has given us
+a bronze statue as a gift. Go there immediately
+and collect the statue. Then bring it straight to
+@zielhafen@. In order not to endanger diplomatic
+relations, you must not take longer than @zeit@
+to do this.
 [Mission48E]
-Ihr habt den Auftrag zu unserer vollsten
-Zufriedenheit ausgefhrt. Euch wird der Lohn in
-Höhe von @lohngeld@ Gold ausgehändigt.
+You have completed the task to our complete
+satisfaction. You will be paid @lohngeld@ gold.
 [Mission48F]
-Wir können nur hoffen, daß die durch Euch
-entstandenen politischen Komplikationen keine
-größeren Auswirkungen haben. Als
-Entschädigung fr Euer Unvermögen erwarten
-wir die Summe von @strafegeld@ Gold.
+We can only hope that the political
+complications you have caused will
+not have major consequences. As
+compensation for your incompetence,
+we expect the sum of @strafegeld@ gold.
 [Mission49A]
-Ihr mßt den Botschafter von @starthafen@ vor
-dem Mob retten. Bringt ihn in das sichere
-@zielhafen@. Beeilt Euch, denn die Zeit ist
-knapp. Er muß bis spätestens @zeit@ dort
-ankommen.
+You must save the ambassador from @starthafen@
+from the mob. Bring him to the safety of
+@zielhafen@. Hurry up, because time is short.
+He must arrive there by @zeit@ at the latest.
 [Mission49E]
-Die Rettung ist gelungen! Unser Dank und
-unsere Wertschätzung sei Euch gewiß  Eine
-Werft im Hafen von @bshafen@ soll Euch
-errichtet werden.
+The rescue was successful! You can be sure
+of our thanks and our appreciation. A shipyard
+will be built for you in the port of @bshafen@.
 [Mission49F]
-Ein wichtiger Mann war nicht an seinem Platz,
-als man ihn dringend benötigte. Die Folgen sind
-noch gar nicht abzusehen. Fr diese Schmach
-und Ungewissheit soll Euch die Werft in
-@bshafen@ abgebrannt werden
+An important man was not in his place when he
+was urgently needed. The consequences are not
+yet foreseeable. For this disgrace and uncertainty,
+the shipyard in @bshafen@ should be looted.
 [Mission50A]
-Da Ihr fr Eure Verschwiegenheit bekannt seid,
-sollt Ihr ein Geheimdokument vom Gouverneur
-in @starthafen@ zu dem Großinquisitor in
-@zielhafen@ bringen. Da die Angelegenheit von
-großer Dringlichkeit ist, habt Ihr zu deren
-Erfllung nur bis @zeit@ Zeit.
+Since you are known for your secrecy, you are
+to bring a secret document from the governor in
+@starthafen@ to the Grand Inquisitor in
+@zielhafen@. Since the matter is of great
+urgency, you only have until @zeit@ to
+complete it.
 [Mission50E]
-Lob und Dank des Gouverneurs sei Euch zu
-berbringen. Als Lohn fr Eure Bemhungen soll
-ich Euch diesen Beutel mit @lohngeld@ Gold
-berreichen. 
+The governor's praise and thanks are to be
+conveyed to you. As a reward for your
+efforts, I am to give you this bag of
+@lohngeld@ gold.
 [Mission50F]
-Der Gouverneur tobt und verlangt Eure
-Absetzung. Wir haben ihn jedoch mit einer
-Summe Gold beschwichtigen können. Darum
-mßt Ihr jetzt @strafegeld@ Gold an uns
-entrichten.
+The governor is furious and is demanding
+your removal. However, we were able to
+appease him with a sum of gold. Therefore,
+you must now pay us @strafegeld@ gold.
 [Mission51A]
-Die Steuereinnahmen von @starthafen@ waren
-ungewöhnlich hoch. Da die Kapazität des Schiffs
-unseres Steuereintreibers nicht ausreicht, werdet
-Ihr gebeten, den Rest der Steuern nach
-@zielhafen@ zu bringen. Hierfr wird Euch bis
-@zeit@ Zeit gelassen.
+The tax revenue from @starthafen@ was unusually
+high. Since the capacity of our tax collector's
+ship is insufficient, you are requested to bring
+the rest of the taxes to @zielhafen@. You will
+be given until @zeit@ to do this.
 [Mission51E]
-Da die Krone nun vieler Geldsorgen enthoben ist,
-sollt Ihr auch etwas von den Steuer profitieren.
-Als Dank erhaltet Ihr @lohngeld@ Gold.
+Since the crown is now free of many financial
+worries, you should also benefit from the taxes.
+As a thank you, you will receive @lohngeld@ gold.
 [Mission51F]
-Ihr habt der Krone hohen finanziellen Schaden
-zugefgt. Wenn Ihr dem Schuldturm entgehen
-wollt, dann bergebt dem Schatzmeister
-unverzglich @strafegeld@ Gold.
+You have caused great financial damage to
+the crown. If you wish to escape the debtor's
+tower, then immediately hand over @strafegeld@
+gold to the treasurer.
 [Mission52A]
-Wir haben einen Transport mit Gefangenen in
-@starthafen@, der nach @zielhafen@ geleitet
-werden muß, um die Männer dort der
-Zwangsarbeit zuzufhren. Da diese Arbeitskräfte
-schon verzweifelt erwartet werden, habt Ihr fr
-diesen Geleitschutz nur bis @zeit@ Zeit.
+We have a transport of prisoners in @starthafen@
+that must be escorted to @zielhafen@ to take
+the men there for forced labor. Since these
+workers are already desperately awaited, you only
+have until @zeit@ to escort them.
 [Mission52E]
-Euer Ruf eilt Euren Taten voraus. Kein
-Freibeuter scheint Euren Kanonen gewachsen.
-Aufgrund der geringen Verluste von Sträflingen
-und der schnellen šberfhrung, gewähren wir
-Euch die Gunst eines neuen Schiffes im Hafen
-von @bshafen@.
+Your reputation precedes your actions.
+No privateer seems to be a match for your
+cannons. Due to the low loss of convicts
+and the quick transfer, we grant you
+the favor of a new ship in the port
+of @bshafen@.
 [Mission52F]
-Euer Versagen reizt uns, Euch anstelle der
-Sträflinge in den Zwangsdienst zu senden. Ihr
-schuldet uns aber gnädigerweise nur ein Schiff.
-Deshalb nehmen eines Eurer Schiffe im Hafen
-von @bshafen@. Begleicht diese Rechnung, und
-wir lassen Euch ziehen.
+Your failure tempts us to send you into forced
+service instead of the convicts. But you
+graciously only owe us one ship. Therefore,
+we will take one of your ships in the port
+of @bshafen@. Settle this bill and we will
+let you go.
 [Mission53A]
-Einer unserer Häfen wird in letzter Zeit immer
-öfter vom Feind aus @land@ heimgesucht. Die
-völlig eingeschchterte Bevölkerung benötigt
-schnellstens Eure Hilfe. Ihr mßt den Gegner bis
-@zeit@ gefunden und seine @flotte@ vernichtet
-haben
+One of our ports has been increasingly attacked
+by the enemy from @land@ recently. The completely
+intimidated population needs your help as soon
+as possible. You must have found the enemy by
+and sunk his @fleet@ by @zeit@.
 [Mission53E]
-Gut gemacht! Es wurde uns gemeldet, jemand
-habe die Flotte aufgerieben. Euch zu Ehren wird
-ein Fest gegeben. Außerdem soll diese stattliche
-Börse mit @lohngeld@ Gold Euch gehören.
+Well done! We've been told that someone has
+wiped out the fleet. A celebration will be
+held in your honor. And this impressive purse
+of @lohngeld@ gold will be yours.
 [Mission53F]
-Welch Schmach, welch Gesichtsverlust! Geht mir
-aus den Augen! Nein! Halt! So wisset denn, daß
-wir die Summe von @strafegeld@ Gold als
-Entschädigung annehmen werden. Ich drft Euch
-entfernen!
+What a disgrace, what a loss of face! Get out
+of my sight! No! Stop! Know then that we will
+accept the sum of @strafegeld@ gold as
+compensation. Now remove yourself from here!
 [Mission54A]
-In @starthafen@ liegt eine Ladung seltener und
-ausgesuchter Pelzmäntel, die dringend auf eine
-Transportmöglichkeit nach @zielhafen@ wartet.
-Wir hoffen, daß Ihr es vermögt, diese edelen
-Pelze abzuliefern, bevor diese zu Moder werden.
-Wir gewähren Euch dafr bis @zeit@ Zeit.
+There is a shipment of rare and select fur coats
+in @starthafen@ that urgently needs to be
+transported to @zielhafen@. We hope that you will
+be able to deliver these precious furs before
+they become moldy. We will give you until
+@zeit@ to do so.
 [Mission54E]
-Wir sind Euch sehr dankbar. Dieses
-Empfehlungsschreiben zeugt von zufriedener
-Hand. Wir können also davon ausgehen, daß Ihr
-Eure Ladung erfolgreich berbracht habt. So soll
-Euch, aus unseren Beständen, eine Eurer Flotten
-in @bshafen@ ausgerstet werden.
+We are very grateful to you. This letter
+of recommendation is evidence of a satisfied hand.
+We can therefore assume that you have successfully
+delivered your cargo. One of your fleets in
+@bshafen@ will be equipped from our stocks.
 [Mission54F]
-Ihr habt versagt! Das säuerliche Schreiben
-meines Freundes zeugt von Eurer Schandtat ge
-gen die feine Gesellschaft. Ihr werdet fr den
-Verlust aufkommen! Entrichtet an meinen Haus
-hofmeister @strafegeld@ Gold und dann begebt
-Euch aus unseren Augen.
+You have failed! My friend's sour letter
+testifies to your outrage against high
+society. You will pay for the loss! Pay
+the steward @strafegeld@ gold and then
+get out of our sight.
 [Mission55A]
-Die Tochter des Botschafters von @zielhafen@ ist
-entfhrt worden. Man droht die Maid zu
-meucheln, so nicht bis @zeit@ eine Auslösung
-bergeben werde. Wenn Ihr die Gequälte
-innerhalb dieser Zeitspanne errettet, wird Euch
-eine Belohnung zuteil. Die Auslösung liegt fr
-Euch in @starthafen@ bereit.
+The daughter of the ambassador of @zielhafen@
+has been kidnapped. The maiden is threatened
+with murder if a ransom is not handed over by
+@zeit@. If you rescue the tormented woman within
+this time period, you will receive a reward.
+The ransom is waiting for you in @starthafen@.
 [Mission55E]
-Die Jungfrau gelangte, dank Eurer Hilfe,
-wohlbehalten zurck in den elterlichen Schutz.
-Euch soll nun die versprochene Summe von
-@lohngeld@ Gold bergeben werden.
+Thanks to your help, the maiden returned
+safely to her parents' protection.
+The promised sum of @lohngeld@ gold will
+now be handed over to you.
 [Mission55F]
-Wir können dem Herren danken, daß die
-Entfhrer sich, nach Eurem Rettungsversuch,
-noch mit der doppelten Lösegeldsumme
-einverstanden erklärten. Wir erwarten diese
-Summe selbstverständlich von Euch zurck. Sie
-beläuft sich exakt auf @strafegeld@ Gold.
+We can thank the Lord that the kidnappers
+agreed to double the ransom after your rescue
+attempt. We naturally expect this sum back from
+you. It amounts to exactly @strafegeld@ gold.
 [STDLOHN]
 We are extremely satisfied with your help.
 For this you shall be awarded @lohngeld@ gold.
 [STDSTRAFE]
-We simply can not believe that such a renown
+We simply can not believe that such a renowned
 man is capable of such a miserable feat.
 As an punishment, you shall pay a sum of
 @strafegeld@ gold.

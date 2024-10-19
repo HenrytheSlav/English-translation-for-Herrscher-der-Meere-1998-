@@ -20,7 +20,7 @@ Cannons
 [Tonnen]
 Tons
 [sm/h]
-sm/h
+knots
 [Lecks]
 Leaks
 [Die Brigg]
@@ -52,7 +52,7 @@ people and to combat piracy.
 [Die Fleute]
 Flute
 [Erklaerung Fleute]
-The Flute, or Fluyt developed by the Dutch shipbuilders, is
+The Flute, or Fluyt, developed by the Dutch shipbuilders, is
 unlike the Galleon a purely merchant ship. Its outstanding
 efficiency made a significant contribution to the rise of
 Dutch seafaring. It has become a model for the construction

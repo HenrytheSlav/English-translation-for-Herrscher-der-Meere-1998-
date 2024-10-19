@@ -8,7 +8,7 @@ Spices
 [04.Ware]
 Clothing
 [05.Ware]
-Luxury Fabrics
+Fabrics
 [06.Ware]
 Coffee
 [07.Ware]
@@ -16,15 +16,15 @@ Tobacco
 [08.Ware]
 Sugar
 [09.Ware]
-Precious Metals
+Bullion
 [10.Ware]
 Meat
 [11.Ware]
-Weapons
+Weaponry
 [12.Ware]
 Ivory
 [13.Ware]
-Rugs
+Carpets
 [14.Ware]
 Furs
 [15.Ware]
